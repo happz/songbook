@@ -1,0 +1,50 @@
+{meta:artist Hoboes}
+{meta:source https://pisnicky-akordy.cz/hoboes/sedmnact-dnu}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Sedmnact dnu}
+{subtitle: Hoboes}
+
+{comment: Intro: single strum} [Ami] [Dmi] [Ami]
+
+{start_of_verse}
+1. Jak zavo[Dmi]láš,
+   když ti dávno v hrdle [Ami]vyschnul hlas
+   tvůj krk je připravenej [E7]na provaz,
+   kterej se houpá blíž a [Ami]blíž. [Dmi] [Ami]
+
+   Kam zavo[Dmi]láš,
+   když tvoje oči vidí [Ami]pustinu,
+   nejradši lehnul bysis [E7]do stínu
+   jenom kdyby tu ňákej [Ami]byl. [Dmi] [Ami]
+{end_of_verse}
+
+{soc}
+R: Sedmnáct [A7]dnů máš v patách ostrý hochy [Dmi]z patroly,
+   noc beze [G7]snů a pravou ruku furt na [C]pistoli.
+   V hrdle máš [E7]prach a tvůj kůň teď už neví [F]kam má jít,
+   máš asi [E7]strach, jseš ale chlap a despe[Ami]rát. [Dmi] [Ami]
+{eoc}
+
+{start_of_verse}
+2. Jezdci jsou blíž,
+   pustinou jenom dusot kopyt zní,
+   ubal si cigaretu poslední,
+   než zazní obávanej hlas.
+
+   Hands up old boy,
+   bouchačku uchop rukou za hlaveň,
+   ať šerif ví, ze máš furt úroveň,
+   že v očích ještě ocel máš.
+{end_of_verse}
+
+{chorus}
+
+{soc}
+R: Kdo prohrát zná, i když měl předtím v očích temný strach,
+   ten právo má, aby řek šerif o něm: Byl to chlap.
+   Tak naposled pohleď na slunce smutným úsměvem,
+   život je boj a tys ho předčasně prohrál.
+{eoc}
