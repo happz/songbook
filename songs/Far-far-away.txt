@@ -1,0 +1,55 @@
+{meta:artist Slade}
+{meta:source http://www.guitarparty.com/en/song/far-far-away/}
+
+{meta:key Bm}
+{meta:time 4/4}
+
+{title: Far, Far away}
+{subtitle: Slade}
+
+{comment: D-DU-UDU, zmena akordu do U-UDU}
+
+{comment: Intro:}
+[Ami] [G] [Ami] [G] [Ami] [G] [Ami] [G]
+
+{start_of_verse}
+1. I've seen the [Ami]yellow lights go [G]down the Missis[Ami]sippi [G]
+   I've seen the [Ami]bridges of the [G]world and they are for [Ami]real [G]
+   I've had [F]a red light off-the-[G]wrist without me [C]even getting [Ami]kissed
+   It [F]still seems so [G]unreal
+{end_of_verse}
+
+{start_of_verse}
+2. I've seen the morning in the mountains of Alaska
+   I've seen the sunset in the East and in the West
+   I've sang the glory that was Rome and passed the 'Hound Dog' singer's home
+   It still seems for the best
+{end_of_verse}
+
+{soc}
+   And I'm [C]far, [G]far a[Ami]way [Am7] with my [F]head up in the [G]clouds
+   And I'm [C]far, [G]far a[Ami]way [Am7] with my [F]feet down in the [G]crowds
+   Letting [C]loose a[G]round the [Ami]world [Am7] but the [F]call of home is [E7]loud
+   Still as [Ami]loud
+{eoc}
+
+{start_of_verse}
+3. I've seen the Paris lights from high upon Montmartre
+   and felt the silence hanging low in No Man's Land
+   and though those Spanish nights were fine it wasn't only from the wine   
+   It still seems all in hand.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. I've seen the yellow lights go down the Mississippi The Grand Bahama Island stories carry on
+   And though those aligator smiles stay in your memory for a while
+   There still seems more to come
+{end_of_verse}
+
+{chorus}
+
+{chorus}
+
+{comment:Outro same as intro}

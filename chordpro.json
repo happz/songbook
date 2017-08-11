@@ -1,0 +1,143 @@
+{
+   "chordgrid" : {
+      "auto" : false,
+      "show" : 0,
+      "sorted" : false
+   },
+   "chords" : [],
+   "diagnostics" : {
+      "format" : "\"%f\", line %n, %m\n\t%l"
+   },
+   "metadata" : {
+      "keys" : [
+         "title",
+         "subtitle",
+         "artist",
+         "composer",
+         "lyricist",
+         "arranger",
+         "album",
+         "copyright",
+         "year",
+         "key",
+         "time",
+         "tempo",
+         "capo",
+         "duration",
+         "source"
+      ],
+      "separator" : "; ",
+      "strict" : true
+   },
+   "pdf" : {
+      "chordgrid" : {
+         "height" : 6,
+         "hspace" : 3.95,
+         "linewidth" : 0.1,
+         "vcells" : 4,
+         "vspace" : 3,
+         "width" : 6
+      },
+      "chordscolumn" : 0,
+      "chorus" : {
+         "bar" : {
+            "color" : "black",
+            "offset" : 8,
+            "width" : 1
+         },
+         "indent" : 0,
+         "recall" : {
+            "quote" : false,
+            "tag" : "R:",
+            "type" : "comment"
+         }
+      },
+      "columnspace" : 20,
+      "even-odd-pages" : 1,
+      "fontdir" : null,
+      "fonts" : {
+         "chord" : {
+            "name" : "Helvetica-Oblique",
+            "size" : 10
+         },
+         "comment" : {
+            "name" : "Courier-Oblique",
+            "size" : 12,
+            "background": "white"
+         },
+         "tab" : {
+            "name" : "Courier",
+            "size" : 10
+         },
+         "text" : {
+            "name" : "Courier",
+            "size" : 12
+         },
+         "title" : {
+            "name" : "Courier-Bold",
+            "size" : 22
+         },
+         "toc" : {
+            "name" : "Courier",
+            "size" : 11
+         }
+      },
+      "footspace" : 20,
+      "formats" : {
+         "default" : {
+            "footer" : [
+               "%{title}",
+               "",
+               "%{page}"
+            ],
+            "subtitle" : null,
+            "title" : null,
+            "toc-title" : "Table of Contents"
+         },
+         "first" : {
+            "footer" : null
+         },
+         "title" : {
+            "footer" : [
+               "",
+               "",
+               "%{page}"
+            ],
+            "subtitle" : [
+               "",
+               "%{subtitle}",
+               ""
+            ],
+            "title" : [
+               "",
+               "%{title}",
+               ""
+            ]
+         }
+      },
+      "head-first-only" : false,
+      "headspace" : 60,
+      "marginbottom" : 40,
+      "marginleft" : 40,
+      "marginright" : 40,
+      "margintop" : 80,
+      "papersize" : "a4",
+      "showlayout" : false,
+      "spacing" : {
+         "chords" : 1.2,
+         "empty" : 1,
+         "grid" : 1.2,
+         "lyrics" : 1.2,
+         "tab" : 1,
+         "title" : 1.2,
+         "toc" : 1.4
+      },
+      "titles-directive-ignore" : false
+   },
+   "settings" : {
+      "columns" : 1,
+      "lyrics-only" : false,
+      "suppress-empty-chords" : true,
+      "titles" : "left"
+   }
+}

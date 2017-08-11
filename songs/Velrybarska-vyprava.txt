@@ -1,0 +1,60 @@
+{meta:artist Pacifik}
+{meta:source https://pisnicky-akordy.cz/pacifik/velrybarska-vyprava}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Velrybarska vyprava}
+{subtitle: Pacifik}
+
+{comment:Svizne, D-DU-UDU}
+
+{start_of_verse}
+1. [C]Jednou plac' me [F]pres rameno [G7]Johny zvanej [C]Knecht:
+   [Ami]"Mam pro tebe, [Dmi]hochu, v pacu [G7]moc fajnovej [C]kseft!"
+   Objednal hned [F]litr rumu [G7]a pak nezne [C]rval:
+   [Ami]"Sbal se, jedem [Dmi]na velryby, [G7]prej az za po[C]lar."
+{end_of_verse}
+
+{soc}
+R: [:
+     Vyprava [C]velrybarska [F]kolem Gronska [G7]nezdarila [C]se,
+     protoze [Ami]nejeli jsme [Dmi]na velryby, [G7]ale na mro[C]ze.
+   :]
+{eoc}
+
+{start_of_verse}
+2. Briga zvana Mala Kitty kotvi v zatoce,
+   nakladaj' se sudy s rumem, maso, ovoce,
+   vypluli jsme casne zrana, smer severni pol,
+   driv, nez pristav zmizel z oci, kazdej byl namol.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Na lod padla jinovatka, s ni treskutej mraz,
+   hon velryby v kupach ledu, to ti zlomi vaz,
+   na pobrezi misto zenskejch mavaj' tucnaci,
+   v tomhle kraji beztak nemas jinou legraci.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Kdyz jsme domu pripluli, uz psal se pristi rok,
+   starej rejdar povida, ze neda ani flok:
+   "Misto velryb v Gronskym mori zajimal vas grog,
+   tuhle praci zaplatil by asi jenom cvok."
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Tohleto nam nemel rikat, ted to dobre vi,
+   stahli jsme mu kuzi z tela, tomu hadovi,
+   z paluby pak slanej vitr jeho telo smet', chachacha,
+   mame velryb plny zuby, na to vezmi jed.
+{end_of_verse}
+
+{chorus}

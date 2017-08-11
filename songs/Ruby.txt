@@ -1,0 +1,52 @@
+{meta:artist Kenny Rogers}
+{meta:source http://www.scorpexuke.com/song-display.html?song=Ruby.pdf&id=385}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Ruby, don't take your love to town}
+{subtitle: Kenny Rogers}
+
+{comment: Zvolna, D-DU-UDU}
+
+{start_of_verse}
+1. [Tacet]You've painted up your lips and rolled and curled your tinted [G7]hair [Dm]
+   [C]Ruby are you contemplating [F]going out some[G7]where?
+   The [Dm]shadow on the wall tells me the [G7]sun is going down [Dm]
+{end_of_verse}
+
+{soc}
+   Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+{eoc}
+
+{start_of_verse}
+2. It [Dm]wasn't me who started that old [C]crazy Asian war
+   But [Dm]I was proud to go and do my [F]patriotic [G7]chore.
+   And [Dm]yes it's true that I'm not the [G7]man I used to be [Dm]
+{end_of_verse}
+
+{soc}
+   Oh [C]Ru[F]b[Ami]y [Dm] I still need some compa[C]ny.
+{eoc}
+
+{start_of_verse}
+3. [C]It's hard to love a man whose legs are [F]bent and para[G7]lysed [Dm]
+   and the [C]wants and the needs of a woman your age [F]Ruby I rea[G7]lize.
+   But it [Dm] won't be long I've heard them say un[G7]til I’m not around [Dm]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. [C]She's leaving now 'cause I just heard the [F]slamming of the [G7]door
+   the [C]way I know I've heard it slam one [F]hundred times be[G7]fore.
+   And if [Dm]I could move I'd get my gun and [G7]put her in the ground [Dm]
+{end_of_verse}
+
+{soc}
+   Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+{eoc}
+
+{soc}
+   Oh [C]Ru[F]b[Ami]y [Dm] For god's sake turn around.
+{eoc}

@@ -1,0 +1,65 @@
+{meta:artist Miky Ryvola}
+{meta:source https://pisnicky-akordy.cz/miki-ryvola/bedna-vod-whisky}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Bedna vod whisky}
+{subtitle: Miky Ryvola}
+
+{comment:Svizne, D-DU-UDU}
+
+{start_of_verse}
+1. [Ami]Dneska uz mne [C]fory nak [Ami]nejdou pres pys[E7]ky,
+   [Ami]stojim s dlouhou [C]kravatou na [Ami]bedne [E7]vod whis[Ami]ky,
+   stojím s dlouhym [C]vobojkem [Ami]jak stajovej [E7]pinc,
+   tu [Ami]kravatu, co [C]nosim, mi [Ami]navlik' [E7]soudce [Ami]Lync. [A]
+{end_of_verse}
+
+{soc}
+   Tak [A]kopni do ty [D]bedny, at [E7]panstvo nece[A]ka,
+   jsou dlouhy schody [D]do nebe a [E7]streka dale[A]ka
+   do nebeskyho [D]baru, ja [E7]sucho v krku [A]mam,
+   tak kopni do ty [D]bedny, at [E7]na cestu se [A]dam. [Ami]
+{eoc}
+
+{start_of_verse}
+2. Mit tak vsechny bedny od whisky vypity,
+   postavil bych malej dum na louce ukryty,
+   postavil bych malej dum a z vokna koukal ven
+   a chlastal bych tam s Bilem a chlastal by tam Ben.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Kdyby jsi se, hochu, jen porad nechtel rvat,
+   nemusel jsi dneska na tyhle bedne stat,
+   moh' jsi někde v suchu tu svoji whisku pit,
+   nemusel jsi dneska na krku laso mit.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Kdyz jsem stipnul kone a ujel jen par mil,
+   nechtel bezet, dokavad se whisky nenapil,
+   zatracená smula zla, zatracenej pech,
+   kdyz kun cuca whisku jak u potoka mech.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Az kopnes do ty bedny, jak se to delava,
+   do krku mi zvostane jen dirka mrnava,
+   jenom dirka mrnava a k smrti jenom krok,
+   ma to smutnej konec, a whisky ani lok.
+{end_of_verse}
+
+{soc}
+   Tak kopni do ty bedny, at panstvo neceka,
+   jsou dlouhy schody do nebe a streka daleka
+   do nebeskyho baru, ja sucho v krku mam,
+   tak kopni do ty bedny!
+{eoc}

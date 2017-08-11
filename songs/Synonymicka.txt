@@ -1,0 +1,91 @@
+{meta:artist Kryl, Karel}
+{meta:source https://pisnicky-akordy.cz/karel-kryl/synonymicka}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Synonymicka}
+{subtitle: Karel Kryl}
+
+{comment: D-DU-UDU}
+
+{start_of_verse}
+{comment: Uderne, pochod:}
+
+1. [Ami]Armada miru [G]proudi uli[Ami]cemi,
+   na lici usmev, [G]vlajky v pravi[Ami]cich,
+
+   [:
+     [G]veslari v siku s [F]osmivesli[C]cemi,
+     [Dmi]vapenici s [Ami]vapnem [E7]na nohavi[Ami]cich.
+   :]
+
+{comment:Jemne, pianko:}
+
+   A [F]ja jdu [G]s nimi a jsem [C]dojatej [Ami]
+   a [F]samou [G]radosti bych [C]juchal, [Ami]
+   [F]ac zcela lysy - prece [Ami]chlupatej,
+   [F]ac bez ci[E7]chu - jsem prece [Ami]cmuchal.
+{end_of_verse}
+
+{start_of_verse}
+2. Armada kraci ve volani slavy
+   s praporem miru v boji kalenem,
+   [: hasici v prilbach, lide z lesni spravy,
+      za nimi jde vojsko v sate zelenem. :]
+
+   A ja jdu s nimi v masce mazaka,
+   a ja jdu s nimi jako hajnej,
+   mne v knastu znaji jako bonzaka
+   a v civilu jsem proste tajnej.
+{end_of_verse}
+
+{start_of_verse}
+3. Jde predvoj zitrka v sate uredniku,
+   vzdy hledet vpred a nikdy dozadu!
+   [: Jdu s nimi tez, ac stojim na chodniku,
+      na vychazku kracim, nebo do sadu. :]
+
+   Po parcich slidim, hraju hlidace,
+   nechteje, abych nakou slizl,
+   ja nosim hrde jmeno praskace
+   a moje prijmeni je fizl.
+{end_of_verse}
+
+{new_page}
+
+{start_of_verse}
+4. Nesmis se dati spatnou cestou zlakat,
+   nas novy svet se zitra narodi,
+   [: posiluj mir, jen tak se muzes flakat,
+      k shaneni ma cas jen ten, kdo marodi. :]
+
+   V cekarne tise vrci vysavac,
+   to cisti uklizecka behoun,
+   nekdo mne zna pod jmenem udavac
+   a jiny pod prezdivkou spehoun.
+{end_of_verse}
+
+{start_of_verse}
+5. Armada miru: miliony strycku,
+   tisice znamych: sami zlodeji,
+   [: zarivy zastup malych zlodejicku
+      vitajicich prichod novych nadeji. :]
+
+   A ja jdu s nimi, nejsem outsider,
+   ac sedim v baru, piju tramin,
+   ja ziskal profil jako Brettschneider
+   a dneska rikaji mi KaMin.
+{end_of_verse}
+
+{start_of_verse}
+6. Nadesel cas a voni galejemi,
+   jsme predvoj lidu, panstvo z podruhu,
+   [: pochoden pupku, bachor s idejemi,
+      pro tebe a pro mne, pro nas, soudruhu! :]
+
+   Kdo nejde s nami, ten je rozvracec,
+   kdo proti nam, je lump a bridil,
+   jde s nami spicl, speh a donasec,
+   konfident, informant a slidil!
+{end_of_verse}

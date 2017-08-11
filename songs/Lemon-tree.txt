@@ -1,0 +1,73 @@
+{meta:artist Fool's Garden}
+{meta:source http://ukulelecheats.com/fools-garden-lemon-tree-ukulele-chords/#}
+
+{meta:key Am}
+{meta:time 4/4}
+
+{title: Lemon tree}
+{subtitle: Fool's Garden}
+
+{comment: D-DU-UDU}
+
+{comment: Intro:}
+
+[Ami] [Emi] [Ami] [Emi] [Dm] [Emi] [Ami]
+
+{start_of_verse}
+1. [Ami]I’m sitting here in the[Emi]boring room
+   It’s [Ami]just another rainy Sunday [Emi]afternoon
+   I’m [Ami]wasting my time I got [Emi]nothing to do
+   I’m [Ami]hanging around I’m [Emi]waiting for you
+   But [Dm]nothing ever happen[Emi]s and I [Ami]wonder
+{end_of_verse}
+
+{start_of_verse}
+2. I’m driving around in my car
+   I’m driving too fast I’m driving too far
+   I’d like to change my point of view
+   I feel so lonely I’m waiting for you
+   But nothing ever happens and I wonder
+{end_of_verse}
+
+{soc}
+R: I [C]wonder how, I [G]wonder why
+   [Ami]Yesterday you told me ’bout the [Emi]blue blue sky
+   And [F]all that I can [G]see is just a yellow le[C]mon-tree [G]
+   I’m [C]turning my head [G]up and down
+   I’m [Ami]turning turning turning turning [Emi]turning around
+   And [F]all that I can [D]see is just another le[G]mon-tree
+{eoc}
+
+{comment: Intro & sing "Dah... Dadada..."}
+
+{start_of_verse}
+3. I’m sitting here, I miss the power
+   I’d like to go out taking a shower
+   But there’s a heavy cloud in side my head
+   I feel so tired put my self into bed
+   While nothing ever happens and I wonder
+{end_of_verse}
+
+{comment: Bridge:} 
+
+[E7]Isolation [Ami]is not good for me
+[G]Isolation [C]I don’t want to [E7]sit on the lemon-tree
+
+{start_of_verse}
+4. I’m steppin’ around in the desert of joy
+   Baby anyhow I’ll get another toy
+   And everything will happen and you’ll wonder
+{end_of_verse}
+
+{chorus}
+
+{comment: Bridge:}
+
+   [G]And I wonder, wonder
+
+   I [C]wonder how, I [G]wonder why
+   [Ami]Yesterday you told me ’bout the [Emi]blue blue sky
+   And [F]all that I can [G]see
+   And [F]all that I can [G]see
+   And [F]all that I can [G]see
+   Is just a yellow le[C]mon-tree

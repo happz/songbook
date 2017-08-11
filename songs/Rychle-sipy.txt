@@ -1,0 +1,55 @@
+{meta:artist Wabi Ryvola}
+{meta:source https://pisnicky-akordy.cz/wabi-ryvola/rychle-sipy}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Rychle Sipy}
+{subtitle: Wabi Ryvola}
+
+{comment: Rozvazne, D-DU-UDU}
+
+{start_of_verse}
+1. [Ami]Muj zivot je hned plny nesnazi,
+   [D]na jare kdyz duben prichazi,
+   ja [F]vracim se do povalecnejch let,
+   kdy [Ami]vychazel nas stary dobry Vpred,
+
+   ja [C]zluty kvitek za klopu si dam
+   a [Dmi]pisen Vontu tise zabroukam,
+   do [G]Stinadel se serem vypravim,
+   snad [Ami]potkam cestou Losnu, co ja [E7]vim.
+{end_of_verse}
+
+{start_of_verse}
+2. Duniva Katerina buraci
+   a Siroko ma davno po praci,
+   jen ja se vracim Mysi pasti sam,
+   nevim, co s jezkem v kleci delat mam.
+
+   Bohous,Dlouhe Bidlo, Stetinac,
+   pan Fiser pustil z okna kvetinac,
+   Jan Tleskac, Jiri Ryban a tak dal,
+   pan Foglar tohle nikdy nenapsal.
+{end_of_verse}
+
+{start_of_verse}
+3. To Rychle sipy sami byli v nas
+   a zluty kvitek symbolem byl kras,
+   co nemuze nam nikdy nikdo vzit,
+   kdo kopal studnu, aby druhej moh pit.
+
+   Snad jednou az se jaro navrati,
+   muj zivot pisen Vontu obrati,
+   ja svobodny a cisty pujdu dal
+   a smesny bude ten. kdo se mi smal.
+{end_of_verse}
+
+{start_of_verse}
+4. Tak Mirek Dusin s Cervenackem jdou
+   a Jindra Hojer s Jarkou Metelkou,
+   za nima Rychlonozka s Bublinou,
+   nasi krasnou chlapeckou krajinou.
+{end_of_verse}
+
+[C]Duj, [G]duj, [F]duj, [pauza] fujaro [Ami]vitezna.

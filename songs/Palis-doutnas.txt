@@ -1,0 +1,55 @@
+{meta:artist Traband}
+{meta:source http://www.traband.net/texty/palis.htm}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Palis, doutnas, nehoris}
+{subtitle: Traband}
+
+{comment: Zvolna, D-DU-UDU}
+
+{start_of_verse}
+Mas [C]pro vsechno svy [Dmi]duvody a [F]jasnou odpo[C]ved
+A [C]kolem tvyho [Dmi]mega-ega [F]otaci se [G]svet
+[C]Vedes reci o [Dmi]svobode, ale [F]mas kolem sebe [G]mriz
+[Ami]Palis, [Emi]doutnas, [F] neho[C]ris 
+{end_of_verse}
+
+{start_of_verse}
+Tvi architekti spasy ti postavili dum
+A v nem haji tvoje lacine evangelium
+Co na tom, jestli na vlajce mas hvezdu nebo kriz
+Kdyz palis, doutnas, nehoris
+{end_of_verse}
+
+{soc}
+[E7]Jeste porad se mi v noci [Ami]zdava
+[F]Ze te potkavam, ale uz [G]nepoznavam
+{eoc}
+
+{start_of_verse}
+Ten vyslouzily valecnik a dobrak od kosti
+Ted nabizi svou sbirku instantnich neznosti
+A z minulosti prizraky mu stoji u dveri
+Palis, doutnas, nehoris
+{end_of_verse}
+
+{start_of_verse}
+Jedno dite zhyckane, co se chtelo prosadit
+Ted narika, ze bez podrazek v botach nelze jit
+Jsou veci jine na svetle a jine v priseri
+Palis, doutnas, nehoris
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+Vsichni tvi radcove a sarlatani a lzivi proroci
+Ti neprozradi jak se zbavit tajnych nemoci
+Kdyz tvoje srdce prazdny je jak vyjedena spiz
+Palis, doutnas
+Palis, doutnas
+Palis, doutnas
+Nehoris
+{end_of_verse}

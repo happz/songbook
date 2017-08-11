@@ -1,0 +1,55 @@
+{meta:artist The Beautiful South}
+{meta:source https://www.youtube.com/watch?v=F1Q5PqCUCQA}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Don't marry her}
+{subtitle: The Beautiful South}
+
+{comment: D-DU-UDU}
+
+{comment:Intro:}
+
+2x [C] [G] [F] [G] [F] [C] [D] [G]
+
+{start_of_verse}
+1. [C]Think of you with [G]pipe and slippers, [F]think of her in [G]bed,
+   [F]laying there just [C]watching telly then [D]think of me in[G]stead
+   [C]I'll never grow so [G]old and flabby, [F]that could never [G]be
+   [F]Don't marry [G]her, have [C]me
+{end_of_verse}
+
+{start_of_verse}
+2. Your love light shines like cardboard but your work shoes are glistening
+   She's a PHD in 'I told you so', you've a knighthood in 'I'm not listening'
+   She'll grab your Sandra Bullocks and slowly raise the knee
+   Don't marry her, have me
+{end_of_verse}
+
+{soc}
+   And the [C]Sunday sun shines down on San Fran[F]cisco [C]Bay
+   And you [F]realise you can't make it any[C]way
+   You [C]have to wash the car, take the [F]kiddies to the [C]park,
+   [F]Don't marry [G]her, have [C]me
+{eoc}
+
+{start_of_verse}
+3. Those lovely Sunday mornings with breakfast brought in bed
+   Those blackbirds look like knitting needles trying to peck your head
+   Those birds will peck your soul out and throw away the key
+   Don't marry her, have me
+{end_of_verse}
+
+{start_of_verse}
+4. And the kitchen's always tidy and the bathroom's always clean
+   She's a diploma in 'just hiding things', you've a first in 'low esteem'
+   When your socks smell of angels, but your life smells of Brie
+   Don't marry her, have me
+{end_of_verse}
+
+{chorus}
+
+{comment:Intro}
+
+{chorus}

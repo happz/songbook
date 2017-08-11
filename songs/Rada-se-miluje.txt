@@ -1,0 +1,36 @@
+{meta:artist Karel Plihal}
+{meta:source https://pisnicky-akordy.cz/karel-plihal/rada-se-miluje}
+
+{meta:key A}
+{meta:time 6/8}
+
+{title: Rada se miluje}
+{subtitle: Karel Plihal}
+
+{comment: D-DUDU}
+
+{soc}
+R: [Ami]Rada se miluje, [G] rada [C]ji, [F]rada si [Emi]jenom tak [Ami]zpiva,
+   vrabci se na plote [G]hada[C]ji, [F]kolik ze [Emi]casu ji [Ami]zbyva.
+{eoc}
+
+{start_of_verse}
+1. [F]Nez vitr dostrka k [C]utesu [F]tu jeji legracni [C]bar[E7]ku
+   a [Ami]Pambu si ve svym [G]note[C]su [F]udela [Emi]jen dalsi [Ami]carku.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+2. Psano je v nebeske rezii, a to hned na prvni strance,
+   ze nase duse nas preziji v jinaci telesny schrance.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Uplne na konci paseky, tam, kde se ozvena tristi,
+   sedi snek ve snacku pro sneky - snad jeji podoba pristi.
+{end_of_verse}
+
+{chorus}

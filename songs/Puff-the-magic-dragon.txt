@@ -1,0 +1,64 @@
+{meta:artist Peter, Paul and Mary}
+{meta:source http://www.scorpexuke.com/song-display.html?song=Puff_The_Magic_Dragon_Peter_Paul_and_Mary.pdf&id=1372}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Puff the Magic Dragon}
+{subtitle: Peter, Paul and Mary}
+
+{comment: Zvolna, D-DU-UDU}
+
+{start_of_verse}
+1. [G]Puff the magic [Bm]dragon [C]lived by the [G]sea
+   and [C]frolicked in the [G]autumn [Em]mist
+   in a [A]land called Hona[D]lee
+
+   [G]Little Jackie [Bm]Paper [C]loved that rascal [G]Puff
+   and [C]brought him strings and [G]sealing [Em]wax
+   and [A]other [D]fancy [G]stuff [D]oh
+{end_of_verse}
+
+{soc}
+   Puff the magic dragon lived by the sea
+   and frolicked in the autumn mist
+   in a land called Honalee
+
+   Puff the magic dragon lived by the sea
+   and frolicked in the autumn mist
+   in a land called Honalee
+{eoc}
+
+{start_of_verse}
+2. Together they would travel on a boat with billowed sail,
+   Jackie kept a lookout perched
+   on Puff's gigantic tail.
+
+   Noble kings and princes would bow whene'er they came,
+   pirate ships would lower their flags
+   when Puff roared out his name, oh.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. A dragon lives forever but not so little boys,
+   painted wings and giant's rings
+   make way for other toys.
+
+   One grey night it happened Jackie Paper came no more
+   and Puff that mighty dragon he
+   ceased his fearless roar.
+{end_of_verse}
+
+{start_of_verse}
+4. His head was bent in sorrow green scales fell like rain
+   Puff no longer went to play
+   along the cherry lane.
+
+   Without his lifelong friend Puff could not be brave
+   so Puff that mighty dragon sadly
+   slipped into his cave, oh.
+{end_of_verse}
+
+{chorus}

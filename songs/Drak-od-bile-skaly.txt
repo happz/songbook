@@ -1,0 +1,52 @@
+{meta:artist Rangers}
+{meta:source https://pisnicky-akordy.cz/rangers-plavci/drak-od-bile-skaly}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Drak od bile skaly}
+{subtitle: Rangers}
+
+{comment: Zvolna, D-DU-UDU}
+
+{soc}
+   [G]Drak od bile [Bm]skaly byl [C]kdysi mori [G]kral,
+   vsak [C]poslednich par [G]stole[Emi]ti ten
+   [A]drak by si jen [D]hral.
+
+   [G]Drak od bile [Bm]skaly [C]je jen dvouhla[G]vy,
+   vsak [C]hry zna vsechny, [G]co jich [Emi]je,
+   neb [A]vic hlav [D]vice [G]vi. [D]
+{eoc}
+
+{start_of_verse}
+   [G]Tam k te bile [Bm]skale [C]jednou zbloudil [G]kluk,
+   [C]v ocich pet let [G]udi[Emi]vu
+   a [A]v rukou vuni [D]luk,
+
+   [G]od te doby [Bm]stale si [C]chodil s drakem [G]hrat,
+   no[C]sil mu hracky s [G]klicka[Emi]mi
+   a [A]mel ho hrozne [D]rad,
+
+   kdyz [G]pluli spolu [Bm]v morich, na [C]strazi kluk [G]stal,
+   [C]lode vlajky [G]sklane[Emi]ly,
+   kdyz [A]drak jim [D]pozdrav [G]dal. [D]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+   Drak - ten zije stale, ale chlapci starnou dal,
+   hracky, savle, site, mic
+   ustoupi jinym hram,
+
+   leta bezi dale, kluk uz nechodi si hrat,
+   na cestach pak drakovi
+   chybi kamarad.
+
+   Az pujdes k bile skale, kde drak ceka leta uz,
+   rekni: "Draku, pojd si hrat,"
+   at kluk jsi, i kdyz muz.
+{end_of_verse}
+
+{chorus}

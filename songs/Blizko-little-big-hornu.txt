@@ -1,0 +1,49 @@
+{meta:artist Michal Tucny}
+{meta:source https://pisnicky-akordy.cz/michal-tucny/blizko-little-big-hornu?q=little%20big%20horn}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Blizko Little Big Hornu}
+{subtitle: Michal Tucny}
+
+{start_of_verse}
+1. Tam, kde [Ami]lezi Little Big Horn, je indianska zem,
+   tam prijizdi general Custer [Dmi] se svym praporem,
+   mo[Ami]dry kabaty jezdcu, stiny [Dmi]dlouhejch karabin,
+   a [Ami]z indianskejch signalu po nebi leti [A]dym.
+{end_of_verse}
+
+{soc}
+R: [A]Rikal to Jim Bridger: ja mel jsem v noci [E7]sen,
+   pod sedmou kavalerii jak krvi rudne [A]zem,
+   kmen Siouxu je statecny a dobre svuj kraj [D]zna,
+   proc [E7]Custer neposloucha ta [A]slova varovna? [Ami]
+{eoc}
+
+{start_of_verse}
+2. Tam blizko Little Big Hornu sedivou prerii
+   tahne general Custer s sedmou kavalerii,
+   marne mu stopar Bridger radi: zpatky povel dej,
+   jedinou moznost jeste mas, zivot si zachovej.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Tam blizko Little Big Hornu se vznasi smrti stin,
+   padaji jezdci z koni, vystrely z karabin,
+   limce modrejch kabatu barvi krev cervena,
+   kmen Siouxu je statecny a dobre svuj kraj zna.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Pak vsechno ztichlo a jen tamtam duni nad krajem,
+   v oblaku prachu mizi Siouxu vitezny kmen,
+   cary vlajky hvezdnaty po kopcich vitr val,
+   tam uprostred svych vojaku lezi i general.
+{end_of_verse}
+
+{chorus}

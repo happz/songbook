@@ -1,0 +1,49 @@
+{meta:artist Ivan Mladek}
+{meta:source https://pisnicky-akordy.cz/ivan-mladek/jozin-z-bazin}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Jozin z bazin}
+{subtitle: Ivan Mladek}
+
+{start_of_verse}
+1. [Ami]Jedu takhle taborit [E7]Skodou 100 na [Ami]Oravu,
+   specham proto, riskuji, [E7]projizdim pres [Ami]Moravu.
+   [G7]Radi tam to [C]strasidlo, [G7]vystupuje z [C]ba[E7]zin,
+   [Ami]zere hlavne Prazaky a [E7]jmenuje se [Ami]Jo[G7]zin.
+{end_of_verse}
+
+{soc}
+R: [C]Jozin z bazin mocalem se [G7]plizi,
+   Jozin z bazin k vesnici se [C]blizi,
+   Jozin z bazin uz si zuby [G7]brousi,
+   Jozin z bazin kouse, saje, [C]rdousi.
+   [F]Na Jozina z [C]bazin, [G]koho by to napa[C]dlo,
+   [F]plati jen a [C]pouze [G]praskovaci letad[C]lo. [E7]
+{eoc}
+
+{start_of_verse}
+2. Projizdel jsem Moravou smerem na Vizovice,
+   privital me predseda, rek' mi u slivovice:
+   "Ziveho ci mrtveho Jozina kdo privede,
+   tomu ja dam za zenu dceru a pul JZD!"
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Rikam:"Dej mi, predsedo, letadlo a prasek,
+   Jozina ti privedu, nevidim v tom hacek."
+   Predseda mi vyhovel, rano jsem se vznesl,
+   na Jozina z letadla prasek pekne klesl.
+{end_of_verse}
+
+{soc}
+R: Jozin z bazin uz je cely bily,
+   Jozin z bazin z mocalu ven pili,
+   Jozin z bazin dostal se na kamen,
+   Jozin z bazin - tady je s nim amen!
+   Jozina jsem dostal, uz ho drzim, johoho,
+   dobre kazde love, prodam ja ho do ZOO.
+{eoc}

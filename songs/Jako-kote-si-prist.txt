@@ -1,0 +1,50 @@
+{meta:artist Grossmann, Jiri}
+{meta:source http://ukulelefestival.cz/domains/ukulelefestival.cz/application/files/6514/9747/4069/festival-songbook-2017.pdf}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Jako kote si prist}
+{subtitle: Jiri Grossmann}
+
+{comment: D-DU-UDU}
+
+{start_of_verse}
+[C]Mesic snilek [F]stoupa nad ska[C]lou
+a zpiva si svou pisen poma[G7]lou,
+je [C]podobna te, [C7]co jsem slozil [F]sam,
+tak [G7]poslouchej a nehled k hodi[C]nam. [G7]
+{end_of_verse}
+
+{soc}
+Jako [C]kote si prist a vicka mit [C7]zavrena
+[F]una[C]vou,
+malo je mist, kde stare lasky
+[D7] naraz upla[G7]vou,
+[C]jednim z nich je naruc tva,
+a [C7]tudiz mas uz [F]znat,
+[F(m)]ze jak kote si prist a [C]vicka mit zavrena
+[G7]chtel bych [C]rad. [F] [C] [G7]
+{eoc}
+
+{start_of_verse}
+Dnesni noc je stokrat ztrestena
+a doznam, ze jsem stastny, ze te mam,
+uz vitr vlahy stopy bazne sval,
+tak muzu rict, co leta jsem si pral.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+Nevyznam se prilis v lichotkach
+a obcas se tak stydim, ze bych plach',
+za blizky strom se ukryt, a pak vim,
+ze bych septal, ovsem hlasem dunivym:
+{end_of_verse}
+
+{chorus}
+
+{comment: Fade out with:}
+
+[C]Tap ta da... ([F7] [C] [F7] [C] [F7] [C] [F])

@@ -1,0 +1,48 @@
+{meta:artist Dolly Parton}
+{meta:source https://pisnicky-akordy.cz/dolly-parton/jolene}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Jolene}
+{subtitle: Dolly Parton}
+
+{comment: Zvolna, D-DU-UDU}
+
+{soc}
+   Jo[Ami]lene, Jo[C]lene, Jo[G]lene, Jo[Ami]lene
+   I`m [G]begging of you please dont`t take my [Ami]man
+   Jo[Ami]lene, Jo[C]lene, Jo[G]lene, Jo[Ami]lene
+   [G]Please don`t take him [Emi]just because you [Ami]can
+{eoc}
+
+{start_of_verse}
+1. Your [Ami]beauty is be[C]yond compare
+   With fla[G]ming locks of au[Ami]burn hair
+   With i[G]vory skin and [Emi]eyes of emerald [Ami]green
+   Your [Ami]smile is like a [C]breath of spring
+   Your [G]voice is soft like su[Ami]mmer rain
+   And I can[G]not com[Emi]pete with you, Jo[Ami]lene
+{end_of_verse}
+
+{start_of_verse}
+2. He [Ami]talks about you [C]in his sleep
+   There`s [G]nothing I can [Ami]do to keep
+   From [G]crying when he [Emi]calls your name, Jo[Ami]lene
+   And [Ami]I can easily [C]understand
+   How [G]you could easily [Ami]take my man
+   But [G]you don`t know [Emi]what he means to me, Jo[Ami]lene
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. You [Ami]could have your [C]choice of men
+   But [G]I could never [Ami]love again
+   He`s [G]the only [Emi]one for me, Jo[Ami]lene
+   I [Ami]had to have this [C]talk with you
+   My [G]happines de[Ami]pends on you
+   What[G]ever you de[Emi]cide to do, Jo[Ami]lene
+{end_of_verse}
+
+{chorus}
