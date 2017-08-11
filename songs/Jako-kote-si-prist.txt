@@ -10,41 +10,41 @@
 {comment: D-DU-UDU}
 
 {start_of_verse}
-[C]Mesic snilek [F]stoupa nad ska[C]lou
-a zpiva si svou pisen poma[G7]lou,
-je [C]podobna te, [C7]co jsem slozil [F]sam,
-tak [G7]poslouchej a nehled k hodi[C]nam. [G7]
+1. [C]Mesic snilek [F]stoupa nad ska[C]lou
+   a zpiva si svou pisen poma[G7]lou,
+   je [C]podobna te, [C7]co jsem slozil [F]sam,
+   tak [G7]poslouchej a nehled k hodi[C]nam. [G7]
 {end_of_verse}
 
 {soc}
-Jako [C]kote si prist a vicka mit [C7]zavrena
-[F]una[C]vou,
-malo je mist, kde stare lasky
-[D7] naraz upla[G7]vou,
-[C]jednim z nich je naruc tva,
-a [C7]tudiz mas uz [F]znat,
-[F(m)]ze jak kote si prist a [C]vicka mit zavrena
-[G7]chtel bych [C]rad. [F] [C] [G7]
+R: Jako [C]kote si prist a vicka mit [C7]zavrena
+   [F]una[C]vou,
+   malo je mist, kde stare lasky
+   [D7] naraz upla[G7]vou,
+   [C]jednim z nich je naruc tva,
+   a [C7]tudiz mas uz [F]znat,
+   [F(m)]ze jak kote si prist a [C]vicka mit zavrena
+   [G7]chtel bych [C]rad. [F] [C] [G7]
 {eoc}
 
 {start_of_verse}
-Dnesni noc je stokrat ztrestena
-a doznam, ze jsem stastny, ze te mam,
-uz vitr vlahy stopy bazne sval,
-tak muzu rict, co leta jsem si pral.
+2. Dnesni noc je stokrat ztrestena
+   a doznam, ze jsem stastny, ze te mam,
+   uz vitr vlahy stopy bazne sval,
+   tak muzu rict, co leta jsem si pral.
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse}
-Nevyznam se prilis v lichotkach
-a obcas se tak stydim, ze bych plach',
-za blizky strom se ukryt, a pak vim,
-ze bych septal, ovsem hlasem dunivym:
+3. Nevyznam se prilis v lichotkach
+   a obcas se tak stydim, ze bych plach',
+   za blizky strom se ukryt, a pak vim,
+   ze bych septal, ovsem hlasem dunivym:
 {end_of_verse}
 
 {chorus}
 
 {comment: Fade out with:}
 
-[C]Tap ta da... ([F7] [C] [F7] [C] [F7] [C] [F])
+   [C]Tap ta da... ([F7] [C] [F7] [C] [F7] [C] [F])

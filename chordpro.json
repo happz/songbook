@@ -1,9 +1,4 @@
 {
-   "chordgrid" : {
-      "auto" : false,
-      "show" : 0,
-      "sorted" : false
-   },
    "chords" : [],
    "diagnostics" : {
       "format" : "\"%f\", line %n, %m\n\t%l"
@@ -30,14 +25,6 @@
       "strict" : true
    },
    "pdf" : {
-      "chordgrid" : {
-         "height" : 6,
-         "hspace" : 3.95,
-         "linewidth" : 0.1,
-         "vcells" : 4,
-         "vspace" : 3,
-         "width" : 6
-      },
       "chordscolumn" : 0,
       "chorus" : {
          "bar" : {

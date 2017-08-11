@@ -10,7 +10,7 @@
 {comment: Zvolna, D-DU-UDU}
 
 {soc}
-   [G]Drak od bile [Bm]skaly byl [C]kdysi mori [G]kral,
+R: [G]Drak od bile [Bm]skaly byl [C]kdysi mori [G]kral,
    vsak [C]poslednich par [G]stole[Emi]ti ten
    [A]drak by si jen [D]hral.
 

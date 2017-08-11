@@ -20,7 +20,7 @@
 {end_of_verse}
 
 {soc}
-   Puff the magic dragon lived by the sea
+R: Puff the magic dragon lived by the sea
    and frolicked in the autumn mist
    in a land called Honalee
 

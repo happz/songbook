@@ -17,7 +17,7 @@
 {end_of_verse}
 
 {soc}
-   Tak [A]kopni do ty [D]bedny, at [E7]panstvo nece[A]ka,
+R: Tak [A]kopni do ty [D]bedny, at [E7]panstvo nece[A]ka,
    jsou dlouhy schody [D]do nebe a [E7]streka dale[A]ka
    do nebeskyho [D]baru, ja [E7]sucho v krku [A]mam,
    tak kopni do ty [D]bedny, at [E7]na cestu se [A]dam. [Ami]
@@ -58,7 +58,7 @@
 {end_of_verse}
 
 {soc}
-   Tak kopni do ty bedny, at panstvo neceka,
+R: Tak kopni do ty bedny, at panstvo neceka,
    jsou dlouhy schody do nebe a streka daleka
    do nebeskyho baru, ja sucho v krku mam,
    tak kopni do ty bedny!
