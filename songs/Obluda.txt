@@ -1,0 +1,63 @@
+{meta:artist Hop Trop}
+{meta:source https://pisnicky-akordy.cz/hop-trop/obluda}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Obluda}
+{subtitle: Hop Trop}
+
+{start_of_verse}
+1. Jo, [Ami]dveste nas tam bylo na brize do Ciny
+   a [C]furt se jenom pilo, az tuhly ledvi[E7]ny,
+   a [F]kdyz uz bylo k [G]ranu a [C]vsichni pod vo[E7]braz,
+   krik' [Ami]plavcik na stozaru, a [C]hlasek se mu [G]tras':
+{end_of_verse}
+
+{soc}
+R: [C]Ja tady [F]nebudu, [C]ja vidim [F]vobludu,
+   [C]ja vocad [F]pryc pudu, [C]jima me [G]strach,
+   [C]chytte tu [F]vobludu, [C]sezere [F]palubu,
+   [C]tohle je [F]vo hubu, [C]ach, [E7]ich, och, [Ami]ach.
+{eoc}
+
+{start_of_verse}
+2. Ma vocas dveste sahu a ploutev pres hektar
+   a zubu plnou hubu, a rozcvicuje spar
+   a rozcilene mrka svym vokem jedinym,
+   a pachne, rve a krka a z tlamy pousti dym.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Rum kapitanem hazi, chce palit z kanonu,
+   zapomnel, ze ho v zari prochlastal v Kantonu,
+   kdyz uvidel tu bidu, hned zpotil se jak mys,
+   poklekl k kominu, pel: K tobe, Boze, bliz.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Nas kormidelnik chrabry je drsna povaha,
+   zalehl u zabradli a hazel flaskama,
+   kdyz na voblude bouchl kanystr vod ginu, 
+   tu prizrak vztekle houkl a vlitl na brigu.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Tri stezne rozlamala na nasi kocabce,
+   vsak ztuhla jako skala, kdyz cuchla k posadce,
+   pak demon alkoholu ji srazil v ocean,
+   my slezli zase dolu a chlastali jsme dal.
+{end_of_verse}
+
+{chorus}
+
+{comment: Fade out:}
+
+       [Ami]
+   ... ach, ich, och, ach ...
