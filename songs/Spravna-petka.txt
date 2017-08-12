@@ -1,0 +1,63 @@
+{meta:artist Zvlasny skola}
+{meta:source https://pisnicky-akordy.cz/zvlasny-skola/spravna-petka}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Spravna petka}
+{subtitle: Zvlasny skola}
+
+{start_of_verse}
+1. [G]My jsme rychly sipy, zapustime ripy,
+   odtrhnem se [C]vod Foglara, [D]roztocime [G]pipy.
+   [G]Sami pit nebudeme, mame druhy kridlo,
+   prijde Bohous, [C]Stetinac a [D]taky Dlouhy [G]Bidlo.
+{end_of_verse}
+
+{start_of_verse}
+2. Ja jsem Mirek Dusin, nekdy se i vzrusim,
+   a jak mluvim, neverili byste vlastnim usim.
+   Porad nebudeme sedet na prdeli,
+   budem parit, jak to psali v Mladym Hlasateli.
+{end_of_verse}
+
+{soc}
+R: [G]Mirek je jenom [D]jeden, Mi[C]rek je jenom [G]jeden,
+   on zna vsechny [C]prasarny, a [D]tak nas teda [G]vede.
+{eoc}
+
+{start_of_verse}
+3. Kamarad Jindra Hojer kazdou by hned vojel,
+   ted nam lezi na koznim, konecne na to dojel.
+   My ho mame radi a vime ze to umi,
+   az ho pusti domu, koupime mu nejaky gumy.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. A tady Cervenacka maji vsichni radi,
+   porad sedi v klubovne a propiji tam mladi.
+   Pise do Kroniky ruzny statistiky,
+   jinak ani nerozezna kravu vod motyky.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Kdo nam jeste zbejva, treba Rychlonozka,
+   taky je mu jedno jestli Mana, nebo Bozka.
+   Naruzive sbira vajgly a pivni tacky,
+   jinak ma rad skubanky a taky zelny placky.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+6. Ja jsem nejvetsi bedna, Jarka Metelka rika,
+   jestli chces bejt jako ja, tak vyvaruj se mlika.
+   Jsme ta spravna petka, z jedny stary ctvrti
+   zajdete k nam do klubovny, zlejem se jak chrti.
+{end_of_verse}
+
+{chorus}
