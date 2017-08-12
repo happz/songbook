@@ -8,42 +8,42 @@
 {subtitle: Spiritual kvintet}
 
 {start_of_verse}
-1. [D]Jak léta jdou, svět [G]pro mě ztrácí [D]glanc,
-   všichni se rvou a [A7]duši dávaj' všanc
-   a [D]za pár šestáků vás [G]prodaj', věřte [D]mi,
-   už víc nechci mít [G]domov [D]svůj [A7]na [D]zemi!
+1. [D]Jak leta jdou, svet [G]pro me ztraci [D]glanc,
+   vsichni se rvou a [A7]dusi davaj' vsanc
+   a [D]za par sestaku vas [G]prodaj', verte [D]mi,
+   uz vic nechci mit [G]domov [D]svuj [A7]na [D]zemi!
 {end_of_verse}
 
 {soc}
-R: [D]Čas žádá svý a [G]mně se krátí [D]dech,
-   když před kaplí tu [A7]zpívám na schodech
-   svou [D]píseň vo nebi, kde [G]bude blaze [D]mi,
-   už víc nechci mít [G]domov [D]svůj [A7]na ze[D]mi!
+R: [D]Cas zada svy a [G]mne se krati [D]dech,
+   kdyz pred kapli tu [A7]zpivam na schodech
+   svou [D]pisen vo nebi, kde [G]bude blaze [D]mi,
+   uz vic nechci mit [G]domov [D]svuj [A7]na ze[D]mi!
 {eoc}
 
 {start_of_verse}
-2. Po jmění netoužím, jsme tu jen nakrátko,
-   i sláva je jak dým, jak prázdný pozlátko,
-   já koukám do voblak, až anděl kejvne mi,
-   už víc nechci mít domov svůj na zemi!
+2. Po jmeni netouzim, jsme tu jen nakratko,
+   i slava je jak dym, jak prazdny pozlatko,
+   ja koukam do voblak, az andel kejvne mi,
+   uz vic nechci mit domov svuj na zemi!
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse}
-3. Teď říkám "good-bye" světskýmu veselí,
-   těm, co si užívaj', nechci lízt do zelí,
-   jsem hříšná nádoba, však spása kyne mi,
-   už víc nechci mít domov svůj na zemi!
+3. Ted rikam "good-bye" svetskymu veseli,
+   tem, co si uzivaj', nechci lizt do zeli,
+   jsem hrisna nadoba, vsak spasa kyne mi,
+   uz vic nechci mit domov svuj na zemi!
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse}
-4. V určenej čas kytara dohraje,
-   zmlkne můj hlas na cestě do ráje,
-   vo tomhle špacíru noc co noc zdá se mi,
-   už víc nechci mít domov svůj na zemi!
+4. V urcenej cas kytara dohraje,
+   zmlkne muj hlas na ceste do raje,
+   vo tomhle spaciru noc co noc zda se mi,
+   uz vic nechci mit domov svuj na zemi!
 {end_of_verse}
 
 {chorus}
