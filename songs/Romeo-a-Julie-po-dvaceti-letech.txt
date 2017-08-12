@@ -1,0 +1,43 @@
+{meta:artist Traband}
+{meta:source http://www.traband.net/texty/romeo.htm}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Romeo a Julie po dvaceti letech}
+{subtitle: Traband}
+
+{start_of_verse}
+1. [G]Ráno se [D]probouzí [Emi]jako by v jiném čase
+   [G]Kolik je [D]hodin? Ptá se. [Emi]Protáhne se v pase
+   [Ami]Aby se [G]ujistila, [D]dívá se do zrcadla
+   [Ami]Ne, ještě [G}nevyžila. [D]Ne, ještě neuvadla
+{end_of_verse}
+
+{start_of_verse}
+2. Dělám že spím, a zatím tajně ji pozoruji
+   Jak mluví sama k sobě, jak chodí po pokoji
+   Chystá si snídani a rozlije hrnek mléka
+   A kapka za kapkou po stehně jí stéká
+{end_of_verse}
+
+{start_of_verse}
+3. Zestárla vedle mě jak všechno v tomhle bytě
+   Dávno je dospělá a já - věčný dítě
+   Když vidím, jak se češe, když vidím, jak se svléká
+   Říkám si, panebože, co jsem to za člověka?
+{end_of_verse}
+
+Emi D C Emi D C Ami 
+
+{start_of_verse}
+4. Den za dnem, rok za rokem míjí tak jednotvárně
+   Snažím se cítit s ní, většinou ale marně
+   Ona se probouzí, já zůstávám pod peřinou
+   A dny tak jednotvárně, tak jednotvárně plynou
+{end_of_verse}
+
+{start_of_verse}
+5. A dny tak jednotvárně, tak jednotvárně plynou
+   Jestlipak aspoň tuší, že zahýbám jí s jinou?
+{end_of_verse}
