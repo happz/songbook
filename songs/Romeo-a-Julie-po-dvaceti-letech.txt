@@ -8,36 +8,36 @@
 {subtitle: Traband}
 
 {start_of_verse}
-1. [G]Ráno se [D]probouzí [Emi]jako by v jiném čase
-   [G]Kolik je [D]hodin? Ptá se. [Emi]Protáhne se v pase
-   [Ami]Aby se [G]ujistila, [D]dívá se do zrcadla
-   [Ami]Ne, ještě [G}nevyžila. [D]Ne, ještě neuvadla
+1. [G]Rano se [D]probouzi [Emi]jako by v jinem case
+   [G]Kolik je [D]hodin? Pta se. [Emi]Protahne se v pase
+   [Ami]Aby se [G]ujistila, [D]diva se do zrcadla
+   [Ami]Ne, jeste [G}nevyzila. [D]Ne, jeste neuvadla
 {end_of_verse}
 
 {start_of_verse}
-2. Dělám že spím, a zatím tajně ji pozoruji
-   Jak mluví sama k sobě, jak chodí po pokoji
-   Chystá si snídani a rozlije hrnek mléka
-   A kapka za kapkou po stehně jí stéká
+2. Delam ze spim, a zatim tajne ji pozoruji
+   Jak mluvi sama k sobe, jak chodi po pokoji
+   Chysta si snidani a rozlije hrnek mleka
+   A kapka za kapkou po stehne ji steka
 {end_of_verse}
 
 {start_of_verse}
-3. Zestárla vedle mě jak všechno v tomhle bytě
-   Dávno je dospělá a já - věčný dítě
-   Když vidím, jak se češe, když vidím, jak se svléká
-   Říkám si, panebože, co jsem to za člověka?
+3. Zestarla vedle me jak vsechno v tomhle byte
+   Davno je dospela a ja - vecny dite
+   Kdyz vidim, jak se cese, kdyz vidim, jak se svleka
+   Rikam si, paneboze, co jsem to za cloveka?
 {end_of_verse}
 
 Emi D C Emi D C Ami 
 
 {start_of_verse}
-4. Den za dnem, rok za rokem míjí tak jednotvárně
-   Snažím se cítit s ní, většinou ale marně
-   Ona se probouzí, já zůstávám pod peřinou
-   A dny tak jednotvárně, tak jednotvárně plynou
+4. Den za dnem, rok za rokem miji tak jednotvarne
+   Snazim se citit s ni, vetsinou ale marne
+   Ona se probouzi, ja zustavam pod perinou
+   A dny tak jednotvarne, tak jednotvarne plynou
 {end_of_verse}
 
 {start_of_verse}
-5. A dny tak jednotvárně, tak jednotvárně plynou
-   Jestlipak aspoň tuší, že zahýbám jí s jinou?
+5. A dny tak jednotvarne, tak jednotvarne plynou
+   Jestlipak aspon tusi, ze zahybam ji s jinou?
 {end_of_verse}
