@@ -11,7 +11,7 @@
 1. [G]Rano se [D]probouzi [Emi]jako by v jinem case
    [G]Kolik je [D]hodin? Pta se. [Emi]Protahne se v pase
    [Ami]Aby se [G]ujistila, [D]diva se do zrcadla
-   [Ami]Ne, jeste [G}nevyzila. [D]Ne, jeste neuvadla
+   [Ami]Ne, jeste [G]nevyzila. [D]Ne, jeste neuvadla
 {end_of_verse}
 
 {start_of_verse}
@@ -28,7 +28,7 @@
    Rikam si, paneboze, co jsem to za cloveka?
 {end_of_verse}
 
-Emi D C Emi D C Ami 
+   [Emi] [D] [C] [Emi] [D] [C] [Ami]
 
 {start_of_verse}
 4. Den za dnem, rok za rokem miji tak jednotvarne
