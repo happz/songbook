@@ -1,0 +1,64 @@
+{meta:artist Suchy, Slitr}
+{meta:source https://pisnicky-akordy.cz/jiri-suchy-jiri-slitr/kver-a-flaska-ginu}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Kver a flaska dzinu}
+{subtitle: Suchy & Slitr}
+
+{start_of_verse}
+1. [C]Kdysi a kdesi [F]bylo nemilo,
+   [G]minomety metaly a [C]dělo pálilo,
+   pan velitel roty na to [F]nebral ohledy,
+   [G]řek', abych si obul boty [C]a šel na zvědy.
+{end_of_verse}
+
+{soc}
+R: [C]Vyfasujem kvér a flašku džinu,
+   skrze tmu si [G]tunel vydla[C]bem,
+   přes Waterloo za Hercegovinu,
+   podél Mississippi až do [G]Ústí nad La[C]bem.
+{eoc}
+
+{start_of_verse}
+2. I vyšel jsem za malou chvíli směrem k severu,
+   aby Turci netušili, že je nežeru,
+   že mám bodák na bodání, pažbu k bušení,
+   Taliáni nemaj' zdání ani tušení.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. V zákopech Němci si tiše seděli,
+   aniž tu neděli o mě něco věděli,
+   času bylo málo a mě to hnalo tam,
+   kde se zdálo, že Tatarům hlavu zamotám, jó.
+{end_of_verse}
+
+{chorus}
+
+{chorus}
+
+{start_of_verse}
+4. Švédové si právě pekli vepřový,
+   když tu jsem na ně náhle vyběh' ze křoví,
+   jejich jediná mě střela minula,
+   a tak jsem tu bitvu v Kentu vyhrál tři-nula.
+{end_of_verse}
+
+{chorus}
+
+{soc}
+R: Měl jsem jenom kvér a flašku džinu,
+   tmou si rádi, kamarádi, tunel vydlabem,
+   přes Waterloo za Hercegovinu,
+   podél Mississippi až do Ústí nad Labem.
+{eoc}
+
+{comment: Rec:}
+
+   Pochodem v bok!
+   Na bo-bo-bodák!
+   K nebi! Totiž: k zemi!
