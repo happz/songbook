@@ -9,32 +9,32 @@
 
 {start_of_verse}
 1. [C]Kdysi a kdesi [F]bylo nemilo,
-   [G]minomety metaly a [C]dělo pálilo,
+   [G]minomety metaly a [C]delo palilo,
    pan velitel roty na to [F]nebral ohledy,
-   [G]řek', abych si obul boty [C]a šel na zvědy.
+   [G]rek', abych si obul boty [C]a sel na zvedy.
 {end_of_verse}
 
 {soc}
-R: [C]Vyfasujem kvér a flašku džinu,
+R: [C]Vyfasujem kver a flasku dzinu,
    skrze tmu si [G]tunel vydla[C]bem,
-   přes Waterloo za Hercegovinu,
-   podél Mississippi až do [G]Ústí nad La[C]bem.
+   pres Waterloo za Hercegovinu,
+   podel Mississippi az do [G]Usti nad La[C]bem.
 {eoc}
 
 {start_of_verse}
-2. I vyšel jsem za malou chvíli směrem k severu,
-   aby Turci netušili, že je nežeru,
-   že mám bodák na bodání, pažbu k bušení,
-   Taliáni nemaj' zdání ani tušení.
+2. I vysel jsem za malou chvili smerem k severu,
+   aby Turci netusili, ze je nezeru,
+   ze mam bodak na bodani, pazbu k buseni,
+   Taliani nemaj' zdani ani tuseni.
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse}
-3. V zákopech Němci si tiše seděli,
-   aniž tu neděli o mě něco věděli,
-   času bylo málo a mě to hnalo tam,
-   kde se zdálo, že Tatarům hlavu zamotám, jó.
+3. V zakopech Nemci si tise sedeli,
+   aniz tu nedeli o me neco vedeli,
+   casu bylo malo a me to hnalo tam,
+   kde se zdalo, ze Tatarum hlavu zamotam, jo.
 {end_of_verse}
 
 {chorus}
@@ -42,23 +42,23 @@ R: [C]Vyfasujem kvér a flašku džinu,
 {chorus}
 
 {start_of_verse}
-4. Švédové si právě pekli vepřový,
-   když tu jsem na ně náhle vyběh' ze křoví,
-   jejich jediná mě střela minula,
-   a tak jsem tu bitvu v Kentu vyhrál tři-nula.
+4. Svedove si prave pekli veprovy,
+   kdyz tu jsem na ne nahle vybeh' ze krovi,
+   jejich jedina me strela minula,
+   a tak jsem tu bitvu v Kentu vyhral tri-nula.
 {end_of_verse}
 
 {chorus}
 
 {soc}
-R: Měl jsem jenom kvér a flašku džinu,
-   tmou si rádi, kamarádi, tunel vydlabem,
-   přes Waterloo za Hercegovinu,
-   podél Mississippi až do Ústí nad Labem.
+R: Mel jsem jenom kver a flasku dzinu,
+   tmou si radi, kamaradi, tunel vydlabem,
+   pres Waterloo za Hercegovinu,
+   podel Mississippi az do Usti nad Labem.
 {eoc}
 
 {comment: Rec:}
 
    Pochodem v bok!
-   Na bo-bo-bodák!
-   K nebi! Totiž: k zemi!
+   Na bo-bo-bodak!
+   K nebi! Totiz: k zemi!
