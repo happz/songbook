@@ -1,0 +1,40 @@
+{meta:artist Milton Ager & Jack Yellen}
+{meta:source https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/11330041_445868352240978_601540851940312774_n.png?oh=3e6300ccffa584ac3027681f8bdc8cdd&oe=59CC9EAA}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Ain't she sweet}
+{subtitle: Milton Ager & Jack Yellen}
+
+{start_of_verse}
+1. [C]Ain't [Gdim7]she [G7]sweet?
+   See her [C]walking [Gdim7]down the [G7]street
+   Now I [C]ask you [E7]very [A7]confidentially
+   [D7]Ain't [G7]she [C]sweet?
+{end_of_verse}
+
+{start_of_verse}
+2. Ain't she nice?
+   Look her over once or twice
+   Now I ask you very confidentially
+   Ain't she sweet?
+{end_of_verse}
+
+{soc}
+   Just cast an [F]eye
+   in her di[C]rection.
+   Oh me, oh [D7]my,
+   Ain't that per[G7]fection? Doo-doo-be-doo
+{eoc}
+
+{start_of_verse}
+3. I repeat
+   Don't you think she's kinda neat?
+   Now I ask you very confidentially
+   Ain't she sweet?
+{end_of_verse}
+
+{chorus}
+
+{comment: 1. verse}
