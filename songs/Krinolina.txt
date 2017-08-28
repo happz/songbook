@@ -1,0 +1,52 @@
+{meta:artist Kapitan Kid}
+{meta:source https://pisnicky-akordy.cz/kapitan-kid/krinolina#}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Krinolina}
+{subtitle: Kapitan Kid}
+
+{start_of_verse}
+1. Jsem v [C]krinoline [Ami]lariatu [F]oble[G7]cen,
+   mou [C]kosili je [Ami]ticha sava[F]na [G7]
+   a v [C]sedle snim svuj [Ami]kostkovany [F]tahly [G7]sen,
+   sen [C]omseleho [G7]Dona Jua[C]na.
+   Tisice [E7]krasek voni [Ami]salveji,
+   mou [E7]lasku sosny stinem [C]oplaci, [G7]
+   jen [C]na koni se [Ami]se mnou projet [F]nechteji, [G7]
+   dal [C]ve vetru sem-[G7]tam se kyma[C]ci. [D7] [G]
+{end_of_verse}
+
+{soc}
+R: Mesic me [C]oznackoval cejchovadlem le[G]su,
+   sombrero z [D7]kaktusu si vyzyvave [G]nesu,
+   je moje [C]lahev [Cmi]davno [G]dopi[E7]ta
+   a v dali [Ami]tepou [D7]kopy[G]ta. [G7]
+{eoc}
+
+{start_of_verse}
+2. Ze pistole uz Oklamohou nezazni,
+   to nemrzi me, bude aspon klid,
+   a ze se rano jako jindy rozedni,
+   je lepsi, nezli zlato objevit.
+   Hacienda v dali neni ma
+   a nepatri mi stada kolem ni,
+   a jestli me tu vubec neco dojima,
+   tak na dne kapsy tabak posledni.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. I Llano Estacado zna muj zpev,
+   u Tennessee jsem rval do hrmeni stad,
+   jsem zkriveny a horky jako babi hnev,
+   ac mrtev, presto ziju naporad.
+   V nabojich prach mam z dalnych cest,
+   ja brodil reky, projel udoli,
+   ziznil jsem v pousti, videl tisic mest,
+   mam kone, laso, hlad a pistoli.
+{end_of_verse}
+
+{chorus}
