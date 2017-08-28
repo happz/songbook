@@ -15,34 +15,34 @@
 {eoc}
 
 {start_of_verse}
-1. [Ami]V devět hodin dvacet pět mě [D]opustilo štěstí
-   ten [F]vlak, co jsem jím měl jet na koleji [E7]dávno nestál
-   [Ami]V devět hodin dvacet pět [D]jako bych dostal pěstí
-   [F]já za hodinu na náměstí měl jsem [E7]stát, ale v jiným městě
+1. [Ami]V devet hodin dvacet pet me [D]opustilo stesti
+   ten [F]vlak, co jsem jim mel jet na koleji [E7]davno nestal
+   [Ami]V devet hodin dvacet pet [D]jako bych dostal pesti
+   [F]ja za hodinu na namesti mel jsem [E7]stat, ale v jinym meste
 
-   Tvá [A]zpráva zněla prostě [A7]a byla tak krátká
-   že [Dmi]stavíš se jen na skok, že nechalas mi vrátka
-   [G]zadní otevřená, [E7]zadní otevřená
-   [A]já naposled tě viděl, [A7]když ti bylo dvacet
-   [Dmi]to jsi tenkrát řekla, že se nechceš vracet
-   [G]že jsi unavená, [E7]ze mě unavená
+   Tva [A]zprava znela proste [A7]a byla tak kratka
+   ze [Dmi]stavis se jen na skok, ze nechalas mi vratka
+   [G]zadni otevrena, [E7]zadni otevrena
+   [A]ja naposled te videl, [A7]kdyz ti bylo dvacet
+   [Dmi]to jsi tenkrat rekla, ze se nechces vracet
+   [G]ze jsi unavena, [E7]ze me unavena
 {end_of_verse}
 
 {chorus}
 
 {start_of_verse}
-2. Já čekala jsem hlavu jako střep a zdálo se, že dlouho
-   může za to vinný sklep, že člověk často sleví
-   Já čekala jsem hlavu jako střep, s podvědomou touhou
-   čekala jsem dobu dlouhou víc než dost
-   kolik přesně nevím
+2. Ja cekala jsem hlavu jako strep a zdalo se, ze dlouho
+   muze za to vinny sklep, ze clovek casto slevi
+   Ja cekala jsem hlavu jako strep, s podvedomou touhou
+   cekala jsem dobu dlouhou vic nez dost
+   kolik presne nevim
  
-   Pak jedenáctá bila a už to bylo pasé
-   já měla vědět dřív, že vidět chci tě zase
-   láska nerezaví, láska nerezaví
-   Ten list co jsem ti psala byl dozajista hloupý
-   byl odměřený moc, na vlídný slovo skoupý
-   už to nenapravím, už to nenapravím
+   Pak jedenacta bila a uz to bylo pase
+   ja mela vedet driv, ze videt chci te zase
+   laska nerezavi, laska nerezavi
+   Ten list co jsem ti psala byl dozajista hloupy
+   byl odmereny moc, na vlidny slovo skoupy
+   uz to nenapravim, uz to nenapravim
 {end_of_verse}
 
 {chorus}
