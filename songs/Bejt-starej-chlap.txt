@@ -1,0 +1,50 @@
+{meta:artist Wabi Ryvola}
+{meta:source https://pisnicky-akordy.cz/wabi-ryvola/bejt-starej-chlap#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Bejt starej chlap}
+{subtitle: Wabi Ryvola}
+
+{start_of_verse}
+1. [Ami]Mit chleba z ruzi kamen z kytek [Dmi]mit
+   a [G]pernikovy kytary mit [C]hlas
+   [Dmi]do cihlovejch mraku nechat [F]znit
+   kus [E7]vetru snad a zkamenelej [Ami]cas
+{end_of_verse}
+
+{start_of_verse}
+2. A na rukou mit misto nehtu ton
+   co hladi teple neznejch krivek par
+   a v hlave slyset nocnich vlaku zvon
+   bejt starej chlap co nikdy nezestar
+{end_of_verse}
+
+{start_of_verse}
+3. Mit v srdci spoustu mista pro par chvil
+   co prijdou lehce z mlhavyho dne
+   a jejichz krasu nikdo nevypil
+   a nemit strach ze prijde poledne
+{end_of_verse}
+
+{start_of_verse}
+4. Ze polednice zla jak cernej mor
+   ti z bilyho dne neudela noc
+   a vedet svy a z kopretin mit vor
+   a nestarat se kdo ma prave moc
+{end_of_verse}
+
+{start_of_verse}
+5. Tak do prizemnich dnu hrat svoje blues
+   a necekat az zazni spravnej hlas
+   mit odvahu si urvat sveta kus
+   a svetlo mit co davno zhasnul cas
+{end_of_verse}
+
+{start_of_verse}
+6. Mit chleba z ruzi kousek stesti snad
+   a ruce ztvrdly laskou na kamen
+   mit z kamaradstvi postavenej hrad
+   tak do smrti v nem zpivat zustanem
+{end_of_verse}
