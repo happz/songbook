@@ -1,0 +1,40 @@
+{meta:artist Magison(
+{meta:source http://www.velkyzpevnik.cz/zpevnik/magison/ja-se-jako-hobo-narodil}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Ja se jako hobo narodil}
+{subtitle: Magison}
+
+{start_of_verse}
+1. [G]Kazdej ma mit v zivote svuj [A]cil
+   [C]ja se jako hobo naro[G]dil
+   [G]kytaru jsem do futralu [A]dal
+   [C]kolem krku satek zava[G]zal.
+{end_of_verse}
+
+{start_of_verse}
+   Jak je skvely ted uz davno vim
+   kdyz mi lita kolem usi dym
+   koleje maj' dneska spravnej smer
+   a ja uhanim vlakem na sever.
+{end_of_verse}
+
+{soc}
+   [D]Hu hu, masina [C]do noci houka [G]blues
+   [D]chces-li jet s nami, [C]tak si naskocit [G]zkus
+   [D]hu hu, masina [C]do noci uha[G]ni
+   [D7]zlakalo nas [C7]dalek vola[G]ni.
+{eoc}
+
+{start_of_verse}
+   New York, Yonkers, Peekskill, Poughkeepsie
+   nevadi mi ani zima psi
+   Hudson, Glens Falls, Westport, Willsboro
+   nashledanou zitra, Kanado.
+{end_of_verse}
+
+{chorus}
+
+{chorus}
