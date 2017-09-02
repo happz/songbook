@@ -1,0 +1,57 @@
+{meta:artist Kapitan Kid}
+{meta:source https://pisnicky-akordy.cz/kapitan-kid/pisen-proti-trampingu}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Pisen proti tampingu}
+{subtitle: Kapitan Kid}
+
+{comment: Intro}
+
+   [Dmi] [B7] [A7] [Dmi] [B7] [A7] [Dmi] [C]
+
+{start_of_verse}
+1. [F]Ja mam nohy bolavy a [G]cesta uz me nebavi,
+   ze [C]dneska pojdu, to [C7]je na be[F]ton. [Dmi] [Gmi] [C7]
+   [F]Nastydlej jsem jako pes, jo [G]do postele [G7]bych si vlez,
+   ja [C]misto nosu [C7]mam snad heli[F]gon.
+   [A7]Taborak nam zari, [Dmi]kytara zacne hrat
+   [D7]usmev nasich tvari tjududu,
+   [G]todle uz jsem, [G7]kamaradi, [C]slysel toli[C7]krat.
+   [F]To neni zadna utecha, vzdyt [G]priroda je [G7]macecha
+   a [C]ja ji nemam [C7]ani trochu [F]rad. [G7]
+{end_of_verse}
+
+{comment: Intro}
+
+{start_of_verse}
+2. Uz jsem mrzak hotovej a hexenslus mam tutovej
+   a vokem cuka neurotickej tik.
+   Za svedka volam nebesa, ze nepudu uz do lesa
+   ja nejsem zadnej vosmej trpaslik
+   Na osade zpiva kamaradu kruh
+   uz se rozedniva tjududu,  
+   prave proto touzim potom klesnout na lajntuch.
+   Ja jsem tezce nemocnej, at ponocuje ponocnej
+   a vy si nechte ten vas cistej vzduch.
+{end_of_verse}
+
+{comment: 2x intro}
+
+{start_of_verse}
+3. Tak podivejte nakonec, ja nejsem zadnej sportovec,
+   jen slyste kloubu revmatickej zvuk.
+   Me doprovazi z vejletu jen rachot myho skeletu,
+   uz davno nejsem proste kluk jak buk.
+   Taborak te zmami, kytary zazni hlas
+   pojd a zpivej s nami tjududu,
+   jdete mi s tim, kamaradi, k sipku, prosim vas.
+   Ja tuhle pristi nedeli zas nasnidam se v posteli
+   a svet zas bude pro me plnej kras.
+{end_of_verse}
+
+{comment: Outro}
+
+   [F]ja tuhle pristi nedeli zas [G]nasnidam se v [B7]posteli
+   a [F]svet zas bude [D]vesely a [G7]zivot [C7]plny [F]kras.
