@@ -7,11 +7,9 @@
 {title: Ostrov pokladu}
 {subtitle: Karel Kryl}
 
-{comment: Zvolna, D-DU}
-
 {comment: Intro:}
 
-[C] [Ami] [F] [G] [C] [Ami] [F] [G]
+   [C] [Ami] [F] [G] [C] [Ami] [F] [G]
 
 {start_of_verse}
 1. [C]Jsem zrejme [Ami]na hlavu, kdyz [F]o pocty se [G]nervu,

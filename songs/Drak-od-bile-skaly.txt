@@ -7,8 +7,6 @@
 {title: Drak od bile skaly}
 {subtitle: Rangers}
 
-{comment: Zvolna, D-DU-UDU}
-
 {soc}
 R: [G]Drak od bile [Bm]skaly byl [C]kdysi mori [G]kral,
    vsak [C]poslednich par [G]stole[Emi]ti ten

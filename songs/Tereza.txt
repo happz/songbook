@@ -7,8 +7,6 @@
 {title: Tereza}
 {subtitle: Hoboes}
 
-{comment: D-DU-UDU}
-
 {start_of_verse}
 1. Ten [C]den, co vitr [D]listi z mesta [G]sval,
    muj [C]dzip se vracel, [D]jako by se [Emi]bal,

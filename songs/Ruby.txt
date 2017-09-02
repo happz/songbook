@@ -7,8 +7,6 @@
 {title: Ruby, don't take your love to town}
 {subtitle: Kenny Rogers}
 
-{comment: Zvolna, D-DU-UDU}
-
 {start_of_verse}
 1. [Tacet]You've painted up your lips and rolled and curled your tinted [G7]hair [Dm]
    [C]Ruby are you contemplating [F]going out some[G7]where?
@@ -16,7 +14,7 @@
 {end_of_verse}
 
 {soc}
-   Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+R: Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
 {eoc}
 
 {start_of_verse}
@@ -26,7 +24,7 @@
 {end_of_verse}
 
 {soc}
-   Oh [C]Ru[F]b[Ami]y [Dm] I still need some compa[C]ny.
+R: Oh [C]Ru[F]b[Ami]y [Dm] I still need some compa[C]ny.
 {eoc}
 
 {start_of_verse}
@@ -44,9 +42,9 @@
 {end_of_verse}
 
 {soc}
-   Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+R: Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
 {eoc}
 
 {soc}
-   Oh [C]Ru[F]b[Ami]y [Dm] For god's sake turn around.
+R: Oh [C]Ru[F]b[Ami]y [Dm] For god's sake turn around.
 {eoc}

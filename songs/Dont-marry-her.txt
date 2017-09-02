@@ -7,11 +7,9 @@
 {title: Don't marry her}
 {subtitle: The Beautiful South}
 
-{comment: D-DU-UDU}
+{comment: Intro:}
 
-{comment:Intro:}
-
-2x [C] [G] [F] [G] [F] [C] [D] [G]
+   2x [C] [G] [F] [G] [F] [C] [D] [G]
 
 {start_of_verse}
 1. [C]Think of you with [G]pipe and slippers, [F]think of her in [G]bed,
@@ -50,6 +48,6 @@ R: And the [C]Sunday sun shines down on San Fran[F]cisco [C]Bay
 
 {chorus}
 
-{comment:Intro}
+{comment: Intro}
 
 {chorus}

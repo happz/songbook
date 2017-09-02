@@ -7,8 +7,6 @@
 {title: Divka havirka}
 {subtitle: Karel Kryl}
 
-{comment:Svizne}
-
 {start_of_verse}
 1. Ja [F]mel jsem divku havirku, jez [G7]stala mi co model,
    ja [C7]maloval ji na sirku, ja [F]maloval ji [C7]podel,

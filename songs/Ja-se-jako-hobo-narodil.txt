@@ -1,4 +1,4 @@
-{meta:artist Magison(
+{meta:artist Magison}
 {meta:source http://www.velkyzpevnik.cz/zpevnik/magison/ja-se-jako-hobo-narodil}
 
 {meta:key G}
@@ -22,7 +22,7 @@
 {end_of_verse}
 
 {soc}
-   [D]Hu hu, masina [C]do noci houka [G]blues
+R: [D]Hu hu, masina [C]do noci houka [G]blues
    [D]chces-li jet s nami, [C]tak si naskocit [G]zkus
    [D]hu hu, masina [C]do noci uha[G]ni
    [D7]zlakalo nas [C7]dalek vola[G]ni.

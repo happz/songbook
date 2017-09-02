@@ -7,8 +7,6 @@
 {title: Puff the Magic Dragon}
 {subtitle: Peter, Paul and Mary}
 
-{comment: Zvolna, D-DU-UDU}
-
 {start_of_verse}
 1. [G]Puff the magic [Bm]dragon [C]lived by the [G]sea
    and [C]frolicked in the [G]autumn [Em]mist

@@ -7,8 +7,6 @@
 {title: Velrybarska vyprava}
 {subtitle: Pacifik}
 
-{comment:Svizne, D-DU-UDU}
-
 {start_of_verse}
 1. [C]Jednou plac' me [F]pres rameno [G7]Johny zvanej [C]Knecht:
    [Ami]"Mam pro tebe, [Dmi]hochu, v pacu [G7]moc fajnovej [C]kseft!"

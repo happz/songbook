@@ -7,11 +7,7 @@
 {title: Synonymicka}
 {subtitle: Karel Kryl}
 
-{comment: D-DU-UDU}
-
 {start_of_verse}
-{comment: Uderne, pochod:}
-
 1. [Ami]Armada miru [G]proudi uli[Ami]cemi,
    na lici usmev, [G]vlajky v pravi[Ami]cich,
 
@@ -19,8 +15,6 @@
      [G]veslari v siku s [F]osmivesli[C]cemi,
      [Dmi]vapenici s [Ami]vapnem [E7]na nohavi[Ami]cich.
    :]
-
-{comment:Jemne, pianko:}
 
    A [F]ja jdu [G]s nimi a jsem [C]dojatej [Ami]
    a [F]samou [G]radosti bych [C]juchal, [Ami]

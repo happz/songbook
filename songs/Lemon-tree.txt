@@ -7,11 +7,9 @@
 {title: Lemon tree}
 {subtitle: Fool's Garden}
 
-{comment: D-DU-UDU}
-
 {comment: Intro:}
 
-[Ami] [Emi] [Ami] [Emi] [Dm] [Emi] [Ami]
+   [Ami] [Emi] [Ami] [Emi] [Dm] [Emi] [Ami]
 
 {start_of_verse}
 1. [Ami]I’m sitting here in the[Emi]boring room
@@ -50,8 +48,8 @@ R: I [C]wonder how, I [G]wonder why
 
 {comment: Bridge:} 
 
-[E7]Isolation [Ami]is not good for me
-[G]Isolation [C]I don’t want to [E7]sit on the lemon-tree
+   [E7]Isolation [Ami]is not good for me
+   [G]Isolation [C]I don’t want to [E7]sit on the lemon-tree
 
 {start_of_verse}
 4. I’m steppin’ around in the desert of joy

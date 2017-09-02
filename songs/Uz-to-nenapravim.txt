@@ -7,7 +7,6 @@
 {title: Uz to nenapravim}
 {subtitle: Maci}
 
-
 {soc}
    [:
      [Ami]Vapadadapadadapadapap... [D] [F] [E7]vadavaduvam [E7]

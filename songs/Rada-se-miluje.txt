@@ -7,8 +7,6 @@
 {title: Rada se miluje}
 {subtitle: Karel Plihal}
 
-{comment: D-DUDU}
-
 {soc}
 R: [Ami]Rada se miluje, [G] rada [C]ji, [F]rada si [Emi]jenom tak [Ami]zpiva,
    vrabci se na plote [G]hada[C]ji, [F]kolik ze [Emi]casu ji [Ami]zbyva.

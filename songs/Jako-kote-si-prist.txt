@@ -7,8 +7,6 @@
 {title: Jako kote si prist}
 {subtitle: Jiri Grossmann}
 
-{comment: D-DU-UDU}
-
 {start_of_verse}
 1. [C]Mesic snilek [F]stoupa nad ska[C]lou
    a zpiva si svou pisen poma[G7]lou,

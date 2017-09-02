@@ -14,4 +14,4 @@ clean:
 	rm -f *.pdf songs/*.pdf
 
 %.pdf : %.txt
-	chordpro --config=chordpro.json $< -o $@
+	chordpro --config=chordpro.json -G $< -o $@

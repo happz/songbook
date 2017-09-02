@@ -7,8 +7,6 @@
 {title: Shane}
 {subtitle: Neznamy}
 
-{comment: D-DU-UDU}
-
 {start_of_verse}
 1. Tam [Ami]nekde v dalce ohen kvet', a [G]tak jsem k nemu [Ami]jel,
    jen tak s chlapama [G]posedet jsem [F]zrovna tenkrat [E7]chtel,
@@ -50,7 +48,7 @@ R: [G]Byl to [Ami]Shane, [G]byl to [Ami]Shane.
 {start_of_verse}
 5. Mel saty z mody vysly snad, v tom se nevyznam,
    a unavenej na zem pad' k zlutejm diviznam,
-   a pak se zdvih', rek':"Uz jsem fit," jen trochu pritom ziv',
+   a pak se zdvih', rek': "Uz jsem fit," jen trochu pritom ziv',
    a rek' nam, ze jde vycistit ten Augiasuv chliv.
 {end_of_verse}
 
@@ -75,7 +73,7 @@ R: [G]Byl to [Ami]Shane, [G]byl to [Ami]Shane.
 {chorus}
 
 {start_of_verse}
-8. Shane vysel ven, mel pevnej krok a rek':"Je hotovo,"
+8. Shane vysel ven, mel pevnej krok a rek': "Je hotovo,"
    vsak ruda krev mu barvi bok, on mel v nem olovo,
    pak rek', ze je cas odejit, v ocich mel chladnej cejn,
    a v saloonu byl mrtvej klid, on jmenoval se Shane.
@@ -91,4 +89,5 @@ R: [G]Byl to [Ami]Shane, [G]byl to [Ami]Shane.
 {end_of_verse}
 
 {chorus}
+
 {chorus}

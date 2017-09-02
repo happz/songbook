@@ -7,10 +7,9 @@
 {title: Far, Far away}
 {subtitle: Slade}
 
-{comment: D-DU-UDU, zmena akordu do U-UDU}
-
 {comment: Intro:}
-[Ami] [G] [Ami] [G] [Ami] [G] [Ami] [G]
+
+   [Ami] [G] [Ami] [G] [Ami] [G] [Ami] [G]
 
 {start_of_verse}
 1. I've seen the [Ami]yellow lights go [G]down the Missis[Ami]sippi [G]
@@ -52,4 +51,4 @@ R: And I'm [C]far, [G]far a[Ami]way [Am7] with my [F]head up in the [G]clouds
 
 {chorus}
 
-{comment:Outro same as intro}
+{comment: Outro same as intro}

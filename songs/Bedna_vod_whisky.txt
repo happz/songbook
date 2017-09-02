@@ -7,8 +7,6 @@
 {title: Bedna vod whisky}
 {subtitle: Miky Ryvola}
 
-{comment:Svizne, D-DU-UDU}
-
 {start_of_verse}
 1. [Ami]Dneska uz mne [C]fory nak [Ami]nejdou pres pys[E7]ky,
    [Ami]stojim s dlouhou [C]kravatou na [Ami]bedne [E7]vod whis[Ami]ky,

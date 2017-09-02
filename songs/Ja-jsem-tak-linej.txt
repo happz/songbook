@@ -7,8 +7,6 @@
 {title: Ja jsem tak linej}
 {subtitle: Hoboes}
 
-{comment: D-DUDU}
-
 {start_of_verse}
 1. [Ami]Dole pod aleji, [F]kousek od koleji
    [G]sametovej flicek [C]mam,

@@ -7,8 +7,6 @@
 {title: Palis, doutnas, nehoris}
 {subtitle: Traband}
 
-{comment: Zvolna, D-DU-UDU}
-
 {start_of_verse}
 1. Mas [C]pro vsechno svy [Dmi]duvody a [F]jasnou odpo[C]ved
    A [C]kolem tvyho [Dmi]mega-ega [F]otaci se [G]svet

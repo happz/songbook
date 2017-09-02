@@ -1,8 +1,8 @@
- {meta:artist Bratri Ebenove}
- {meta:source https://pisnicky-akordy.cz/bratri-ebenove/mam-dny}
+{meta:artist Bratri Ebenove}
+{meta:source https://pisnicky-akordy.cz/bratri-ebenove/mam-dny}
 
- {meta:key A}
- {meta:time 6/8}
+{meta:key A}
+{meta:time 6/8}
 
 {title: Mam dny}
 {subtitle: Bratri Ebenove}

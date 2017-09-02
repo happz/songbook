@@ -7,8 +7,6 @@
 {title: Jolene}
 {subtitle: Dolly Parton}
 
-{comment: Zvolna, D-DU-UDU}
-
 {soc}
 R: Jo[Ami]lene, Jo[C]lene, Jo[G]lene, Jo[Ami]lene
    I`m [G]begging of you please dont`t take my [Ami]man

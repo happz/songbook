@@ -7,8 +7,6 @@
 {title: Rychle Sipy}
 {subtitle: Wabi Ryvola}
 
-{comment: Rozvazne, D-DU-UDU}
-
 {start_of_verse}
 1. [Ami]Muj zivot je hned plny nesnazi,
    [D]na jare kdyz duben prichazi,

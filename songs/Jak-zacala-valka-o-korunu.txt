@@ -22,7 +22,7 @@
 {end_of_verse}
 
 {soc}
-  [D] [G] [D] [C] [G] [D]
+R: [D] [G] [D] [C] [G] [D]
 {eoc}
 
 {start_of_verse}
@@ -32,9 +32,7 @@
    zaslouzeny budu si jen uzivati duchod
 {end_of_verse}
 
-{soc}
-   [D] [G] [D] [C] [G] [D]
-{eoc}
+{chorus}
 
 {start_of_verse}
 4. Jedou jedou princove jedou do sveta

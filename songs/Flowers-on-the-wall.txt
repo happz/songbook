@@ -7,8 +7,6 @@
 {title: Flowers on the wall}
 {subtitle: Statler Brothers}
 
-{comment: Svizne, D-DU-UDU}
-
 {start_of_verse}
 1. [C]I keep hearin' you're concerned a[Ami]bout my happiness
    But [D7]all that thought you've given me is [G7]conscience I guess
