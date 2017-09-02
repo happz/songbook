@@ -1,17 +1,17 @@
 SOURCES = $(wildcard songs/*.txt)
-SONGS := $(patsubst %.txt,%.pdf,$(SOURCES))
+SONGS := $(patsubst songs/%.txt,build/%.pdf,$(SOURCES))
 
 all: songs songbook
 
 songs: $(SONGS)
 
-songbook: songbook.pdf
+songbook: build/songbook.pdf
 
-songbook.pdf: $(SOURCES)
-	chordpro --config=chordpro.json -G $(sort $(SOURCES)) -o songbook.pdf
+build/songbook.pdf: $(SOURCES)
+	chordpro --config=chordpro.json -G $(sort $(SOURCES)) -o build/songbook.pdf
 
 clean:
-	rm -f *.pdf songs/*.pdf
+	rm -f build/*.pdf
 
-%.pdf : %.txt
+build/%.pdf: songs/%.txt
 	chordpro --config=chordpro.json -G $< -o $@
