@@ -9,12 +9,12 @@
 
 {comment: Intro:}
 
-   [C] [Ami] [F] [G] [C] [Ami] [F] [G]
+   [C] [Am] [F] [G] [C] [Am] [F] [G]
 
 {start_of_verse}
-1. [C]Jsem zrejme [Ami]na hlavu, kdyz [F]o pocty se [G]nervu,
-   [C]kdyz s proudem [Ami]neplavu a [F]radeji pro Mi[G]nervu
-   prepraham [C]Pegasy, [Ami] [F] [G] prepraham [C]Pegasy. [Ami] [F] [G] [(do refrenu C7)]
+1. [C]Jsem zrejme [Am]na hlavu, kdyz [F]o pocty se [G]nervu,
+   [C]kdyz s proudem [Am]neplavu a [F]radeji pro Mi[G]nervu
+   prepraham [C]Pegasy, [Am] [F] [G] prepraham [C]Pegasy. [Am] [F] [G] [(do refrenu C7)]
 {end_of_verse}
 
 {start_of_verse}
@@ -26,7 +26,7 @@
 {soc}
 R: [F]Kdyz misto po Hradu sam chodim po ulici,
    [C]kdyz smim a nekradu, [D7]jsem zrejme [G]na palici,
-   [C]ja zustal [Ami]pozadu, [F]hniju si [G]na vesnici [C]rad. [Ami] [F] [G]
+   [C]ja zustal [Am]pozadu, [F]hniju si [G]na vesnici [C]rad. [Am] [F] [G]
 {eoc}
 
 {start_of_verse}
@@ -44,7 +44,7 @@ R: [F]Kdyz misto po Hradu sam chodim po ulici,
 {soc}
 R: Splachl jsem dozadu vyhodnou investici:
    lepe zit o hladu, nez zdobit sibenici!
-   [C]Svuj ostrov [Ami]pokladu [F]v domecku [G]na vesnici,
-   [C]svuj ostrov [Ami]pokladu [F]v domecku [G]na hranici,
-   [C]svuj ostrov [Ami]pokladu [G]v exilu [C]za hranici mam ...
+   [C]Svuj ostrov [Am]pokladu [F]v domecku [G]na vesnici,
+   [C]svuj ostrov [Am]pokladu [F]v domecku [G]na hranici,
+   [C]svuj ostrov [Am]pokladu [G]v exilu [C]za hranici mam ...
 {eoc}

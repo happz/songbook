@@ -8,14 +8,14 @@
 {subtitle: Neznamy}
 
 {start_of_verse}
-1. Tam [Ami]nekde v dalce ohen kvet', a [G]tak jsem k nemu [Ami]jel,
+1. Tam [Am]nekde v dalce ohen kvet', a [G]tak jsem k nemu [Am]jel,
    jen tak s chlapama [G]posedet jsem [F]zrovna tenkrat [E7]chtel,
    ten [F]starik s tvari [G]vrascitou [F]jak dubovej [E7]kmen
-   vy[Ami]pravel povest letitou o [G]strelci jmenem [Ami]Shane.
+   vy[Am]pravel povest letitou o [G]strelci jmenem [Am]Shane.
 {end_of_verse}
 
 {soc}
-R: [G]Byl to [Ami]Shane, [G]byl to [Ami]Shane.
+R: [G]Byl to [Am]Shane, [G]byl to [Am]Shane.
 {eoc}
 
 {start_of_verse}

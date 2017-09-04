@@ -8,18 +8,18 @@
 {subtitle: Karel Kryl}
 
 {start_of_verse}
-1. [Ami]Armada miru [G]proudi uli[Ami]cemi,
-   na lici usmev, [G]vlajky v pravi[Ami]cich,
+1. [Am]Armada miru [G]proudi uli[Am]cemi,
+   na lici usmev, [G]vlajky v pravi[Am]cich,
 
    [:
      [G]veslari v siku s [F]osmivesli[C]cemi,
-     [Dmi]vapenici s [Ami]vapnem [E7]na nohavi[Ami]cich.
+     [Dm]vapenici s [Am]vapnem [E7]na nohavi[Am]cich.
    :]
 
-   A [F]ja jdu [G]s nimi a jsem [C]dojatej [Ami]
-   a [F]samou [G]radosti bych [C]juchal, [Ami]
-   [F]ac zcela lysy - prece [Ami]chlupatej,
-   [F]ac bez ci[E7]chu - jsem prece [Ami]cmuchal.
+   A [F]ja jdu [G]s nimi a jsem [C]dojatej [Am]
+   a [F]samou [G]radosti bych [C]juchal, [Am]
+   [F]ac zcela lysy - prece [Am]chlupatej,
+   [F]ac bez ci[E7]chu - jsem prece [Am]cmuchal.
 {end_of_verse}
 
 {start_of_verse}

@@ -9,15 +9,15 @@
 
 {start_of_verse}
 1. [C]Jednou plac' me [F]pres rameno [G7]Johny zvanej [C]Knecht:
-   [Ami]"Mam pro tebe, [Dmi]hochu, v pacu [G7]moc fajnovej [C]kseft!"
+   [Am]"Mam pro tebe, [Dm]hochu, v pacu [G7]moc fajnovej [C]kseft!"
    Objednal hned [F]litr rumu [G7]a pak nezne [C]rval:
-   [Ami]"Sbal se, jedem [Dmi]na velryby, [G7]prej az za po[C]lar."
+   [Am]"Sbal se, jedem [Dm]na velryby, [G7]prej az za po[C]lar."
 {end_of_verse}
 
 {soc}
 R: [:
      Vyprava [C]velrybarska [F]kolem Gronska [G7]nezdarila [C]se,
-     protoze [Ami]nejeli jsme [Dmi]na velryby, [G7]ale na mro[C]ze.
+     protoze [Am]nejeli jsme [Dm]na velryby, [G7]ale na mro[C]ze.
    :]
 {eoc}
 

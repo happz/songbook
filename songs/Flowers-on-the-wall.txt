@@ -8,14 +8,14 @@
 {subtitle: Statler Brothers}
 
 {start_of_verse}
-1. [C]I keep hearin' you're concerned a[Ami]bout my happiness
+1. [C]I keep hearin' you're concerned a[Am]bout my happiness
    But [D7]all that thought you've given me is [G7]conscience I guess
-   If [C]I were walkin' in your shoes I [Ami]wouldn't worry none
+   If [C]I were walkin' in your shoes I [Am]wouldn't worry none
    While [D7]you and your friends are worryin’ bout me I'm [G7]havin' lots of fun
 {end_of_verse}
 
 {soc}
-R: Countin' [Ami]flowers on the wall that don't bother me at all
+R: Countin' [Am]flowers on the wall that don't bother me at all
    Playin' solitaire 'til dawn with a deck of fifty-one
    Smokin' [F]cigarettes and watchin’ Captain Kangaroo
    Now don't tell [G7]me [chunk] I've [F down]nothin' to [G7]do. [chunk]

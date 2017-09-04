@@ -8,10 +8,10 @@
 {subtitle: Traband}
 
 {start_of_verse}
-1. Mas [C]pro vsechno svy [Dmi]duvody a [F]jasnou odpo[C]ved
-   A [C]kolem tvyho [Dmi]mega-ega [F]otaci se [G]svet
-   [C]Vedes reci o [Dmi]svobode, ale [F]mas kolem sebe [G]mriz
-   [Ami]Palis, [Emi]doutnas, [F] neho[C]ris 
+1. Mas [C]pro vsechno svy [Dm]duvody a [F]jasnou odpo[C]ved
+   A [C]kolem tvyho [Dm]mega-ega [F]otaci se [G]svet
+   [C]Vedes reci o [Dm]svobode, ale [F]mas kolem sebe [G]mriz
+   [Am]Palis, [Emi]doutnas, [F] neho[C]ris
 {end_of_verse}
 
 {start_of_verse}
@@ -22,7 +22,7 @@
 {end_of_verse}
 
 {soc}
-R: [E7]Jeste porad se mi v noci [Ami]zdava
+R: [E7]Jeste porad se mi v noci [Am]zdava
    [F]Ze te potkavam, ale uz [G]nepoznavam
 {eoc}
 

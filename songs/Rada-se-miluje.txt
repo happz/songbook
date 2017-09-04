@@ -8,13 +8,13 @@
 {subtitle: Karel Plihal}
 
 {soc}
-R: [Ami]Rada se miluje, [G] rada [C]ji, [F]rada si [Emi]jenom tak [Ami]zpiva,
-   vrabci se na plote [G]hada[C]ji, [F]kolik ze [Emi]casu ji [Ami]zbyva.
+R: [Am]Rada se miluje, [G] rada [C]ji, [F]rada si [Emi]jenom tak [Am]zpiva,
+   vrabci se na plote [G]hada[C]ji, [F]kolik ze [Emi]casu ji [Am]zbyva.
 {eoc}
 
 {start_of_verse}
 1. [F]Nez vitr dostrka k [C]utesu [F]tu jeji legracni [C]bar[E7]ku
-   a [Ami]Pambu si ve svym [G]note[C]su [F]udela [Emi]jen dalsi [Ami]carku.
+   a [Am]Pambu si ve svym [G]note[C]su [F]udela [Emi]jen dalsi [Am]carku.
 {end_of_verse}
 
 {chorus}

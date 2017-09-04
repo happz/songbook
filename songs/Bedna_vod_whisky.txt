@@ -8,17 +8,17 @@
 {subtitle: Miky Ryvola}
 
 {start_of_verse}
-1. [Ami]Dneska uz mne [C]fory nak [Ami]nejdou pres pys[E7]ky,
-   [Ami]stojim s dlouhou [C]kravatou na [Ami]bedne [E7]vod whis[Ami]ky,
-   stojím s dlouhym [C]vobojkem [Ami]jak stajovej [E7]pinc,
-   tu [Ami]kravatu, co [C]nosim, mi [Ami]navlik' [E7]soudce [Ami]Lync. [A]
+1. [Am]Dneska uz mne [C]fory nak [Am]nejdou pres pys[E7]ky,
+   [Am]stojim s dlouhou [C]kravatou na [Am]bedne [E7]vod whis[Am]ky,
+   stojím s dlouhym [C]vobojkem [Am]jak stajovej [E7]pinc,
+   tu [Am]kravatu, co [C]nosim, mi [Am]navlik' [E7]soudce [Am]Lync. [A]
 {end_of_verse}
 
 {soc}
 R: Tak [A]kopni do ty [D]bedny, at [E7]panstvo nece[A]ka,
    jsou dlouhy schody [D]do nebe a [E7]streka dale[A]ka
    do nebeskyho [D]baru, ja [E7]sucho v krku [A]mam,
-   tak kopni do ty [D]bedny, at [E7]na cestu se [A]dam. [Ami]
+   tak kopni do ty [D]bedny, at [E7]na cestu se [A]dam. [Am]
 {eoc}
 
 {start_of_verse}

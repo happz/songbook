@@ -9,14 +9,14 @@
 
 {comment: Intro:}
 
-   [Ami] [Emi] [Ami] [Emi] [Dm] [Emi] [Ami]
+   [Am] [Emi] [Am] [Emi] [Dm] [Emi] [Am]
 
 {start_of_verse}
-1. [Ami]I’m sitting here in the[Emi]boring room
-   It’s [Ami]just another rainy Sunday [Emi]afternoon
-   I’m [Ami]wasting my time I got [Emi]nothing to do
-   I’m [Ami]hanging around I’m [Emi]waiting for you
-   But [Dm]nothing ever happen[Emi]s and I [Ami]wonder
+1. [Am]I’m sitting here in the[Emi]boring room
+   It’s [Am]just another rainy Sunday [Emi]afternoon
+   I’m [Am]wasting my time I got [Emi]nothing to do
+   I’m [Am]hanging around I’m [Emi]waiting for you
+   But [Dm]nothing ever happen[Emi]s and I [Am]wonder
 {end_of_verse}
 
 {start_of_verse}
@@ -29,10 +29,10 @@
 
 {soc}
 R: I [C]wonder how, I [G]wonder why
-   [Ami]Yesterday you told me ’bout the [Emi]blue blue sky
+   [Am]Yesterday you told me ’bout the [Emi]blue blue sky
    And [F]all that I can [G]see is just a yellow le[C]mon-tree [G]
    I’m [C]turning my head [G]up and down
-   I’m [Ami]turning turning turning turning [Emi]turning around
+   I’m [Am]turning turning turning turning [Emi]turning around
    And [F]all that I can [D]see is just another le[G]mon-tree
 {eoc}
 
@@ -48,7 +48,7 @@ R: I [C]wonder how, I [G]wonder why
 
 {comment: Bridge:} 
 
-   [E7]Isolation [Ami]is not good for me
+   [E7]Isolation [Am]is not good for me
    [G]Isolation [C]I don’t want to [E7]sit on the lemon-tree
 
 {start_of_verse}
@@ -64,7 +64,7 @@ R: I [C]wonder how, I [G]wonder why
    [G]And I wonder, wonder
 
    I [C]wonder how, I [G]wonder why
-   [Ami]Yesterday you told me ’bout the [Emi]blue blue sky
+   [Am]Yesterday you told me ’bout the [Emi]blue blue sky
    And [F]all that I can [G]see
    And [F]all that I can [G]see
    And [F]all that I can [G]see

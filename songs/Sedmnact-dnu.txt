@@ -9,25 +9,25 @@
 
 {comment: Intro: single strum}
 
-   [Ami] [Dmi] [Ami]
+   [Am] [Dm] [Am]
 
 {start_of_verse}
-1. Jak zavo[Dmi]las,
-   kdyz ti davno v hrdle [Ami]vyschnul hlas
+1. Jak zavo[Dm]las,
+   kdyz ti davno v hrdle [Am]vyschnul hlas
    tvuj krk je pripravenej [E7]na provaz,
-   kterej se houpa bliz a [Ami]bliz. [Dmi] [Ami]
+   kterej se houpa bliz a [Am]bliz. [Dm] [Am]
 
-   Kam zavo[Dmi]las,
-   kdyz tvoje oci vidi [Ami]pustinu,
+   Kam zavo[Dm]las,
+   kdyz tvoje oci vidi [Am]pustinu,
    nejradsi lehnul by sis [E7]do stinu
-   jenom kdyby tu nakej [Ami]byl. [Dmi] [Ami]
+   jenom kdyby tu nakej [Am]byl. [Dm] [Am]
 {end_of_verse}
 
 {soc}
-R: Sedmnact [A7]dnu mas v patach ostry hochy [Dmi]z patroly,
+R: Sedmnact [A7]dnu mas v patach ostry hochy [Dm]z patroly,
    noc beze [G7]snu a pravou ruku furt na [C]pistoli.
    V hrdle mas [E7]prach a tvuj kun ted uz nevi [F]kam ma jit,
-   mas asi [E7]strach, jses ale chlap a despe[Ami]rat. [Dmi] [Ami]
+   mas asi [E7]strach, jses ale chlap a despe[Am]rat. [Dm] [Am]
 {eoc}
 
 {start_of_verse}

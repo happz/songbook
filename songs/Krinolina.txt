@@ -8,13 +8,13 @@
 {subtitle: Kapitan Kid}
 
 {start_of_verse}
-1. Jsem v [C]krinoline [Ami]lariatu [F]oble[G7]cen,
-   mou [C]kosili je [Ami]ticha sava[F]na [G7]
-   a v [C]sedle snim svuj [Ami]kostkovany [F]tahly [G7]sen,
+1. Jsem v [C]krinoline [Am]lariatu [F]oble[G7]cen,
+   mou [C]kosili je [Am]ticha sava[F]na [G7]
+   a v [C]sedle snim svuj [Am]kostkovany [F]tahly [G7]sen,
    sen [C]omseleho [G7]Dona Jua[C]na.
-   Tisice [E7]krasek voni [Ami]salveji,
+   Tisice [E7]krasek voni [Am]salveji,
    mou [E7]lasku sosny stinem [C]oplaci, [G7]
-   jen [C]na koni se [Ami]se mnou projet [F]nechteji, [G7]
+   jen [C]na koni se [Am]se mnou projet [F]nechteji, [G7]
    dal [C]ve vetru sem-[G7]tam se kyma[C]ci. [D7] [G]
 {end_of_verse}
 
@@ -22,7 +22,7 @@
 R: Mesic me [C]oznackoval cejchovadlem le[G]su,
    sombrero z [D7]kaktusu si vyzyvave [G]nesu,
    je moje [C]lahev [Cmi]davno [G]dopi[E7]ta
-   a v dali [Ami]tepou [D7]kopy[G]ta. [G7]
+   a v dali [Am]tepou [D7]kopy[G]ta. [G7]
 {eoc}
 
 {start_of_verse}

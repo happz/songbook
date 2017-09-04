@@ -8,17 +8,17 @@
 {subtitle: Hop Trop}
 
 {start_of_verse}
-1. Jo, [Ami]dveste nas tam bylo na brize do Ciny
+1. Jo, [Am]dveste nas tam bylo na brize do Ciny
    a [C]furt se jenom pilo, az tuhly ledvi[E7]ny,
    a [F]kdyz uz bylo k [G]ranu a [C]vsichni pod vo[E7]braz,
-   krik' [Ami]plavcik na stozaru, a [C]hlasek se mu [G]tras':
+   krik' [Am]plavcik na stozaru, a [C]hlasek se mu [G]tras':
 {end_of_verse}
 
 {soc}
 R: [C]Ja tady [F]nebudu, [C]ja vidim [F]vobludu,
    [C]ja vocad [F]pryc pudu, [C]jima me [G]strach,
    [C]chytte tu [F]vobludu, [C]sezere [F]palubu,
-   [C]tohle je [F]vo hubu, [C]ach, [E7]ich, och, [Ami]ach.
+   [C]tohle je [F]vo hubu, [C]ach, [E7]ich, och, [Am]ach.
 {eoc}
 
 {start_of_verse}
@@ -59,5 +59,5 @@ R: [C]Ja tady [F]nebudu, [C]ja vidim [F]vobludu,
 
 {comment: Fade out:}
 
-       [Ami]
+       [Am]
    ... ach, ich, och, ach ...

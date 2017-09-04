@@ -8,10 +8,10 @@
 {subtitle: Ivan Mladek}
 
 {start_of_verse}
-1. [Ami]Jedu takhle taborit [E7]Skodou 100 na [Ami]Oravu,
-   specham proto, riskuji, [E7]projizdim pres [Ami]Moravu.
+1. [Am]Jedu takhle taborit [E7]Skodou 100 na [Am]Oravu,
+   specham proto, riskuji, [E7]projizdim pres [Am]Moravu.
    [G7]Radi tam to [C]strasidlo, [G7]vystupuje z [C]ba[E7]zin,
-   [Ami]zere hlavne Prazaky a [E7]jmenuje se [Ami]Jo[G7]zin.
+   [Am]zere hlavne Prazaky a [E7]jmenuje se [Am]Jo[G7]zin.
 {end_of_verse}
 
 {soc}

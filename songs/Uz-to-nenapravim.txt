@@ -9,21 +9,21 @@
 
 {soc}
    [:
-     [Ami]Vapadadapadadapadapap... [D] [F] [E7]vadavaduvam [E7]
+     [Am]Vapadadapadadapadapap... [D] [F] [E7]vadavaduvam [E7]
    :]
 {eoc}
 
 {start_of_verse}
-1. [Ami]V devet hodin dvacet pet me [D]opustilo stesti
+1. [Am]V devet hodin dvacet pet me [D]opustilo stesti
    ten [F]vlak, co jsem jim mel jet na koleji [E7]davno nestal
-   [Ami]V devet hodin dvacet pet [D]jako bych dostal pesti
+   [Am]V devet hodin dvacet pet [D]jako bych dostal pesti
    [F]ja za hodinu na namesti mel jsem [E7]stat, ale v jinym meste
 
    Tva [A]zprava znela proste [A7]a byla tak kratka
-   ze [Dmi]stavis se jen na skok, ze nechalas mi vratka
+   ze [Dm]stavis se jen na skok, ze nechalas mi vratka
    [G]zadni otevrena, [E7]zadni otevrena
    [A]ja naposled te videl, [A7]kdyz ti bylo dvacet
-   [Dmi]to jsi tenkrat rekla, ze se nechces vracet
+   [Dm]to jsi tenkrat rekla, ze se nechces vracet
    [G]ze jsi unavena, [E7]ze me unavena
 {end_of_verse}
 

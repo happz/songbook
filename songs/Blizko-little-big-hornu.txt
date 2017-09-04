@@ -8,17 +8,17 @@
 {subtitle: Michal Tucny}
 
 {start_of_verse}
-1. Tam, kde [Ami]lezi Little Big Horn, je indianska zem,
-   tam prijizdi general Custer [Dmi] se svym praporem,
-   mo[Ami]dry kabaty jezdcu, stiny [Dmi]dlouhejch karabin,
-   a [Ami]z indianskejch signalu po nebi leti [A]dym.
+1. Tam, kde [Am]lezi Little Big Horn, je indianska zem,
+   tam prijizdi general Custer [Dm] se svym praporem,
+   mo[Am]dry kabaty jezdcu, stiny [Dm]dlouhejch karabin,
+   a [Am]z indianskejch signalu po nebi leti [A]dym.
 {end_of_verse}
 
 {soc}
 R: [A]Rikal to Jim Bridger: ja mel jsem v noci [E7]sen,
    pod sedmou kavalerii jak krvi rudne [A]zem,
    kmen Siouxu je statecny a dobre svuj kraj [D]zna,
-   proc [E7]Custer neposloucha ta [A]slova varovna? [Ami]
+   proc [E7]Custer neposloucha ta [A]slova varovna? [Am]
 {eoc}
 
 {start_of_verse}

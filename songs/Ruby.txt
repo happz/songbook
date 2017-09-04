@@ -14,7 +14,7 @@
 {end_of_verse}
 
 {soc}
-R: Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+R: Oh [C]Ru[F]b[Am]y [Dm] Don't take your love to [C]town.
 {eoc}
 
 {start_of_verse}
@@ -24,7 +24,7 @@ R: Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
 {end_of_verse}
 
 {soc}
-R: Oh [C]Ru[F]b[Ami]y [Dm] I still need some compa[C]ny.
+R: Oh [C]Ru[F]b[Am]y [Dm] I still need some compa[C]ny.
 {eoc}
 
 {start_of_verse}
@@ -42,9 +42,9 @@ R: Oh [C]Ru[F]b[Ami]y [Dm] I still need some compa[C]ny.
 {end_of_verse}
 
 {soc}
-R: Oh [C]Ru[F]b[Ami]y [Dm] Don't take your love to [C]town.
+R: Oh [C]Ru[F]b[Am]y [Dm] Don't take your love to [C]town.
 {eoc}
 
 {soc}
-R: Oh [C]Ru[F]b[Ami]y [Dm] For god's sake turn around.
+R: Oh [C]Ru[F]b[Am]y [Dm] For god's sake turn around.
 {eoc}

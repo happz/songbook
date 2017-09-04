@@ -8,10 +8,10 @@
 {subtitle: Wabi Ryvola}
 
 {start_of_verse}
-1. [Ami]Mit chleba z ruzi kamen z kytek [Dmi]mit
+1. [Am]Mit chleba z ruzi kamen z kytek [Dm]mit
    a [G]pernikovy kytary mit [C]hlas
-   [Dmi]do cihlovejch mraku nechat [F]znit
-   kus [E7]vetru snad a zkamenelej [Ami]cas
+   [Dm]do cihlovejch mraku nechat [F]znit
+   kus [E7]vetru snad a zkamenelej [Am]cas
 {end_of_verse}
 
 {start_of_verse}

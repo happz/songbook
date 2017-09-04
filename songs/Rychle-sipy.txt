@@ -8,15 +8,15 @@
 {subtitle: Wabi Ryvola}
 
 {start_of_verse}
-1. [Ami]Muj zivot je hned plny nesnazi,
+1. [Am]Muj zivot je hned plny nesnazi,
    [D]na jare kdyz duben prichazi,
    ja [F]vracim se do povalecnejch let,
-   kdy [Ami]vychazel nas stary dobry Vpred,
+   kdy [Am]vychazel nas stary dobry Vpred,
 
    ja [C]zluty kvitek za klopu si dam
-   a [Dmi]pisen Vontu tise zabroukam,
+   a [Dm]pisen Vontu tise zabroukam,
    do [G]Stinadel se serem vypravim,
-   snad [Ami]potkam cestou Losnu, co ja [E7]vim.
+   snad [Am]potkam cestou Losnu, co ja [E7]vim.
 {end_of_verse}
 
 {start_of_verse}
@@ -50,4 +50,4 @@
    nasi krasnou chlapeckou krajinou.
 {end_of_verse}
 
-   [C]Duj, [G]duj, [F]duj, [pauza] fujaro [Ami]vitezna.
+   [C]Duj, [G]duj, [F]duj, [pauza] fujaro [Am]vitezna.

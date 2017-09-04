@@ -8,21 +8,21 @@
 {subtitle: Hoboes}
 
 {start_of_verse}
-1. [Ami]Dole pod aleji, [F]kousek od koleji
+1. [Am]Dole pod aleji, [F]kousek od koleji
    [G]sametovej flicek [C]mam,
-   [Ami]oblaka si plavou, [F]kus drnu pod hlavou,
+   [Am]oblaka si plavou, [F]kus drnu pod hlavou,
    [G]paneboze, ja se [C]mam,
-   [Dmi]tamhle za smetistem [Ami]jako mraveniste
+   [Dm]tamhle za smetistem [Am]jako mraveniste
    [F]sedy mesto ramu[E7]si,
-   [Ami]at si nohou trhne [F]ten, kdo z mesta zdrhne,
+   [Am]at si nohou trhne [F]ten, kdo z mesta zdrhne,
    [D7]poslouchat ho nemu[G]si.
 {end_of_verse}
 
 {soc}
-R: Jo, [C]ja jsem tak [Dmi]linej, tak [G]prekrasne [Ami]linej,
-   a [Dmi]nejhezci [F]na tom, ze [D7]nechci byt [G]jinej,
-   jo, [C]to se to [Dmi]vali, kdyz [G]slunicko [Ami]pali,
-   [Dmi]za to me [F]verejnost [G]nepochva[C]li. [E7]
+R: Jo, [C]ja jsem tak [Dm]linej, tak [G]prekrasne [Am]linej,
+   a [Dm]nejhezci [F]na tom, ze [D7]nechci byt [G]jinej,
+   jo, [C]to se to [Dm]vali, kdyz [G]slunicko [Am]pali,
+   [Dm]za to me [F]verejnost [G]nepochva[C]li. [E7]
 {eoc}
 
 {start_of_verse}
