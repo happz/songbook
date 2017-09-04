@@ -1,0 +1,54 @@
+{meta:artist Hoboes}
+{meta:source https://pisnicky-akordy.cz/hoboes/muzicek}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Muzicek}
+{subtitle: Hoboes}
+
+{start_of_verse}
+1. [C]Je to skoro [E7]k zblazneni, [F]pribeh k neu[Fm]vereni
+   [C]ze jsem [Am]vcera [Dm]potkal [G7]zjeve[C]ni [Am] [Dm] [G7]
+   [C]V noci uz jsem [E7]skoro spal, [F]muzicek u [Fm]ohne stal
+   [C]znice[Am]hoznic [Dm]prisne [G7]povi[C]dal [C7]
+{end_of_verse}
+
+{soc}
+R:  [F]Ohen v lese, [Fm]to prej ze se
+    [C]se zakonem [C7]tezko snese
+    [F]nacez konev [Fm]tezkou zved
+    [G7]ohen uhasil mi hned
+{eoc}
+
+{start_of_verse}
+2. Potom, kdyz uz chtel jit dal, co je zac mi povidal
+   zakletej hasicu general
+   Furt mi vrta palici tenhle muzik hasici
+   [C]jak tam [Am]vecer [Dm]u oh[G7]ne tak [C]zasmu[H]si[B]le [A]stal
+   s veli[F]kanskou [G7]konvi kropi[C]ci [F] [C]
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Je to skoro k zblazneni, pribeh k neuvereni
+   neni-li to smyslu mameni
+   Vecer uz jsem skoro spal, divnej pan u ohne stal
+   prisnym hlasem toto povidal
+{end_of_verse}
+
+{soc}
+R: Ze prej kdo ze se toula v lese,
+   pod sirakem zimou trese
+   dela vohne u vody
+   nepritel je prirody
+{eoc}
+
+{start_of_verse}
+4. Od te doby, verte mi, nemam pokoj na zemi
+   nebude jiz nikdy blaze mi
+   Byl jsem cundrak, byl jsem tramp, postrach posazavskejch pamp
+   tohle ale jiste bude pro Vas novina
+   od dneska jsem kladny hrdina
+{end_of_verse}
