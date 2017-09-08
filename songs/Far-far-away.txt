@@ -42,7 +42,8 @@ R: And I'm [C]far, [G]far a[Am]way [Am7] with my [F]head up in the [G]clouds
 {chorus}
 
 {start_of_verse}
-4. I've seen the yellow lights go down the Mississippi The Grand Bahama Island stories carry on
+4. I've seen the yellow lights go down the Mississippi
+   The Grand Bahama Island stories carry on
    And though those aligator smiles stay in your memory for a while
    There still seems more to come
 {end_of_verse}
