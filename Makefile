@@ -8,7 +8,7 @@ songs: $(SONGS)
 songbook: build/songbook.pdf
 
 build/songbook.pdf: $(SOURCES)
-	chordpro --config=chordpro.json -G $(sort $(SOURCES)) -o build/songbook.pdf
+	chordpro --toc --config=chordpro.json -G $(sort $(SOURCES)) -o build/songbook.pdf
 
 clean:
 	rm -f build/*.pdf
