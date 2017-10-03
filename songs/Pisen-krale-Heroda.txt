@@ -1,0 +1,76 @@
+{x_revision: 1}
+
+{meta:artist Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
+{meta:source https://tabs.ultimate-guitar.com/a/andrew_lloyd_webber/king_herods_song_ver2_crd.htm}
+
+{meta:key Am}
+{meta:time 4/4}
+
+{title: Pisen krale Heroda}
+{subtitle: Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
+
+{start_of_verse}
+1. [Am]Jezis Kristus? [C]Jake stesti [F]stat ti tvari [C]v tvar.
+   [Am]Cim sis slavu [C]vyslouzil, [F]kde mas svato[C]zar?
+   [Am]Lecis [C]chrome, [F]mrtve probou[C]zis
+   A [Am]taky tvrdis, [C]ze jsi Buh, [F]tak pristup ke mne [C]bliz.
+{end_of_verse}
+
+{soc}
+R: Jsi [C]vic nebo min? S nami [D]zazraky cin!
+   [G]Zahrajem si domino, [C]promen vodu ve vino!
+   Tak [C]nejlepe sam, muzes [D]dokazat nam,
+   [G]Zes Buh, [G7]zidovsky [C]kral.
+{eoc}
+
+{start_of_verse}
+2. Jezis Kristus, hvezda roku! Vsude o ni ctes.
+   Kolik skody nadela, ma-li to byt lez.
+   Jen jednim gestem, bez vetsich cavyku
+   Zahy smetes argumenty vecnych cyniku.
+{end_of_verse}
+
+{soc}
+R: Jsi vic nebo min? S nami zazraky cin!
+   Suchou nohou, jak bys plul, prejdi pres muj swimming pool!
+   Ty nejsi prec hnup vem si na dlani chlup
+   A ja volnost ti dam.
+{eoc}
+
+{start_of_verse}
+3. Tak se nam preved, ukaz aspon triku par!
+   Zadam jen to, oc bych zadal kazdou superstar.
+   Jsem divak, tvuj fanda dychtivy.
+   Tak dokaz, ze jsi mesias, ze´s jiny, nez-li my!
+{end_of_verse}
+
+{soc}
+R: Jo, tak jestli jsi Buh a vsech Zidu kral
+   Nakrm davy chlebem tvym. Stat na usich ti dovolim.
+   Takze rychle se vzchop, jinak z tve show je flop 
+   A ja ztracim tu cas.
+{eoc}
+
+{comment: Outro, as chorus:}
+   Hej, ja vim, [C]ty nejsi Buh, zadny [D}zidovsky kral!
+   Jsi jen splaskla bublina, [C]svicka, ktera zhasina.
+   [C]Ty nejsi Buh, zadny [D]zidovsky kral.
+   [G]Kdo by na tvy bludy [G7]dal!?
+   [G]Bludy!
+
+   Kdo by na bludy dal! 
+   Zmiz! At uz te nevidim!
+   Vypadni z meho zivota!
+
+
+
+
+
+
+
+
+
+
+
+
+
