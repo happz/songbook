@@ -1,0 +1,64 @@
+{x_revision: 1}
+
+{meta:artist Andrew LLoyd Webber && Tim Rice}
+{meta:source https://tabs.ultimate-guitar.com/a/andrew_lloyd_webber/king_herods_song_ver2_crd.htm}
+
+{meta:key Am}
+{meta:time 4/4}
+
+{title: King Herod's song}
+{subtitle: Andrew LLoyd Webber && Tim Rice}
+
+{start_of_verse}
+1. [Am]Jesus I am [C]overjoyed to [F]meet you face to [C]face
+   [Am]You've been getting [C]quite a name [F}all around the [C]place.
+   [Am]Healing [C]cripples [F]raising from the [C]dead
+   [Am]And now I under[C]stand you're God at [F]least that's what you've [C]said...
+{end_of_verse}
+
+{soc}
+R: So [C]you are the Christ you're the [D]great Jesus Christ
+   [G]Prove to me that you've divine - [C]change my water  into  wine.
+   That's [C]all you need do and I'll [D]know it's all true
+   [G]Come on, [G7]King of the [C]Jews!
+{eoc}
+
+{start_of_verse}
+2. Jesus you just won't believe the hit you've made round here
+   You are all we talk about the wonder of the year
+   Oh what a pity if it's all a lie
+   Still I'm sure that you can rock the cynics if you try
+{end_of_verse}
+
+{soc}
+R: So you are the Christ you're the great Jesus Christ
+   Prove to me that you're no fool - walk across my swimming pool
+   If you do that for me I'll let you go free
+   Come on, King of the Jews!
+{eoc}
+
+{start_of_verse}
+3. I only ask things I'd ask any superstar
+   What is it that you have got that puts you where you are?
+   I'm waiting yes I'm a captive fan
+   I'm dying to be shown that you are not just any man
+{end_of_verse}
+
+{soc}
+R: So if you are the Christ yes the great Jesus Christ
+   Feed my household with this bread, you can do it - on your head!
+   Or has something gone wrong ?  Why do you take so long ?
+   Come on, King of the Jews!
+{eoc}
+
+{comment: Outro, as chorus:}
+   Hey! Aren't you [C]scared of me, Christ ?  Mr. [D}Wonderful Christ!
+   [G]You're a joke, you're not the lord! [C]You are nothing but a fraud
+   [C]Take him away - he's got [D]nothing to say
+   [G]Get out you, [G7]King of the
+   [G]Get out you, [G7]King of the
+   Oh [G]Get out you, [G7]King of the [C]Jews!
+
+   Get out of here
+   Get out of here you
+   Get out of my life!
