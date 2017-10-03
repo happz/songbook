@@ -1,17 +1,17 @@
-{x_revision: 1}
+{x_revision: 2}
 
-{meta:artist Andrew LLoyd Webber && Tim Rice}
+{meta:artist Andrew LLoyd Webber & Tim Rice}
 {meta:source https://tabs.ultimate-guitar.com/a/andrew_lloyd_webber/king_herods_song_ver2_crd.htm}
 
 {meta:key Am}
 {meta:time 4/4}
 
 {title: King Herod's song}
-{subtitle: Andrew LLoyd Webber && Tim Rice}
+{subtitle: Andrew LLoyd Webber & Tim Rice}
 
 {start_of_verse}
 1. [Am]Jesus I am [C]overjoyed to [F]meet you face to [C]face
-   [Am]You've been getting [C]quite a name [F}all around the [C]place.
+   [Am]You've been getting [C]quite a name [F]all around the [C]place.
    [Am]Healing [C]cripples [F]raising from the [C]dead
    [Am]And now I under[C]stand you're God at [F]least that's what you've [C]said...
 {end_of_verse}
@@ -52,7 +52,7 @@ R: So if you are the Christ yes the great Jesus Christ
 {eoc}
 
 {comment: Outro, as chorus:}
-   Hey! Aren't you [C]scared of me, Christ ?  Mr. [D}Wonderful Christ!
+   Hey! Aren't you [C]scared of me, Christ ?  Mr. [D]Wonderful Christ!
    [G]You're a joke, you're not the lord! [C]You are nothing but a fraud
    [C]Take him away - he's got [D]nothing to say
    [G]Get out you, [G7]King of the

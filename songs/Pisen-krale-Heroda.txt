@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 
 {meta:artist Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
 {meta:source https://tabs.ultimate-guitar.com/a/andrew_lloyd_webber/king_herods_song_ver2_crd.htm}
@@ -52,25 +52,12 @@ R: Jo, tak jestli jsi Buh a vsech Zidu kral
 {eoc}
 
 {comment: Outro, as chorus:}
-   Hej, ja vim, [C]ty nejsi Buh, zadny [D}zidovsky kral!
+   Hej, ja vim, [C]ty nejsi Buh, zadny [D]zidovsky kral!
    Jsi jen splaskla bublina, [C]svicka, ktera zhasina.
    [C]Ty nejsi Buh, zadny [D]zidovsky kral.
-   [G]Kdo by na tvy bludy [G7]dal!?
+   [G]Kdo by na tvy [G7]bludy dal!?
    [G]Bludy!
 
    Kdo by na bludy dal! 
    Zmiz! At uz te nevidim!
    Vypadni z meho zivota!
-
-
-
-
-
-
-
-
-
-
-
-
-
