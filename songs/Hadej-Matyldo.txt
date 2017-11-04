@@ -1,0 +1,59 @@
+{x_revision: 1}
+
+{meta:artist Karel Hala}
+{meta:source https://pisnicky-akordy.cz/hala-karel/hadej-matyldo#}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Hadej, Matyldo}
+{subtitle: Karel Hala}
+
+{start_of_verse}
+1. [C]Prodiram se [E7]mlazim a [Am]mam tezkou [F]kabelu,
+   [C]do ktere vkladam vse [G7]to, o cem snim,
+   a [C]za hlavu [E7]hazim vse [Am]to, co stoji [F]za belu,
+   [C]pro tebe zpivam a [G7]jahody [C]jim.
+
+   [C]Hadej, Matyldo, [F]hadej, Matyldo,
+   [C]jak mnoho vazi jen [G7]jedinej sen,
+   o tom, ze [C]slozim ti [E7]pisen
+   a [Am]tisen z duse [F]vyzenu,
+   [C]a pak tu tihu uz [G7]vysypu [C]ven.
+{end_of_verse}
+
+{start_of_verse}
+2. Brani se housti a tizi me kabela,
+   do ktere si tajne vkladam to, o cem snim,
+   a tma se na mne spousti a to by delat nemela,
+   nebot tu zpivam a nenajdu rym.
+
+   Hadej, Matyldo, hadej, Matyldo,
+   jak mnoho vazi jen jedinej sen,
+   O tom, ze svita a vita me Matylda a nedele,
+   tolik snad vazi jeden dubovej kmen.
+{end_of_verse}
+
+{start_of_verse}
+3. A tak svetem se vlacim a tahnu s sebou kabelu,
+   do ktere ted vkladam stihly ton,
+   ton, ktery se chveje, chvili plnej nadeje,
+   potom se ztraci a jsem jako on.
+
+   Hadej, Matyldo, hadej, Matyldo,
+   jak mnoho vazi jen jedinej sen,
+   o tom, ze tony, ty tony ti vazu v jedinou kytici
+   a najdu zahon a s notama jen.
+{end_of_verse}
+
+{start_of_verse}
+4. Prodiram se tmou a mlazim, mam pretezkou kabelu,
+   do ktere ukladam ze snu dym,
+   a za hlavu hazim vse, co stoji za belu,
+   pro tebe zpivam a jahody jim.
+
+   Hadej, Matyldo, hadej, Matyldo,
+   jak mnoho vazi sen, kterej ted mam
+   o tom, ze jednou zvednou te moje ruce do nebe
+   a pak te ke snum do kabely dam.
+{end_of_verse}

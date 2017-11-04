@@ -1,0 +1,58 @@
+{x_revision: 1}
+
+{meta:artist Ivan Mladek}
+{meta:source https://pisnicky-akordy.cz/ivan-mladek/dasa-novakova}
+
+{meta:key D}
+{meta:time 2/4}
+
+{title: Dasa Novakova}
+{subtitle: Ivan Mladek}
+
+{start_of_verse}
+1. [Dm]Dasa [A7]Novako[Dm]va [A7] a [Dm]Stana [A7]Polako[Dm]va, [A7]
+   rekly si, [Dm]ze pujdou dnes [A7]po obede [Dm]navsti[D7]vit
+   [G7]kamaradku [C7]Prochazko[F]vou. [A7]
+   Totiz [Dm]Lida [A7]Horako[Dm]va, [A7] rika[Dm]la, ze [A7]Prochazko[Dm]va [A7]
+   si vcera [Dm]zakoupila [A7]fantastickou [Dm]halen[D7]ku,
+   [G7]ktera neni k sehna[C7]ni.
+
+   Tak tedy [F]obe divky [C7]aniz mely [F]pozva[C7]ni
+   [F]za chvili uz [C7]u Prochazku [F]vyzva[A7]ni,
+   [Dm]nikdo ale [A7]neprichazi [Dm]otvi[D7]rat,
+   [G7]jela asi [C7]na vy[F]let.
+{end_of_verse}
+
+{start_of_verse}
+2. Dasa Novakova a Stana Polakova,
+   rekly si: Neni doma, nema cenu vyzvanet,
+   uz toho nechame.
+   Stana Polakova podotkla, ze Prochazkova
+   si stejne mozna jenom take trochu vymysli
+   a nema zadnou halenku.
+
+   Devcatum v tuto chvili nezbyva nic jineho,
+   nez se vratit zase domu do sveho,
+   k Prochazkove zajdou znovu pozitri,
+   je to hezka prochazka.
+{end_of_verse}
+
+{start_of_verse}
+3. Dasa Novakova a Stana Polakova
+   skutecne dva dny na to rozhodly se navstivit
+   jeste jednou Prochazkovou.
+   Stana Polakova podotkla, ze Prochazkova
+   se mozna stale jeste nevratila z vyletu,
+   znovu tam jdou nadarmo?
+
+   Devcata zjistila, kdyz ocitla se na miste,
+   obavy, ze byly plne namiste,
+   k Prochazkove nikdy vice nepujdou,
+   furt je nekde na turach.
+{end_of_verse}
+
+{comment: Rec:}
+
+   Polakova cestou domu povzdychla:
+
+   To jsme to vymnoukly!

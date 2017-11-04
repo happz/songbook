@@ -1,0 +1,55 @@
+{x_revision: 1}
+
+{meta:artist Kapitan Kid}
+{meta:source https://pisnicky-akordy.cz/kapitan-kid/jenofefa}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Jenofefa}
+{subtitle: Kapitan Kid}
+
+{start_of_verse}
+1. [C]Cowboyove slyste pisen [Am]mou,
+   [Dm]nechte chvili tech pitomejch [G7]krav
+   v [C]Utahu jsem nechal lasku [Am]svou
+   [Dm]Jenofefa zve se ona [G7]squaw.
+   [C]Vlasy ma jak reka zvlne[Am]ny,
+   [Dm]oci jako kvety salve[G7]je,
+   [C]pro ty oci ma hned splne[Am]ny,
+   co [Dm]preje si i co nepre[G7]je.
+{end_of_verse}
+
+{soc}
+R: Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo, [G7]prerie [C]spi,
+   Jenofefo, Jeno[Am]fefo, Jeno[Dmi]fefo, [G7]ma pisen [C]zni.
+   [E7]Kdyby mesic nemusel ti [Am]svititi tmou,
+   [E7]jiste by Ti se mnou zpival [Am]pisnicku [G7]mou,
+   Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo - [G7]nashleda[C]nou.
+{eoc}
+
+{start_of_verse}
+2. Abyste to nezapomneli,
+   opakuji, ze jsem ji mel rad,
+   nez mi zacal chodit do zeli,
+   jeden starej dobrej kamarad.
+   Dostal olovenou do tela,
+   Jenofefe zrovna na prahu,
+   do dneska ho nevobrecela,
+   tak jsem radej ujel z Utahu.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Jako kojot vyju na mesic,
+   cowboyove slyste pisen mou,
+   prestoze je jinych na tisic,
+   Jenofefa byla jedinou.
+   Moh bych o tom zpivat jeste dal,
+   kdyby me ma laska slysela,
+   nekdo z Vas mi na krk laso dal,
+   vem to das, rada me nemela.
+{end_of_verse}
+
+{chorus}

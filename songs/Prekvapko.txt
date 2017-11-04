@@ -1,0 +1,73 @@
+{x_revision: 1}
+
+{meta:artist Hop Trop}
+{meta:source https://pisnicky-akordy.cz/hop-trop/prekvapko-i}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Prekvapko}
+{subtitle: Hop Trop}
+
+{start_of_verse}
+1. [C]Zaslech' [Am]jsem, ze [Dm]tuto[G7]ve v [C]Praze [Am]pet na [Dm]Smicho[G7]ve
+   [C]nekdo [Am]streli [Dm]indi[G7]anskou [C]lod, [C7]
+   hned [F]napadlo me [C7]bleskove, ze [F]po dukladny [C7]oprave
+   s ni [F]prekvapim svou [C7]milovanou [F]chot. [G]
+{end_of_verse}
+
+{start_of_verse}
+2. Ja nezavahal chvilicku, co chtel by za tu vecicku,
+   hned s majitelem vyjednavam sumu,
+   rikal, ze diky pozaru ma jen tu lod a kytaru
+   a k ni mu chybi aspon dousek rumu.
+{end_of_verse}
+
+{start_of_verse}
+3. Tak do nejblizsi Jednoty ja zacal nosit hodnoty,
+   byly toho dve narvany tasky,
+   uz mam te, moje kocabko, pro moji drahou prekvapko
+   me stalo tankrat ctyricet dve flasky.
+{end_of_verse}
+
+{soc}
+R: [G]Poplujem [D7]spolu tam dolu tou pereji,
+   prestoze [G]vodakum v CSD nepreji,
+   reka nam [C]pisen [Cm]bude [G]hrat,
+   ze lode [D7]nechtej' nikde [G]brat.
+{eoc}
+
+{start_of_verse}
+4. Den nato jsem pak z moskvice, co pujcujou nam rodice,
+   vyndal dva-tri nepotrebny dily,
+   co neudelat pro lasku, ja pro tebe, muj vobrazku,
+   se nerozmejslim nikdy ani chvili.
+{end_of_verse}
+
+{start_of_verse}
+5. Soupnul jsem do svy aktovky dve fungl novy mlhovky,
+   par soucastek a taky litrik Arvy,
+   vse vymenil za lepidlo, pet lati, srouby, tuzidlo
+   a hlavne pikslu bledemodry barvy.
+{end_of_verse}
+
+{start_of_verse}
+6. Uz starodavna tradice rika, ze prave Luznice
+   vodaku je kazdorocne Mekkou,
+   v den D u mostu v Suchdole:"No to je voda, ty vole!",
+   my zirali nad rozvodnenou rekou.
+{end_of_verse}
+
+{start_of_verse}
+7. Aby ti, co koukaj' okolo, nam nerikali "prdolo",
+   my do svy lodi flegmaticky vlezli,
+   ze prislo velky koupani a vo sutraky drncani,
+   to nevadi, aspon jsme se svezli!
+{end_of_verse}
+
+{soc}
+R: Koukame spolu tam dolu tou pereji
+   na trosku lode, co volne proud nese ji,
+   reka nam pisen bude hrat,
+   zbyla nam zizen akorat.
+{eoc}
