@@ -1,0 +1,50 @@
+{meta:x_revision 1}
+
+{meta:artist Kapitan Kid}
+{meta:source https://pisnicky-akordy.cz/kapitan-kid/jmeli#}
+
+{meta:key F}
+{meta:time 4/4}
+
+{title: Jmeli}
+{subtitle: Kapitan Kid}
+
+{comment: Intro}
+
+   [F] [D7] [G7] [C7]
+
+{start_of_verse}
+1. [F]Vlezeme li [D7]mezi jmeli
+   [G7]vratime se [C7]tezko celi
+   [F]nebot jmeli, [D7]vec to jasna
+   [G7]rostlina je [C7]cizopas[F]na [C]
+{end_of_verse}
+
+{start_of_verse}
+2. Ti co tohle nevedeli
+   pritom chteli trhat jmeli
+   byt i byli chytri pani
+   padli v lese vycucani
+{end_of_verse}
+
+{soc}
+R: [A7]Pro cloveka [Dm]je to klika
+   [A7]remeslo mit [Dm]botanika
+   [G7]jemuz jeho udel veli
+   [C]rozeznati les od jmeli [C+]
+{eoc}
+
+{start_of_verse}
+3. Kdo ma tohle povolani
+   neboji se vycucani
+   at si jmeli cizopasi
+   na nej bude kratky asi.
+{end_of_verse}
+
+{chorus}
+
+{comment: 3rd verse}
+
+{comment: Outro:}
+
+   Jmeeeli, jmeeli...
