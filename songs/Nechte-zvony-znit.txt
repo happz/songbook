@@ -1,0 +1,43 @@
+{meta:x_revision 1}
+
+{meta:artist Marta Kubisova}
+{meta:source https://pisnicky-akordy.cz/marta-kubisova/nechte-zvony-znit}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Nechte zvony znit}
+{subtitle: Marta Kubisova}
+
+{start_of_verse}
+1. [C]Bez tebe mam [G]jenom chvili [C]dlouhou,
+   naplnenou [G]spoustou divnejch [C]snu,
+   v nich [F]stary [C]kostel [G]modli [Am]se mou [G]touhou
+   [C]a ja prosim: [F]nechte zvony [G]znit.
+{end_of_verse}
+
+{start_of_verse}
+2. Chtela bych znat pisen hrozne dlouhou,
+   vyzpivat v ni samotu svych snu,
+   tys naucil me polovinu pouhou
+   a ja prosim: nechte zvony znit.
+{end_of_verse}
+
+{soc}
+R: [Em]Jen zvony vi, co jsi mi [Am]vzal,
+   [D]jen zvony vi, co bude [G]dal.
+{eoc}
+
+{start_of_verse}
+3. Prijde jednou skladatel a basnik,
+   kterej umi sto divnejch snu zit,
+   ma pisen bude rust jak krehkej krapnik
+   a ja prosim: nechte zvony znit,
+   [:
+      a ja prosim: nechte zvony znit.
+   :]
+{end_of_verse}
+
+{chorus}
+
+{comment: 3rd verse}
