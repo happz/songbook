@@ -21,7 +21,7 @@
 {end_of_verse}
 
 {soc}
-R: Mam [C]pro zdravi svuj [Am]vlastni [C]zebrik joulo[A]vy,
+R: Mam [C]pro zdravi svuj [Am]vlastni [C]zebrik joulo[Am]vy,
    [C]nejcestnejsi [Am]mista [Chunk] na nem drzi veprovy. [Riff]
 {eoc}
 
