@@ -1,0 +1,70 @@
+{x_revision: 1}
+
+{meta:artist Lokalka}
+{meta:source https://pisnicky-akordy.cz/lokalka/fit-pro-zivot}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Fit pro zivot}
+{subtitle: Lokalka}
+
+{comment: Riff: C string, from 9th fret}
+
+   99 88 77 66 55 44 33 20 A
+
+{comment: Intro: riff}
+
+{start_of_verse}
+1. [A]Zas mi rika, ze ma neco pro me, a to neco vitamin pry je, [A7]
+   [D]ja vsak nechci zadnej sajrajt v dome, je, [A]prinasi jen hlad a vydaje.
+{end_of_verse}
+
+{soc}
+R: Mam [C]pro zdravi svuj [Am]vlastni [C]zebrik joulo[A]vy,
+   [C]nejcestnejsi [Am]mista [Chunk] na nem drzi veprovy. [Riff]
+{eoc}
+
+{start_of_verse}
+2. K snidani dam sest bulicich ocek, k presnidavce tlacu s cibuli,
+   v poledne se na me smeje bucek, je, po osmi knedlich se jen zahuli.
+{end_of_verse}
+
+{soc}
+R: Pak se chvili soupnu do pricny polohy
+   a snim o rizku silnym jak muj palec u nohy.
+{eoc}
+
+{start_of_verse}
+3. Odpoledni svacinku uz spojim v restauraci primo s veceri,
+   nez to vsechno pekne v klidu dojim, je, s dalsim pivem se uz seseri.
+{end_of_verse}
+
+{soc}
+R: Jestli jeste jedno, co se pta ten vred,
+   to da prece rozum, pingle s IQ 05.
+{eoc}
+
+{start_of_verse}
+4. Nevim, co je mrkev nebo kiwi, soja necht mi kvete na hrobe,
+   z ovoce uznavam jenom slivy, je, v prepalene cire podobe.
+{end_of_verse}
+
+{soc}
+R: Mozna jeste broskev nebo merunku,
+   tak nelelkuj a nalejvej, ty starej sizunku.
+{eoc}
+
+{start_of_verse}
+5. Tak se valim tim priblblym svetem makrobiotickych orgii,
+   nejsem prece zadnej malej kreten, je, na ktereho boudu usiji,
+{end_of_verse}
+
+{soc}
+R: O joulech vim svoje, a to me teda cti,
+   kdo o nich nema pojem, sam si slape po stesti.
+{eoc}
+
+{comment: Rec:}
+
+   Vitaminy z meho domu - pochodem vchod!
