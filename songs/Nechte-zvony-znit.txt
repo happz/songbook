@@ -1,4 +1,4 @@
-{meta:x_revision 1}
+{x_revision 1}
 
 {meta:artist Marta Kubisova}
 {meta:source https://pisnicky-akordy.cz/marta-kubisova/nechte-zvony-znit}
