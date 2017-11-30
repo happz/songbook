@@ -1,3 +1,5 @@
+{x_revision: 1}
+
 {meta:artist Suchy, Slitr}
 {meta:source https://pisnicky-akordy.cz/jiri-suchy-jiri-slitr/kver-a-flaska-ginu}
 

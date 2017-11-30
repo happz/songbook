@@ -1,3 +1,5 @@
+{x_revision: 1}
+
 {meta:artist Lee Hazlewood & Michael Goldson}
 {meta:source https://ukuleleclub.org/boots-made-walkin-lee-hazlewood/}
 

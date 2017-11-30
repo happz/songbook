@@ -1,3 +1,5 @@
+{x_revision: 1}
+
 {meta:artist Karel Kryl}
 {meta:source https://pisnicky-akordy.cz/karel-kryl/ostrov-pokladu}
 

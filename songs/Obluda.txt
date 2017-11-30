@@ -1,3 +1,5 @@
+{x_revision: 1}
+
 {meta:artist Hop Trop}
 {meta:source https://pisnicky-akordy.cz/hop-trop/obluda}
 

@@ -1,3 +1,5 @@
+{x_revision: 1}
+
 {meta:artist Hoboes}
 {meta:source https://pisnicky-akordy.cz/hoboes/tereza-osamely-mesto}
 
