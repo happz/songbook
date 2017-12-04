@@ -1,0 +1,49 @@
+{x_revision: 1}
+
+{meta:artist Plavci}
+{meta:source https://pisnicky-akordy.cz/rangers-plavci/vim-vim}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Vim, vim}
+{subtitle: Plavci}
+
+{soc}
+R: [C]Vim, vim, ze [F]cestou tou
+   nekam [C]musim dale [G7jit,
+   [C]vim, vim, ze [F]ani jednou
+   v zivote [C]nesmim [G7]milou [C]zrit.
+{eoc}
+
+{start_of_verse}
+1. [C]Vse, co jsem [Em]mel, to jsem [F]opus[C]til
+   jen proto, [F]abych videl [G7]sveta [C]kraj,
+   [C]zklamani [Em]vetsi jsem snad [F]neza[C]zil,
+   tak [F]reknete mi, [G7]kde najdu [C]raj.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+2. Skritka, co jsem ho jak dite znal,
+   toho o radu jsem pozadal,
+   on mi na kolena prikazal
+   a tise mi pak povidal:
+{end_of_verse}
+
+{soc}
+R: Vis, vis, ze cestou tou
+   nekam musis dale jit,
+   vis, vis, ze ani jednou
+   v zivote mesmis milou zrit.
+{eoc}
+
+{start_of_verse}
+3. Zpatky chci k tomu, co jsem opustil,
+   ted uz jsem videl sveta kraj,
+   zklamani vetsi jsem snad nezazil,
+   ted vim, vim, ze doma je raj.
+{end_of_verse}
+
+{chorus}
