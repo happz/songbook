@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 
 {meta:artist Plavci}
 {meta:source https://pisnicky-akordy.cz/rangers-plavci/vim-vim}
@@ -11,7 +11,7 @@
 
 {soc}
 R: [C]Vim, vim, ze [F]cestou tou
-   nekam [C]musim dale [G7jit,
+   nekam [C]musim dale [G7]jit,
    [C]vim, vim, ze [F]ani jednou
    v zivote [C]nesmim [G7]milou [C]zrit.
 {eoc}
