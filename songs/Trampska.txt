@@ -1,0 +1,37 @@
+{x_revision: 1}
+
+{meta:artist Bratri Ebenove}
+{meta:source https://pisnicky-akordy.cz/bratri-ebenove/trampska}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Trampska}
+{subtitle: Bratri Ebenove}
+
+{start_of_verse}
+1. [Dm]Mlhavym ranem bose jdou, kanady vrzou na nohou
+   a dalka tolik vzdale[G]na je [Dm]blizka,
+   mesto jsi nechal za zady, zajici delaj' rosady
+   a v krovi nekdo tise [G]Vlajku [Dm]piska,
+   [G]najednou pripadas si nak prima, svobodnej, a tak,
+   tak [Dm]nak, tak [G]nak, nak [Dm]tak.
+{end_of_verse}
+
+{soc}
+R: Pojd [F]dal, s namo se nenudis, pojd dal, rano se probudis,
+   a vedle sebe mas o sisku [Dm]vic,
+   pojd [F]dal, pod sebou pevnou zem, pojd dal, a ciro s melounem,
+   a Meky, Miky, Vrt, a dal uz [G]nic, dal uz [Dm]nic.
+{eoc}
+
+{start_of_verse}
+2. Mlhavy rano za trati, u cesty roste kaprati,
+   sbalis si deku, spacak, celtu, pytel,
+   a kdyby nakej urednik zacal ti rikat, co a jak,
+   sbalis si deku, spacak, celtu, pytel,
+   dulezity je to, co jses, odkud jsi prisel a kam jdes,
+   co jses, kam jdes, co jses.
+{end_of_verse}
+
+{chorus}
