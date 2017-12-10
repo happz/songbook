@@ -1,0 +1,57 @@
+{x_revision: 1}
+
+{meta:artist Spiritual kvintet}
+{meta:source https://pisnicky-akordy.cz/spiritual-kvintet/bim-bam}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Bim bam}
+{subtitle: Spiritual kvintet}
+
+{start_of_verse}
+1. [D]Hvezda zarila a [A7]vzduch se chvel,
+   hvezda zarila a [D]vzduch se chvel,
+   [D7]hvezda zarila a [G]vzduch se chvel,
+   jasna [D]noc nad Be[A7]tlemem [D]stala.
+{end_of_verse}
+
+{soc}
+R: [D]Tichounce tam [G]hra[A]li, [D] na zvonky si [G]zvonili - [A7]bim [D]bam,
+   prisli lide [G]z da[A]li, [D] povidali a [G]chodili [A7]sem [D]tam.
+   [G]O, [D]jak se mate?
+   [G]O, [D]proc se ptate?
+   [D]Tichounce tam [G]hra[A]li, [D] na zvonky si [G]zvonili - [A7]bim [D]bam.
+{eoc}
+
+{start_of_verse}
+2. [:
+     V chleve dite jako z ruze kvet,
+   :]  (3x)
+   kralove vzdavaji mu diky.
+{end_of_verse}
+
+{start_of_verse}
+3. [:
+     Latky, sperky, radost pohledet,
+   :]  (3x)
+   k tomu datle a cerstve fiky.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. [:
+     K ranu vsichni tise usnuli,
+   :]  (3x)
+   k jejich stesti ci k jejich smule.
+{end_of_verse}
+
+{start_of_verse}
+5. [:
+     Hvezda zarila a vzduch se chvel,
+   :]  (3x)
+   pokoj vsem lidem dobre vule.
+{end_of_verse}
+
+{chorus}
