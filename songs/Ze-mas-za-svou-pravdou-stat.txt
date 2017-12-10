@@ -1,0 +1,59 @@
+{x_revision: 1}
+
+{meta:artist Spiritual kvintet}
+{meta:source https://pisnicky-akordy.cz/spiritual-kvintet/za-svou-pravdou-stat#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Za svou pravdou stat}
+{subtitle: Spiritual kvintet}
+
+{start_of_verse}
+1. Mas [Am]vsechny trumfy mladi a [G]ruce cisty [Am]mas,
+   jen [Dm]na tobe ted [Am]zalezi, na [E7]jakou hru se [Am]das.
+{end_of_verse}
+
+{soc}
+R: [:
+     Musis [Am]za svou pravdou [E7]stat, musis za svou pravdou [Am]stat.
+   :]
+{eoc}
+
+{start_of_verse}
+2. Uz vis, kolik co stoji, uz vis, co bys' rad mel,
+   uz ocenil jsi kompromis a parkrat zapomnel.
+{end_of_verse}
+
+{soc}
+R: Ze mas za svou pravdou stat.
+{eoc}
+
+{start_of_verse}
+3. Uz nejsi zadny elev, co prvne do hry vpad',
+   uz vis, jak s kralem ustoupit a jak s nim davat mat.
+{end_of_verse}
+
+{soc}
+R: Takhle za svou pravdou stat.
+{eoc}
+
+{start_of_verse}
+4. Ted prichazi tva chvile, ted nahrava ti cas,
+   tvuj sok poslusne neuhnul - a ty mu zlames vaz!
+{end_of_verse}
+
+{soc}
+R: Nemel za svou pravdou stat.
+{eoc}
+
+{start_of_verse}
+5. Tvuj potomek cti tatu, ty vstepujes mu rad
+   to heslo, ktere dobre znas z dob, kdy jsi byval mlad.
+{end_of_verse}
+
+{comment: 1st verse}
+
+{soc}
+R: Musis za svou pravdou stat.
+{eoc}
