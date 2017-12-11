@@ -1,0 +1,45 @@
+{x_revision: 1}
+
+{meta:artist Spiritual kvintet}
+{meta:source https://pisnicky-akordy.cz/spiritual-kvintet/piskajici-cikan#}
+
+{meta:key C}
+{meta:time 2/4}
+
+{title: Piskajici cikan}
+{subtitle: Spiritual kvintet}
+
+{start_of_verse}
+1. [C]Divka [Dm]louda se [C]vini[Dm]ci, [C]tam, kde [Dm]zidka je [Em]niz[Dm]ka,
+   [C]tam, kde [Dm]stran konci [Em]voni[F]ci, si [C]pisnic[F]ku nekdo [C-F]pis[G}ka.
+{end_of_verse}
+
+{start_of_verse}
+2. Ohledne se a "propana!", v stinu, kde stoji liska,
+   svarneho vidi cikana, jak lezi, pisnicku piska.
+{end_of_verse}
+
+{start_of_verse}
+3. Chvili tam stoji potichu, pisnicka si ji ziska,
+   domu jdou spolu ve smichu, je slyset cikan, jak piska.
+{end_of_verse}
+
+{start_of_verse}
+4. Jenze tatik, jak vidi cikana, pesti do stolu triska,
+   "at tahne pryc, vesta odrana, gros nema, neco ti spiska."
+{end_of_verse}
+
+{start_of_verse}
+5. Ted smutnou dceru ma u vratek, jen Buh vi, jak se ji styska,
+   "kez vrati se mi zas nazpatek ten, ktery v dalce si piska."
+{end_of_verse}
+
+{start_of_verse}
+6. Par sidel honi se po louce, v trave rosa se blyska,
+   cikan, rozmaryn v klobouce, jde dal a pisnicku piska.
+{end_of_verse}
+
+{start_of_verse}
+7. Na zaver zbyva uz jenom rict, v cem je ten kousek stistka:
+   penize casto nejsou nic, ma vic, kdo po svem si piska ...
+{end_of_verse}
