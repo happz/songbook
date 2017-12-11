@@ -11,7 +11,7 @@
 
 {start_of_verse}
 1. [C]Divka [Dm]louda se [C]vini[Dm]ci, [C]tam, kde [Dm]zidka je [Em]niz[Dm]ka,
-   [C]tam, kde [Dm]stran konci [Em]voni[F]ci, si [C]pisnic[F]ku nekdo [C-F]pis[G}ka.
+   [C]tam, kde [Dm]stran konci [Em]voni[F]ci, si [C]pisnic[F]ku nekdo [C-F]pis[G]ka.
 {end_of_verse}
 
 {start_of_verse}
