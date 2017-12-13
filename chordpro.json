@@ -24,6 +24,10 @@
       "separator" : "; ",
       "strict" : true
    },
+   "toc" : {
+     "title" : "Table of Contents",
+     "order": "page"
+   },
    "pdf" : {
       "chordscolumn" : 0,
       "chorus" : {
@@ -41,31 +45,31 @@
       },
       "columnspace" : 20,
       "even-odd-pages" : 1,
-      "fontdir" : null,
+      "fontdir": [ "/usr/share/fonts/liberation" ],
       "fonts" : {
          "chord" : {
-            "name" : "Helvetica-Oblique",
-            "size" : 10
+            "file" : "LiberationSerif-BoldItalic.ttf",
+            "size" : 12
          },
          "comment" : {
-            "name" : "Courier-Oblique",
+            "file" : "LiberationSerif-Regular.ttf",
             "size" : 12,
             "background": "white"
          },
          "tab" : {
-            "name" : "Courier",
+            "file" : "LiberationMono-Regular.ttf",
             "size" : 10
          },
          "text" : {
-            "name" : "Courier",
+            "file" : "LiberationSerif-Regular.ttf",
             "size" : 12
          },
          "title" : {
-            "name" : "Courier-Bold",
+            "file" : "LiberationSerif-Bold.ttf",
             "size" : 22
          },
          "toc" : {
-            "name" : "Courier",
+            "file" : "LiberationSerif-Regular.ttf",
             "size" : 11
          }
       },
@@ -78,8 +82,7 @@
                "%{page}"
             ],
             "subtitle" : null,
-            "title" : null,
-            "toc-title" : "Table of Contents"
+            "title" : null
          },
          "first" : {
             "footer" : null
