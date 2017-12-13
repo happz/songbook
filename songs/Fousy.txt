@@ -1,0 +1,57 @@
+{x_revision: 1}
+
+{meta:artist Poletíme?}
+{meta:source http://www.poletime.info/pisnicka/18-fousy/}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Fousy}
+{subtitle: Poletíme?}
+
+{start_of_verse}
+1. [C]Když se zeptáte, proč nosím plnovous,
+   jestli mě tam pes do brady [D]kous,
+   jestli [F]mám tam vyrá[C]žku, nebo [F]něco schová[C]vám,
+   tak vám [D7]jako odpověď tohle zazpí[G7]vám:
+
+   Mít fous mi přijde normální,
+   nemít fous – nenormální,
+   kašlu na trendy, takhle jsem se narodil,
+   bůh mě stvořil, abych takhle chodil.
+{end_of_verse}
+
+{soc}
+R: [C]Fousy, fousy, fousy, fousy, fous,
+   [C]fousy, fousy, fousy, fousy, [D7]fous,
+   [F]fousy, fousy, [C]fousy, fou[Dm]sy, fousy, fou[C]sy, 
+   [D7]fousy, fousy, fousy, fousy, [G7]fous.
+{eoc}
+
+{start_of_verse}
+2. Za fousy mě z mámy vytáhli,
+   i ve škole mi fousy nechali,
+   první holku jsem sbalil fousem
+   a další už na fous čekaly.
+
+   Podle fousů se lidi poznají,
+   fousy fousům fousy mávají,
+   člověk bez fousů je jako kocour bez fousů,
+   jako kaktus bez fousů, jako Mikuláš bez fousů.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Jednou mně mé fousy zešednou,
+   budou se fousit chůzi šoulavou,
+   pak buďte si jistí za co mě spustí,
+   v díru v zemi vykopanou.
+
+   V nebi všichni svatí fousatí,
+   mně mezi fousaté posadí,
+   budem pak fousy zdravit ty, co si
+   užívají věčné holení na věčnosti.
+{end_of_verse}
+
+{chorus}

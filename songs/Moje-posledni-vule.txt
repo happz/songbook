@@ -1,0 +1,51 @@
+{x_revision: 1}
+
+{meta:artist Poletime?}
+{meta:source http://www.poletime.info/pisnicka/56-moje-posledni-vule/}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Moje posledni vule}
+{subtitle: Poletime?}
+
+{start_of_verse}
+1. [C]Moje posledni vule, az [Am]opustim telo,
+   az [C]sejdete se u rakve, [Am]musi bejt veselo,
+   a [C]nechci pro me smutek, vzdyt [Am]vsude je ho dost,
+   [F]vite, lidi zlati, ja verim na ve[G]cnost.
+{end_of_verse}
+
+{soc}
+R: Ja to [C]vim, ja to [Am]vim, lidska [F]duse zije [G]dal
+   a po[C]dle skutku [Am]svych neko[F]necno prozi[G]va,
+   a pro[C]to nemam [Am]strach, proto[F]ze na misce [G]vah
+   ande[C]le name[Am]ri, tady v [F]lasku se ve[G]ri.
+{eoc}
+
+{start_of_verse}
+2. Moje posledni vule, az zacnu se rozkladat,
+   at udela kazdej to, co ma nejvic rad,
+   vsichni dobre vite, co si dluzite,
+   tak zajdete si do lesa, nebo se opijte.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Moje posledni vule, az budou me strojit,
+   v rakvi barvy vesely chci na sobe mit
+   a hubu at mi do usmevu hezky roztahnou,
+   nevidime se naposled, takze na videnou.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Moje posledni vule, az telo mi spali,
+   mejte se vic radi, vic budte veseli,
+   jsem jen na druhe strane a dobre se tu mam,
+   nekonecnej festak, silenej mejdan.
+{end_of_verse}
+
+{chorus}

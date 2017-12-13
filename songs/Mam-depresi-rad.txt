@@ -1,0 +1,56 @@
+{x_revision: 1}
+
+{meta:artist Poletime?}
+{meta:source http://www.poletime.info/pisnicka/22-mam-depresi-rad/}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Mam depresi rad}
+{subtitle: Poletime?}
+
+{comment: 3x}
+
+  Mam depresi rad!
+
+{soc}
+R. [C]Mam depresi [G]mam, prave [F]jsem ji dostal, radosti ska[G]kam.
+   [C]Jsem depresivni [G]typ, [F]s depresi a skepsi zije se mne [G]lip.
+   [C]Mam depresi [G]rad, vsechno [F]dobry zmizi a okoli zcer[G]na.
+   [C]Jsem depresivni [G]typ, [F]s depresi a skepsi zije se mne [G]lip.
+{eoc}
+
+{start_of_verse}
+1. [Em]Nepodavej mi pomocnou ruku, je podivne vstricne natazena.
+   [Am]Otacim se zpatky k svymu pivu a [Em]ve chvili co mi klesnou ramena,
+   [C]prijde ke mne posel s dobrou zpravou, [Em]je jako strela, dum, dum, dum, dum, dum.
+   [C]Tamhleten pan se sedou hlavou vam [H7]plati tady tenhle velkej rum, rum, rum, rum, rum, rum.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+2. Uzavreny sam v sobe jak v hrobe, nema smysl skoro vubec nic.
+   Procento, jenz budi pocit smyslu, je nula carka nula, nula, nic.
+   Poslouchejte, vsichni kolemjdouci, jste jenom velka banda pitomcu.
+   Je to sice fakt srdcervouci, radostna potravo krkavcu!
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Bratre vezmi za ruku bratra sveho, pozdrav ho pozdravenim deprese.
+   Sestro polib sestru na cestu, kde posledni svicka sama zhasne se.
+   Na konci tunelu je videt svetlo, to neni svetlo, ano, je to tak.
+   S depresi vykrocime za pravdou, ze se proti nam riti vlak, vlak, vlak, vlak, vlak, vlak!
+{end_of_verse}
+
+{chorus}
+
+a tepláky vytáhni po prsa, 
+
+do pytle vod brambor se zašij, 
+
+a přesto budu zpívat, že jsi má. 
+
+žluťoučký kůň úpěl ďábelské ódy
