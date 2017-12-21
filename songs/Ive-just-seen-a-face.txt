@@ -1,0 +1,49 @@
+{x_revision: 1}
+
+{meta:artist The Beatles}
+{meta:source https://tabs.ultimate-guitar.com/tab/the_beatles/ive_just_seen_a_face_ukulele_1667447}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: I've just seen a face}
+{subtitle: The Beatles}
+
+{start_of_verse}
+1. [G]I've just seen a face I can't forget the time or place
+   [G]Where we just [Em]met She's just the girl for me
+   [Em]And want all the world to see we've [C]met
+   [C]mmm-[G]mmm-[D]mmm-m'mmm-[G]mmm
+{end_of_verse}
+
+{start_of_verse}
+2. Had it been another day I might have looked the other way
+   And I'd have never been aware But as it is I'll dream of her tonight
+   di-di-di-di'n'di
+{end_of_verse}
+
+{soc}
+R: [D]Falling, yes I am [C]falling
+   [C]And she keeps [G]calling
+   [C]Me back [G]again
+{eoc}
+
+{start_of_verse}
+3. I have never known The like of this, I've been alone
+   And I have missed things And kept out of sight
+   But other girls were never quite Like this
+   da-da-n'da-da'n'da
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. I've just seen a face I can't forget the time or place
+   Where we just met She's just the girl for me
+   And want all the world to see We've met
+   mmm-mmm-mmm-da-da-da
+{end_of_verse}
+
+{chorus}
+
+{chorus}
