@@ -1,4 +1,5 @@
 {x_revision: 1}
+{x_printed: 1}
 
 {meta:artist Poletime?}
 {meta:source http://www.poletime.info/pisnicka/22-mam-depresi-rad/}

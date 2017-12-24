@@ -1,4 +1,5 @@
 {x_revision: 1}
+{x_printed: 1}
 
 {meta:artist Grossmann, Jiri}
 {meta:source http://ukulelefestival.cz/domains/ukulelefestival.cz/application/files/6514/9747/4069/festival-songbook-2017.pdf}

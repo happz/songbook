@@ -1,4 +1,5 @@
 {x_revision: 1}
+{x_printed: 1}
 
 {meta:artist Michal Tucny}
 {meta:source https://pisnicky-akordy.cz/michal-tucny/blizko-little-big-hornu?q=little%20big%20horn}

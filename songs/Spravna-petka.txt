@@ -1,4 +1,5 @@
 {x_revision: 1}
+{x_printed: 1}
 
 {meta:artist Zvlasny skola}
 {meta:source https://pisnicky-akordy.cz/zvlasny-skola/spravna-petka}

@@ -1,4 +1,5 @@
 {x_revision: 2}
+{x_printed: 2}
 
 {meta:artist Plavci}
 {meta:source https://pisnicky-akordy.cz/rangers-plavci/vim-vim}

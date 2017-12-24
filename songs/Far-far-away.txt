@@ -1,4 +1,5 @@
 {x_revision: 2}
+{x_printed: 2}
 
 {meta:artist Slade}
 {meta:source http://www.guitarparty.com/en/song/far-far-away/}
