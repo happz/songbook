@@ -1,0 +1,49 @@
+{x_revision: 1}
+
+{meta:artist Bonzo Dog Doo Dah Band}
+{meta:source https://scorpexuke.com/song-display.html?song=Urban_Spaceman.pdf&id=780}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: I'm the urban spaceman}
+{subtitle: Bonzo Dog Doo Dah Band}
+
+{comment: Intro, Instrumental & Outro:}
+
+   [G] [G] [A] [A] [C] [D7] [G]
+
+{start_of_verse}
+1. [G]I'm the urban spaceman baby [A]I've got speed
+   [C]I've got [D7]everything I [G]need
+   [G]I'm the urban spaceman baby [A]I can fly
+   I'm a [C]super[D7]sonic [G]guy
+
+   I [Em]don't need pleasure I [C]don't feel [G]pain
+   [C]If you were to [G]knock me down I'd [A]just get up a[D7]gain
+   [G]I'm the urban spaceman baby [A]I'm making out
+   [C]I'm [D7]all [G]about.
+{end_of_verse}
+
+{comment: Instrumental}
+
+{start_of_verse}
+2. I [Em]wake up every morning with a [C]smile upon my [G]face
+   [C]My natural [G]exuberance spills [A]out all over the [D7]place
+{end_of_verse}
+
+{comment: Instrumental}
+
+{start_of_verse}
+3. [G]I'm the urban spaceman I'm in[A]telligent and clean
+   [C]Know [D7]what I [G]mean
+   [G]I'm the urban spaceman as a [A]lover second to none
+   [C]It's a [D7]lot of [G]fun
+
+   I [Em]never let my friends down I've [C]never made a [G]boob
+   [C]I'm a glossy [G]magazine an [A]advert on the [D7]tube
+   [G]I'm the urban spaceman baby [A]here comes the twist
+   [C]I [D7]don't [G]exist
+{end_of_verse}
+
+{comment: Outro}
