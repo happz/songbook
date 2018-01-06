@@ -1,0 +1,38 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist The Monkees}
+{meta:source https://ukutabs.com/t/the-monkees/daydream-believer/?transpose=+5#point}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Daydream believer}
+{subtitle: The Monkees}
+
+{comment: Intro:}
+
+   G C G C
+
+{start_of_verse}
+1. Oh, I could [G]hide 'neath the [Am]wings, of the [Bm]bluebird as she [C]sings
+   The [G]six o'clock a[Em]larm would never [Am]ring [D7]
+   But it [G]rings and I [Am]rise, wipe the [Bm]sleep out of my [C]eyes
+   The [G]shavin' [Em]razor's [Am]cold, [D7]and it [G]stings [G7]
+{end_of_verse}
+
+{soc}
+   [C]Cheer up, [D]sleepy [Bm]Jean, [C]oh what [D7]can it  [Em]mean,   [C]to a 
+   [G]Daydream be[C]liever and a [G]home[Em]coming [A7]queen? [D7]
+{eoc}
+
+{start_of_verse}
+2. You once thought of me, as a white knight on his steed
+   Now you know how happy I can be
+   Oh, and our good times start and end,  without dollar one to spend
+   But how much baby do we really need?
+{end_of_verse}
+
+{chorus}
+
+{chorus}
