@@ -1,0 +1,81 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Reina del Cid}
+{meta:source https://play.riffstation.com/chords-tabs/shot-em-dead-original-song/gaOjVFytuzU}
+
+{meta:key G}
+{meta:time 2/4}
+
+{columns: 2}
+
+{title: Shot'em dead}
+{subtitle: Reina del Cid}
+
+{comment: Intro:}
+
+   2x [G] [Em] [C] [D] [G] [Em] [C] [D]
+
+{start_of_verse}
+1. [G] Number [Em]One was a [C]young girl [D]dream
+   [G] high [Em]school captain on the [C]football [D]team
+   [G] and he was [Em]sweet, baby [C]sweet, he was [D]sweet on
+   [G] me [Em] [C] [D]
+
+   Senior year, oh I wore his ring
+   and I was making him my everything
+   till I caught him in his car 
+   with the homecoming queen
+{end_of_verse}
+
+{soc}
+R: I shot him [C]dead [D]
+   I shot him [C]dead [D]
+   I shot him [Bm]dead [Em]
+   Bang bang, bang bang
+{eoc}
+
+{start_of_verse}
+2. Number Two was a man of the law
+   a million plaques hanging on his wall
+   his name was Rob, drove a Saab
+   was a know-it-all
+
+   One day he took his little magnifying glass
+   and started waving it all over my past
+   he asked questions that he never
+   should have asked
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Number Three was a guy named Fred
+   By now I sure youl see how this one ends
+{end_of_verse}
+
+{chorus}
+
+{column_break}
+
+{start_of_verse}
+4. Number Four was a girl named Jane
+   her hair was red and her face was plain 
+   we read books and we cooked 
+   and she kept me sane
+
+   We were happy for the rest of our lives
+   until the nursing home, age 99
+   I stole her applesauce, 
+   I thought that she gone blind
+{end_of_verse}
+
+   Nope. 
+
+{soc}
+R: She shot me dead 
+   She shot me dead
+   It was just bad luck
+   She shot me dead
+   Bang bang, bang bang
+{eoc}

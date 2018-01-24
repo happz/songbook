@@ -1,0 +1,150 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Jarda Svoboda}
+{meta:source http://benskala.sweb.cz/traband/tx/lovestory.htm}
+
+{meta:key C}
+{meta:time 4/4}
+
+{columns: 2}
+
+{title: Love story}
+{subtitle: Jarda Svoboda}
+
+{start_of_verse}
+1.  Ten [C]den byl smutnej [Em]jako hrob jak [F]vykradenej [C]byt
+    [C]nebylo co [Em]utracet a [F]nebylo kam [C]jit
+    tak jsem [Am]bloumal jen tak [Em]v ulicich a [F]hledal nejakej [C]cil
+    az [C]nakonec jsem [Em]promoklej v [F]kine zakot[C]vil
+{end_of_verse}
+
+{start_of_verse}
+2.  V poloprazdnym sale v sesty rade cislo pet
+    ja sledoval jak na platne se zacal odvijet
+    pribeh znacne sladkej jak nastrazena past
+    v hlavnich rolich ona on a cas
+{end_of_verse}
+
+{start_of_verse}
+3.  Lazensky mesto na konci sezony
+    opusteny hotely a ticho za okny
+    jen poslednich par hostu po kolonadach
+    z kavarenskych stolku vitr smeta prach
+{end_of_verse}
+
+{start_of_verse}
+4.  Tam seda mlady dustojnik s pisarem s holicem
+    a vedou reci o pocasi reci o nicem
+    tu nudu a ten mrtvy klid vsak nahle roztristi
+    kdyz jista mlada dama do mestecka prijizdi
+{end_of_verse}
+
+{start_of_verse}
+5.  Pred zahradni restauraci drozka zacinka
+    ona vystoupi podle tvare rekl bych cizinka
+    a dustojnik se zveda jde k ni a pta se ji
+    smim vam pomoci se zavazadly? ano dekuji
+{end_of_verse}
+
+{start_of_verse}
+6.  Pak mlcky jdou az tam co stoji hotel Orient
+    ona objedna si apartma s vyhlidkou ven
+    z daleka pta se recepcni a ona rekne snad
+    a unava a vycerpani je z jeji tvare znat
+{end_of_verse}
+
+{start_of_verse}
+7.  Dustojnik jindy vyrecny tu stoji bez reci
+    jak zvlastni pocit tajemstvi i pocit bezpeci
+    pak ona plase povi uz budu muset jit
+    snad se jeste uvidime budete-li chtit
+{end_of_verse}
+
+{start_of_verse}
+8.  Nazitri on pred hotelem chodi tam a sem
+    nervozni tu ceka na svou schuzku s osudem
+    az konecne kdyz klekani na vezich odbil zvon
+    ach cekate dlouho spitne ona cely zivot rekne on
+{end_of_verse}
+
+{start_of_verse}
+9.  Cas se nahle zpomalil snad vubec nebezi
+    kdyz oba v tichem hovoru jdou smerem k nabrezi
+    jen stiny lodi kotvicich a svetla mlhava
+    a prvni snih co sotva padne na zem roztava
+{end_of_verse}
+
+{colb}
+
+{start_of_verse}
+10. V jejim pokoji je citit sladka vune parfemu
+    a slova nahle zbytecna uz nejsou k nicemu
+    o tom co se smi a o tom co uz nesmime
+    o zoufalstvi o duvere vine nevine
+{end_of_verse}
+
+{start_of_verse}
+11. K ranu slozi dlane usta tela po boji
+    ona zasepta mu mily odpocivej v pokoji
+    jeste chvili a pak ty i ja zas budem kazdy sam
+    v poledne prvni lodi odplouvam
+{end_of_verse}
+
+{start_of_verse}
+12. V tom prapodivnym biografu ja uz malem usinal
+    ale toho chlapka na tom platne jakobych odnekud znal
+    a pak mi svitlo ja vim uz dobre vim
+    to jsem ja to je muj pribeh a ja ho dopovim
+{end_of_verse}
+
+{start_of_verse}
+13. Kolikrat jsem zrovna jak ten chlap na brehu stal
+    a maval nekomu kdo prave z myho zivota odplouval
+    kolikrat jsem slysel uz budu muset jit
+    kolikrat jsem musel kus sebe odhodit
+{end_of_verse}
+
+{start_of_verse}
+14. Ale tentokrat se s nikym delit nebudu
+    my dva patrime k sobe navzdor osudu
+    vzdyt zivot pripomina jen kratkou prochazku
+    tak malo casu na stesti tak malo na lasku
+{end_of_verse}
+
+{start_of_verse}
+15. Vim ze kdyz projdu jistou ulici v jistem meste v jisty cas
+    tak daleko tak blizko najdu ji tam zas
+    a bude pryc co kdysi bylo co se stalo mezitim
+    cekate dlouho rekne ona cely zivot odpovim
+{end_of_verse}
+
+{comment: Up one step}
+
+{start_of_verse}
+16. To je dum ve kterym bydli tam najdu jeji byt
+    starej hluchej sluha jde mi otevrit
+    pani neni doma rikal kdyz mi v ceste stal
+    ale ja ji videl oknem rekl jsem ja a vtrhnul dal
+{end_of_verse}
+
+{start_of_verse}
+17. A vsechny dvere jedny po druhych jsem potom zotviral
+    prazdny salon prazdna kuchyn prazdna chodba prazdny sal
+    i otevrel jsem posledni a do loznice vnik
+    byla tam a s ni ten dustojnik
+{end_of_verse}
+
+{comment: One step lower}
+
+{start_of_verse}
+18. V rozsvicenym sale bia illusion
+    jsem zbyl jen ja a nevim jsem to ja anebo on
+    v zivote uz tolikrat ten omyl se mi stal
+    ze on ji potkal driv nez ja a ja ji nepotkal
+{end_of_verse}
+
+{start_of_verse}
+19. Tak tady pribeh konci a zbyl jen sentiment
+    tak jeste hudba smycce titulky the end
+{end_of_verse}

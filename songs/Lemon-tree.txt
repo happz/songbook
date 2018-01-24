@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 {x_printed: 1}
 
 {meta:artist Fool's Garden}
@@ -6,6 +6,8 @@
 
 {meta:key Am}
 {meta:time 4/4}
+
+{columns: 2}
 
 {title: Lemon tree}
 {subtitle: Fool's Garden}
@@ -38,6 +40,8 @@ R: I [C]wonder how, I [G]wonder why
    I’m [Am]turning turning turning turning [Emi]turning around
    And [F]all that I can [D]see is just another le[G]mon-tree
 {eoc}
+
+{column_break}
 
 {comment: Intro & sing "Dah... Dadada..."}
 

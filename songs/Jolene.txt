@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 {x_printed: 1}
 
 {meta:artist Dolly Parton}
@@ -6,6 +6,8 @@
 
 {meta:key A}
 {meta:time 4/4}
+
+{columns: 2}
 
 {title: Jolene}
 {subtitle: Dolly Parton}
@@ -25,6 +27,8 @@ R: Jo[Am]lene, Jo[C]lene, Jo[G]lene, Jo[Am]lene
    Your [G]voice is soft like su[Am]mmer rain
    And I can[G]not com[Emi]pete with you, Jo[Am]lene
 {end_of_verse}
+
+{column_break}
 
 {start_of_verse}
 2. He [Am]talks about you [C]in his sleep

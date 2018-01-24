@@ -45,7 +45,10 @@
       },
       "columnspace" : 20,
       "even-odd-pages" : 1,
-      "fontdir": [ "/usr/share/fonts/liberation" ],
+      "fontdir": [
+        "/usr/share/fonts/liberation",
+        "/usr/share/fonts/liberation-fonts"
+      ],
       "fonts" : {
          "chord" : {
             "file" : "LiberationSerif-BoldItalic.ttf",

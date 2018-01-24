@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 {x_printed: 1}
 
 {meta:artist Kapitan Kid}
@@ -6,6 +6,8 @@
 
 {meta:key D}
 {meta:time 4/4}
+
+{columns: 2}
 
 {title: Pisen proti tampingu}
 {subtitle: Kapitan Kid}
@@ -53,6 +55,8 @@
    Ja tuhle pristi nedeli zas nasnidam se v posteli
    a svet zas bude pro me plnej kras.
 {end_of_verse}
+
+{column_break}
 
 {comment: Outro}
 

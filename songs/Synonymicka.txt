@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 {x_printed: 1}
 
 {meta:artist Kryl, Karel}
@@ -6,6 +6,8 @@
 
 {meta:key A}
 {meta:time 4/4}
+
+{columns: 2}
 
 {title: Synonymicka}
 {subtitle: Karel Kryl}
@@ -49,7 +51,7 @@
    a moje prijmeni je fizl.
 {end_of_verse}
 
-{new_page}
+{column_break}
 
 {start_of_verse}
 4. Nesmis se dati spatnou cestou zlakat,

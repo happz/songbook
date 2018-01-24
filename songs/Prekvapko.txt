@@ -1,4 +1,4 @@
-{x_revision: 1}
+{x_revision: 2}
 {x_printed: 1}
 
 {meta:artist Hop Trop}
@@ -6,6 +6,8 @@
 
 {meta:key C}
 {meta:time 4/4}
+
+{columns: 2}
 
 {title: Prekvapko}
 {subtitle: Hop Trop}
@@ -37,6 +39,8 @@ R: [G]Poplujem [D7]spolu tam dolu tou pereji,
    reka nam [C]pisen [Cm]bude [G]hrat,
    ze lode [D7]nechtej' nikde [G]brat.
 {eoc}
+
+{column_break}
 
 {start_of_verse}
 4. Den nato jsem pak z moskvice, co pujcujou nam rodice,
