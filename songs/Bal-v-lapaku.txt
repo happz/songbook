@@ -1,0 +1,77 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Ryvolové}
+{meta:source http://www.velkyzpevnik.cz/zpevnik/ryvolove-bratri/bal-v-lapaku}
+
+{meta:key A}
+{meta:time 3/4}
+
+{title: Bál v lapáku}
+{subtitle: bratři Ryvolové}
+
+{start_of_verse}
+1. Hej, [A]řekni nám, mládenče, [D]vodkuď sem [A]jdeš,
+   že smutný máš voči a [H7]jak tráva [E7]schneš,
+   vždyť [A]ty sem k nám [G]patříš jak [F]žádnej [E7]jinej,
+   jsou [A]nás tu tři stovky, kaž[E7]dej nevin[A]nej.
+{end_of_verse}
+
+{soc}
+R: Jó, [D]vzala to voda a [A]život jde dál,
+   [E7]dneska maj muklové [A]v lapáku [A7]bál.
+   Jó, [D]vzala to voda a [A]život jde dál,
+   [E7]dneska maj muklové v [A]lapá[D]ku [A]bál.
+{eoc}
+
+{start_of_verse}
+2. Já předloni do Friska vagónem jel
+   a na střeše hezoučkej flíček jsem měl,
+   ten bremzák, co přišel, moc vošklivě řval,
+   tak drcnul sem do něj a čert si ho vzal.
+{end_of_verse}
+
+{start_of_verse}
+3. Já dostal jsem žízeň a whisky chtěl pít
+   a splet' jsem si cestu a do banky vlít',
+   leč v sejfu jsem nenašel kořalky hlt,
+   chudáček pokladník měl z toho smrt.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Já vod mládí už jsem zapomnětlivej,
+   tak poslyšte, mládenci, příběh tklivej,
+   jak jsem měl posledně vošklivej pech,
+   když jsem mu zapomněl kudlu v zádech.
+{end_of_verse}
+
+{start_of_verse}
+5. Já farao jednou jsem v salónu hrál
+   a byl sem dost špatnej, ten chlap se mi smál,
+   a to neměl dělat, měl mizernej den,
+   von zvostal tam ležet a já přišel sem.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+6. Já, věřte mi nebo ne, jsem nevinnej,
+   za všechno může můj ksicht zločinnej,
+   že kradu prej koné, to bídná je lež,
+   když běžet chceš se mnou, tak, koníčku, běž.
+{end_of_verse}
+
+{start_of_verse}
+7. Jó, láska je, mládenci, moc hezká věc,
+   jeden jen kejvne a hned spadne klec,
+   milovali jsme se pěknejch pár let,
+   pak jsem mu hodila do kafe jed.
+{end_of_verse}
+
+{chorus}
+
+{comment: 8. = 1.}
+
+{chorus}
