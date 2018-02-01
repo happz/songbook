@@ -1,0 +1,75 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Pavel Dobeš}
+{meta:source https://pisnicky-akordy.cz/pavel-dobes/souhvezdi-zab#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Souhvězdí žab}
+{subtitle: Pavel Dobeš}
+
+{start_of_verse}
+1. Při jednom [Am]ze svých vesmírných [E7]letů,
+   jelikož po nocích cestuji [Am]rád,
+   za zády [C]nechal jsem naši [G]planetu
+   a [F]přistál v souhvězdí [E7]Žab.
+
+   Čekal jsem [Am]hojnost a úrodné [E7]roky,
+   přátelský vzduch a vodu z křišťá[Am]lu,
+   malebnou [G]krajinu s horskými [C]oky,
+   jejichž [H7]odlesky se tříští o ská[E7]lu.
+{end_of_verse}
+
+{soc}
+R: Lítal jsem [Am]nad krajinou až do mra[Dm]ků,
+   honil se s [G7]motýli mezi [C]květy,
+   zpíval jsem [Am]písně hvězdných tulá[F]ků,
+   [Dm7]objevoval vzdálené [E7]světy.
+{eoc}
+
+{start_of_verse}
+2. Stopadesát let jsem prožil v jejich světě
+   za jediný moment svého snu,
+   stopadesát roku byl jsem žábou na planetě
+   s odříznutou cestou ke kosmu.
+
+   A strašná gravitace mne ku prameni táhla,
+   na němž kdo sedí, už nemůže se hnout,
+   na koho kdy ta rozkošnice sáhla,
+   nemůže už nikdy nebem plout.
+{end_of_verse}
+
+{soc}
+R: Nepozná úlety až do mraků,
+   večírky s motýli mezi květy,
+   nerozumí písním tuláků,
+   neupřímně zní jeho věty.
+{eoc}
+
+{start_of_verse}
+3. A jenom budík mi zvoněním naději dává,
+   že rozum zas nalezne svůj klid,
+   jsem přece člověk, copak jsem žába,
+   vždyť já se přece mohu probudit
+
+   a zpívat všem, kteří jste tu
+   a kdo z vás po nocích cestuje rád,
+   až poletíte vstříc novému světu,
+   pozor na souhvězdí Žab.
+{end_of_verse}
+
+{soc}
+R: Lítejte nad krajinou až do mraků,
+   hoňte se s motýli mezi květy,
+   zpívejte písně hvězdných tuláků,
+   objevujte vzdálené světy.
+{eoc}
+
+{start_of_verse}
+*: Souhvězdí [A]Žab se pozná velmi [E7]lehce,
+   tamní obyvatelé jsou zele[Am]ní,
+   zelené [G7]mozky v zelené [C]lebce
+   a [H7]od huby jim šlehají plame[E7]ny. [A]
+{end_of_verse}
