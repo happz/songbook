@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 3/4}
 
+{columns: 2}
+
 {title: Bál v lapáku}
 {subtitle: bratři Ryvolové}
 
@@ -39,6 +41,8 @@ R: Jó, [D]vzala to voda a [A]život jde dál,
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 4. Já vod mládí už jsem zapomnětlivej,

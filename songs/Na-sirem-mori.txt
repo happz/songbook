@@ -19,7 +19,6 @@
 
 {soc}
 R: [:
-     C                        G
      [C]Nic dobrýho z toho nekou[G]ká
      když [Dm]do plachet nám vítr nefou[Am]ká [E7]
    :]

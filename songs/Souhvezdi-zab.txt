@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Souhvězdí žab}
 {subtitle: Pavel Dobeš}
 
@@ -47,6 +49,8 @@ R: Nepozná úlety až do mraků,
    nerozumí písním tuláků,
    neupřímně zní jeho věty.
 {eoc}
+
+{column_break}
 
 {start_of_verse}
 3. A jenom budík mi zvoněním naději dává,
