@@ -1,0 +1,58 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Kapitan Kid}
+{meta:source http://www.velkyzpevnik.cz/zpevnik/kid-kapitan/ctvero-zpusobu-jak-se-zbavit-neverne-zeny}
+
+{meta:key Em}
+{meta:time 2/4}
+
+{title: Čtvero způsobů jak se zbavit nevěrné ženy}
+{subtitle: Kapitán Kid}
+
+{start_of_verse}
+1. [Am]Vytáhnu [F7]z kufru [Am]Mause[F7]ra [Am]a pro[F7]mažu ho [Am]fest,
+   [Am]pak vyhle[F7]dám tě [Am]za še[F7]ra, tak [Am]vo pá[F7]tý, či [Am]v šest.
+   [A]Až budeš tančit s frajerem, s tím [Dm]Vencou co má knír,
+   či s [H7]Vítěslavem Majerem si [E7]vyjdeš na špacír.
+   [A]Hrom tě [C#m7]vem, ty [H7]zlořečená [E7]dívko,
+   [D]už jsi [A]dávno [E7]zralá pro kla[A]dívko,
+   [Dm]abych tě [F7]jím přes ten tvůj [G7]drdol [C]švih,
+   [E7]švih bych tě dřív, kdybych to bejval [Am]stih.
+   |: [F7] [Am] :| 3x
+{end_of_verse}
+
+{start_of_verse}
+2. Nabrousim kudlu z nerezy, abych ti ránu dal,
+   tam, kde už dávno nevězí ten zatracenej sval.
+   Ta Sigma pumpa prokletá tak vysála můj cit,
+   že spadla na mě roleta, černá jak antracit.
+   Srdce tvý, ty zlořečena zmije,
+   za pět piv už kdekdo prodá mi je,
+   nemáš už nic jenom ten jistej flek,
+   abych měl tip, kam bych tě pích, či sek.
+   Jaj!
+{end_of_verse}
+
+{start_of_verse}
+3) Upletu špagát z konopí na ten tvůj outlej krk,
+   okresní soud to pochopí, aniž by vokem mrk.
+   načeš se stane po právu, mě vysvoboděj z muk
+   mí tělo povozí na trámu, ale mě to bude fuk.
+   Hrdlo tvý, ty zlořečená dámo,
+   zdá se býti pro mně přichystáno,
+   až se budeš ze svejch činů třeba kát,
+   zavěsím ten špagát s tebou na akát.
+   Véno, ne!
+{end_of_verse}
+
+{start_of_verse}
+4. Já do broušený karafy naleju vitriol,
+   pak do karafy narafičim puget gladiol.
+   Těch kytek bude, drahý dítě, plnej vobejvák
+   a některá z nich připraví tě, milá vo kejhák.
+   Vo ten kejhák, zlořečená ženo,
+   kterej bejval tvý jediný věno,
+   už nebudu myslet na tvý poprsí
+   a že mě voběsej, mě mrzet nemusí.
+{end_of_verse}
