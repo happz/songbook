@@ -1,7 +1,7 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Ryvolové}
+{artist Ryvolové}
 {meta:source http://www.velkyzpevnik.cz/zpevnik/ryvolove-bratri/bal-v-lapaku}
 
 {meta:key A}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Bál v lapáku}
-{subtitle: bratři Ryvolové}
 
 {start_of_verse}
 1. Hej, [A]řekni nám, mládenče, [D]vodkuď sem [A]jdeš,

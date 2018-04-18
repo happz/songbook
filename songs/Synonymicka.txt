@@ -1,7 +1,7 @@
 {x_revision: 2}
 {x_printed: 1}
 
-{meta:artist Kryl, Karel}
+{artist Kryl, Karel}
 {meta:source https://pisnicky-akordy.cz/karel-kryl/synonymicka}
 
 {meta:key A}
@@ -10,16 +10,12 @@
 {columns: 2}
 
 {title: Synonymicka}
-{subtitle: Karel Kryl}
 
 {start_of_verse}
 1. [Am]Armada miru [G]proudi uli[Am]cemi,
    na lici usmev, [G]vlajky v pravi[Am]cich,
-
-   [:
-     [G]veslari v siku s [F]osmivesli[C]cemi,
-     [Dm]vapenici s [Am]vapnem [E7]na nohavi[Am]cich.
-   :]
+   |: [G]veslari v siku s [F]osmivesli[C]cemi,
+     [Dm]vapenici s [Am]vapnem [E7]na nohavi[Am]cich. :|
 
    A [F]ja jdu [G]s nimi a jsem [C]dojatej [Am]
    a [F]samou [G]radosti bych [C]juchal, [Am]
@@ -30,8 +26,8 @@
 {start_of_verse}
 2. Armada kraci ve volani slavy
    s praporem miru v boji kalenem,
-   [: hasici v prilbach, lide z lesni spravy,
-      za nimi jde vojsko v sate zelenem. :]
+   |: hasici v prilbach, lide z lesni spravy,
+      za nimi jde vojsko v sate zelenem. :|
 
    A ja jdu s nimi v masce mazaka,
    a ja jdu s nimi jako hajnej,
@@ -42,8 +38,8 @@
 {start_of_verse}
 3. Jde predvoj zitrka v sate uredniku,
    vzdy hledet vpred a nikdy dozadu!
-   [: Jdu s nimi tez, ac stojim na chodniku,
-      na vychazku kracim, nebo do sadu. :]
+   |: Jdu s nimi tez, ac stojim na chodniku,
+      na vychazku kracim, nebo do sadu. :|
 
    Po parcich slidim, hraju hlidace,
    nechteje, abych nakou slizl,
@@ -56,8 +52,8 @@
 {start_of_verse}
 4. Nesmis se dati spatnou cestou zlakat,
    nas novy svet se zitra narodi,
-   [: posiluj mir, jen tak se muzes flakat,
-      k shaneni ma cas jen ten, kdo marodi. :]
+   |: posiluj mir, jen tak se muzes flakat,
+      k shaneni ma cas jen ten, kdo marodi. :|
 
    V cekarne tise vrci vysavac,
    to cisti uklizecka behoun,
@@ -68,8 +64,8 @@
 {start_of_verse}
 5. Armada miru: miliony strycku,
    tisice znamych: sami zlodeji,
-   [: zarivy zastup malych zlodejicku
-      vitajicich prichod novych nadeji. :]
+   |: zarivy zastup malych zlodejicku
+      vitajicich prichod novych nadeji. :|
 
    A ja jdu s nimi, nejsem outsider,
    ac sedim v baru, piju tramin,
@@ -80,8 +76,8 @@
 {start_of_verse}
 6. Nadesel cas a voni galejemi,
    jsme predvoj lidu, panstvo z podruhu,
-   [: pochoden pupku, bachor s idejemi,
-      pro tebe a pro mne, pro nas, soudruhu! :]
+   |: pochoden pupku, bachor s idejemi,
+      pro tebe a pro mne, pro nas, soudruhu! :|
 
    Kdo nejde s nami, ten je rozvracec,
    kdo proti nam, je lump a bridil,

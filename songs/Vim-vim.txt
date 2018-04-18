@@ -1,14 +1,13 @@
 {x_revision: 2}
 {x_printed: 2}
 
-{meta:artist Plavci}
+{artist Plavci}
 {meta:source https://pisnicky-akordy.cz/rangers-plavci/vim-vim}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Vim, vim}
-{subtitle: Plavci}
 
 {soc}
 R: [C]Vim, vim, ze [F]cestou tou

@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Michal Tucny}
+{artist Michal Tucny}
 {meta:source https://pisnicky-akordy.cz/michal-tucny/blizko-little-big-hornu?q=little%20big%20horn}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: Blizko Little Big Hornu}
-{subtitle: Michal Tucny}
 
 {start_of_verse}
 1. Tam, kde [Am]lezi Little Big Horn, je indianska zem,

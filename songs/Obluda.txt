@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Hop Trop}
+{artist Hop Trop}
 {meta:source https://pisnicky-akordy.cz/hop-trop/obluda}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: Obluda}
-{subtitle: Hop Trop}
 
 {start_of_verse}
 1. Jo, [Am]dveste nas tam bylo na brize do Ciny

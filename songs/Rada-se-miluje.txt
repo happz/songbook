@@ -1,23 +1,22 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Karel Plihal}
+{artist Karel Plihal}
 {meta:source https://pisnicky-akordy.cz/karel-plihal/rada-se-miluje}
 
 {meta:key A}
 {meta:time 6/8}
 
 {title: Rada se miluje}
-{subtitle: Karel Plihal}
 
 {soc}
-R: [Am]Rada se miluje, [G] rada [C]ji, [F]rada si [Emi]jenom tak [Am]zpiva,
-   vrabci se na plote [G]hada[C]ji, [F]kolik ze [Emi]casu ji [Am]zbyva.
+R: [Am]Rada se miluje, [G] rada [C]ji, [F]rada si [Em]jenom tak [Am]zpiva,
+   vrabci se na plote [G]hada[C]ji, [F]kolik ze [Em]casu ji [Am]zbyva.
 {eoc}
 
 {start_of_verse}
 1. [F]Nez vitr dostrka k [C]utesu [F]tu jeji legracni [C]bar[E7]ku
-   a [Am]Pambu si ve svym [G]note[C]su [F]udela [Emi]jen dalsi [Am]carku.
+   a [Am]Pambu si ve svym [G]note[C]su [F]udela [Em]jen dalsi [Am]carku.
 {end_of_verse}
 
 {chorus}

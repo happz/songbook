@@ -1,7 +1,7 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Jarda Svoboda}
+{artist Jarda Svoboda}
 {meta:source http://benskala.sweb.cz/traband/tx/lovestory.htm}
 
 {meta:key C}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Love story}
-{subtitle: Jarda Svoboda}
 
 {start_of_verse}
 1.  Ten [C]den byl smutnej [Em]jako hrob jak [F]vykradenej [C]byt

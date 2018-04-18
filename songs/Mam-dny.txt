@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Bratri Ebenove}
+{artist Bratri Ebenove}
 {meta:source https://pisnicky-akordy.cz/bratri-ebenove/mam-dny}
 
 {meta:key A}
 {meta:time 6/8}
 
 {title: Mam dny}
-{subtitle: Bratri Ebenove}
 
 {start_of_verse}
 1. Mam [A]dny, kdy vypadam [D]skvele,

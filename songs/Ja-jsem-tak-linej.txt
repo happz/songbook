@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Hoboes}
+{artist Hoboes}
 {meta:source https://pisnicky-akordy.cz/hoboes/ja-jsem-tak-linej}
 
 {meta:time 6/8}
 {meta:key A}
 
 {title: Ja jsem tak linej}
-{subtitle: Hoboes}
 
 {start_of_verse}
 1. [Am]Dole pod aleji, [F]kousek od koleji

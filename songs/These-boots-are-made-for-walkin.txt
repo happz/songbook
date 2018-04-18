@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Lee Hazlewood & Michael Goldson}
+{artist Lee Hazlewood & Michael Goldson}
 {meta:source https://ukuleleclub.org/boots-made-walkin-lee-hazlewood/}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: These boots are made for walkin'}
-{subtitle: Nancy Sinatra}
 
 {comment: Riff: C string, from 9th fret}
 

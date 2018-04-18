@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Kapitan Kid}
+{artist Kapitan Kid}
 {meta:source http://www.velkyzpevnik.cz/zpevnik/kid-kapitan/ctvero-zpusobu-jak-se-zbavit-neverne-zeny}
 
 {meta:key Em}
 {meta:time 2/4}
 
 {title: Čtvero způsobů jak se zbavit nevěrné ženy}
-{subtitle: Kapitán Kid}
 
 {start_of_verse}
 1. [Am]Vytáhnu [F7]z kufru [Am]Mause[F7]ra [Am]a pro[F7]mažu ho [Am]fest,

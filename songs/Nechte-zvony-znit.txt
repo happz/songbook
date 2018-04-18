@@ -1,14 +1,13 @@
 {x_revision 1}
 {x_printed: 1}
 
-{meta:artist Marta Kubisova}
+{artist Marta Kubisova}
 {meta:source https://pisnicky-akordy.cz/marta-kubisova/nechte-zvony-znit}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Nechte zvony znit}
-{subtitle: Marta Kubisova}
 
 {start_of_verse}
 1. [C]Bez tebe mam [G]jenom chvili [C]dlouhou,
@@ -34,9 +33,7 @@ R: [Em]Jen zvony vi, co jsi mi [Am]vzal,
    kterej umi sto divnejch snu zit,
    ma pisen bude rust jak krehkej krapnik
    a ja prosim: nechte zvony znit,
-   [:
-      a ja prosim: nechte zvony znit.
-   :]
+   |: a ja prosim: nechte zvony znit. :|
 {end_of_verse}
 
 {chorus}

@@ -1,18 +1,17 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Traband}
+{artist Traband}
 {meta:source http://www.traband.net/texty/romeo.htm}
 
 {meta:key G}
 {meta:time 4/4}
 
 {title: Romeo a Julie po dvaceti letech}
-{subtitle: Traband}
 
 {start_of_verse}
-1. [G]Rano se [D]probouzi [Emi]jako by v jinem case
-   [G]Kolik je [D]hodin? Pta se. [Emi]Protahne se v pase
+1. [G]Rano se [D]probouzi [Em]jako by v jinem case
+   [G]Kolik je [D]hodin? Pta se. [Em]Protahne se v pase
    [Am]Aby se [G]ujistila, [D]diva se do zrcadla
    [Am]Ne, jeste [G]nevyzila. [D]Ne, jeste neuvadla
 {end_of_verse}
@@ -31,7 +30,7 @@
    Rikam si, paneboze, co jsem to za cloveka?
 {end_of_verse}
 
-   [Emi] [D] [C] [Emi] [D] [C] [Am]
+   [Em] [D] [C] [Em] [D] [C] [Am]
 
 {start_of_verse}
 4. Den za dnem, rok za rokem miji tak jednotvarne

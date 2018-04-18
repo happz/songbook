@@ -1,7 +1,7 @@
 {x_revision: 2}
 {x_printed: 1}
 
-{meta:artist Fool's Garden}
+{artist Fool's Garden}
 {meta:source http://ukulelecheats.com/fools-garden-lemon-tree-ukulele-chords/#}
 
 {meta:key Am}
@@ -10,18 +10,17 @@
 {columns: 2}
 
 {title: Lemon tree}
-{subtitle: Fool's Garden}
 
 {comment: Intro:}
 
-   [Am] [Emi] [Am] [Emi] [Dm] [Emi] [Am]
+   [Am] [Em] [Am] [Em] [Dm] [Em] [Am]
 
 {start_of_verse}
-1. [Am]I’m sitting here in the[Emi]boring room
-   It’s [Am]just another rainy Sunday [Emi]afternoon
-   I’m [Am]wasting my time I got [Emi]nothing to do
-   I’m [Am]hanging around I’m [Emi]waiting for you
-   But [Dm]nothing ever happen[Emi]s and I [Am]wonder
+1. [Am]I’m sitting here in the[Em]boring room
+   It’s [Am]just another rainy Sunday [Em]afternoon
+   I’m [Am]wasting my time I got [Em]nothing to do
+   I’m [Am]hanging around I’m [Em]waiting for you
+   But [Dm]nothing ever happen[Em]s and I [Am]wonder
 {end_of_verse}
 
 {start_of_verse}
@@ -34,10 +33,10 @@
 
 {soc}
 R: I [C]wonder how, I [G]wonder why
-   [Am]Yesterday you told me ’bout the [Emi]blue blue sky
+   [Am]Yesterday you told me ’bout the [Em]blue blue sky
    And [F]all that I can [G]see is just a yellow le[C]mon-tree [G]
    I’m [C]turning my head [G]up and down
-   I’m [Am]turning turning turning turning [Emi]turning around
+   I’m [Am]turning turning turning turning [Em]turning around
    And [F]all that I can [D]see is just another le[G]mon-tree
 {eoc}
 
@@ -71,7 +70,7 @@ R: I [C]wonder how, I [G]wonder why
    [G]And I wonder, wonder
 
    I [C]wonder how, I [G]wonder why
-   [Am]Yesterday you told me ’bout the [Emi]blue blue sky
+   [Am]Yesterday you told me ’bout the [Em]blue blue sky
    And [F]all that I can [G]see
    And [F]all that I can [G]see
    And [F]all that I can [G]see

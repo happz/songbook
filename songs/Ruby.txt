@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Kenny Rogers}
+{artist Kenny Rogers}
 {meta:source http://www.scorpexuke.com/song-display.html?song=Ruby.pdf&id=385}
 
 {meta:key G}
 {meta:time 4/4}
 
 {title: Ruby, don't take your love to town}
-{subtitle: Kenny Rogers}
 
 {start_of_verse}
 1. [Tacet]You've painted up your lips and rolled and curled your tinted [G7]hair [Dm]

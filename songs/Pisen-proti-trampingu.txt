@@ -1,7 +1,7 @@
 {x_revision: 2}
 {x_printed: 1}
 
-{meta:artist Kapitan Kid}
+{artist Kapitan Kid}
 {meta:source https://pisnicky-akordy.cz/kapitan-kid/pisen-proti-trampingu}
 
 {meta:key D}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Pisen proti tampingu}
-{subtitle: Kapitan Kid}
 
 {comment: Intro}
 
@@ -18,7 +17,7 @@
 
 {start_of_verse}
 1. [F]Ja mam nohy bolavy a [G]cesta uz me nebavi,
-   ze [C]dneska pojdu, to [C7]je na be[F]ton. [Dm] [Gmi] [C7]
+   ze [C]dneska pojdu, to [C7]je na be[F]ton. [Dm] [Gm] [C7]
    [F]Nastydlej jsem jako pes, jo [G]do postele [G7]bych si vlez,
    ja [C]misto nosu [C7]mam snad heli[F]gon.
    [A7]Taborak nam zari, [Dm]kytara zacne hrat

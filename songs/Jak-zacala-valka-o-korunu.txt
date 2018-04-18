@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Znouzectnost}
+{artist Znouzectnost}
 {meta:source http://www.supermusic.cz/skupina.php?action=piesen&idpiesne=6988}
 
 {meta:key D}
 {meta:time 4/4}
 
 {title: Jak zacala valka o korunu}
-{subtitle: Znouzectnost}
 
 {start_of_verse}
 1. Na prvniho maje roku nula nula pet

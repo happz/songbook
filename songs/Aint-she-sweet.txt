@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Milton Ager & Jack Yellen}
+{artist Milton Ager & Jack Yellen}
 {meta:source https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/11330041_445868352240978_601540851940312774_n.png?oh=3e6300ccffa584ac3027681f8bdc8cdd&oe=59CC9EAA}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Ain't she sweet}
-{subtitle: Milton Ager & Jack Yellen}
 
 {start_of_verse}
 1. [C]Ain't [Gdim7]she [G7]sweet?

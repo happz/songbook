@@ -1,27 +1,26 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Hoboes}
+{artist Hoboes}
 {meta:source https://pisnicky-akordy.cz/hoboes/tereza-osamely-mesto}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Tereza}
-{subtitle: Hoboes}
 
 {start_of_verse}
 1. Ten [C]den, co vitr [D]listi z mesta [G]sval,
-   muj [C]dzip se vracel, [D]jako by se [Emi]bal,
+   muj [C]dzip se vracel, [D]jako by se [Em]bal,
    ze [C]asfaltovy [D]more odliv [G]ma
    a [C]staj ze svyho [D]kone nepoz[E7]na.
 {end_of_verse}
 
 {soc}
 R: Rekni, [G]kolik je na svete, kolik je takovejch [D]mest,
-   rekni, [Am]kdo by se vracel, vsude je tisice [Emi]cest,
+   rekni, [Am]kdo by se vracel, vsude je tisice [Em]cest,
    tenkrat, [G]kdyz jsi mi, Terezo, rekla, ze rada me [D]mas,
-   tenkrat [Am]ptal jsem se, Terezo, kolik mi polibku [Emi]das
+   tenkrat [Am]ptal jsem se, Terezo, kolik mi polibku [Em]das
    napo[D]sled, napo[G]sled.
 {eoc}
 

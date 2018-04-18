@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist The Beatles}
+{artist The Beatles}
 {meta:source https://tabs.ultimate-guitar.com/tab/the_beatles/ive_just_seen_a_face_ukulele_1667447}
 
 {meta:key G}
 {meta:time 4/4}
 
 {title: I've just seen a face}
-{subtitle: The Beatles}
 
 {start_of_verse}
 1. [G]I've just seen a face I can't forget the time or place

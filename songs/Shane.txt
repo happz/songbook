@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Unknown}
+{artist Unknown}
 {meta:source https://pisnicky-akordy.cz/taborove-pisne/shane}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: Shane}
-{subtitle: Neznamy}
 
 {start_of_verse}
 1. Tam [Am]nekde v dalce ohen kvet', a [G]tak jsem k nemu [Am]jel,

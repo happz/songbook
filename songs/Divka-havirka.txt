@@ -1,20 +1,20 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Karel Kryl}
+{artist Karel Kryl}
 {meta:source https://pisnicky-akordy.cz/karel-kryl/divka-havirka}
 
 {meta:key F}
 {meta:time 4/4}
 
 {title: Divka havirka}
-{subtitle: Karel Kryl}
 
 {start_of_verse}
 1. Ja [F]mel jsem divku havirku, jez [G7]stala mi co model,
    ja [C7]maloval ji na sirku, ja [F]maloval ji [C7]podel,
    ja [F]maloval ji v krunyri a [G7]poslouchal jsem proslov
    na [C7]tema: "Maluj, maliri, a malbou masy [F]oslov!
+
    Jet [A]rodna strana - v umeni nas [Dm]ucitel a radce!"
    Pak [G7]po casovem znameni zaznela Pisen [C7]prace,
    a [F]divka pry mne miluje, tak pristoupila [D7]ke zdi,
@@ -26,10 +26,9 @@
    rac odvrhnouti abstrakce a realizuj trosku,
    ja nehrozim ti kostelem a kaslu na pretvarku,
    ted postojim ti modelem pro Annu Proletarku!
-   [:
-      My vodkou hrdlo prolejem, muj milovanej dedku!"
+
+   |: My vodkou hrdlo prolejem, muj milovanej dedku!"
       Tak vzal jsem kyblik s olejem a proplachl jsem stetku,
       ted bytem voni konina, to stara dela rizky,
-      ja maluju si Lenina a beloskvouci brizky.
-   :]
+      ja maluju si Lenina a beloskvouci brizky. :|
 {end_of_verse}

@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Kapitan Kid}
+{artist Kapitan Kid}
 {meta:source https://pisnicky-akordy.cz/kapitan-kid/krinolina#}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Krinolina}
-{subtitle: Kapitan Kid}
 
 {start_of_verse}
 1. Jsem v [C]krinoline [Am]lariatu [F]oble[G7]cen,
@@ -24,7 +23,7 @@
 {soc}
 R: Mesic me [C]oznackoval cejchovadlem le[G]su,
    sombrero z [D7]kaktusu si vyzyvave [G]nesu,
-   je moje [C]lahev [Cmi]davno [G]dopi[E7]ta
+   je moje [C]lahev [Cm]davno [G]dopi[E7]ta
    a v dali [Am]tepou [D7]kopy[G]ta. [G7]
 {eoc}
 

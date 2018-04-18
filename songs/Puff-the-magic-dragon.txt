@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Peter, Paul and Mary}
+{artist Peter, Paul and Mary}
 {meta:source http://www.scorpexuke.com/song-display.html?song=Puff_The_Magic_Dragon_Peter_Paul_and_Mary.pdf&id=1372}
 
 {meta:key G}
 {meta:time 4/4}
 
 {title: Puff the Magic Dragon}
-{subtitle: Peter, Paul and Mary}
 
 {start_of_verse}
 1. [G]Puff the magic [Bm]dragon [C]lived by the [G]sea

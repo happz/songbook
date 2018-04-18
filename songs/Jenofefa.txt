@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Kapitan Kid}
+{artist Kapitan Kid}
 {meta:source https://pisnicky-akordy.cz/kapitan-kid/jenofefa}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Jenofefa}
-{subtitle: Kapitan Kid}
 
 {start_of_verse}
 1. [C]Cowboyove slyste pisen [Am]mou,
@@ -23,7 +22,7 @@
 
 {soc}
 R: Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo, [G7]prerie [C]spi,
-   Jenofefo, Jeno[Am]fefo, Jeno[Dmi]fefo, [G7]ma pisen [C]zni.
+   Jenofefo, Jeno[Am]fefo, Jeno[Dm]fefo, [G7]ma pisen [C]zni.
    [E7]Kdyby mesic nemusel ti [Am]svititi tmou,
    [E7]jiste by Ti se mnou zpival [Am]pisnicku [G7]mou,
    Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo - [G7]nashleda[C]nou.

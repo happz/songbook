@@ -1,14 +1,13 @@
 {x_revision: 2}
 {x_printed: no}
 
-{meta:artist Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
+{artist Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
 {meta:source https://tabs.ultimate-guitar.com/a/andrew_lloyd_webber/king_herods_song_ver2_crd.htm}
 
 {meta:key Am}
 {meta:time 4/4}
 
 {title: Pisen krale Heroda}
-{subtitle: Andrew LLoyd Webber & Tim Rice & Michael Prostejovsky}
 
 {start_of_verse}
 1. [Am]Jezis Kristus? [C]Jake stesti [F]stat ti tvari [C]v tvar.

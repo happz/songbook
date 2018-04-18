@@ -1,7 +1,7 @@
 {x_revision: 2}
 {x_printed: 1}
 
-{meta:artist Hop Trop}
+{artist Hop Trop}
 {meta:source https://pisnicky-akordy.cz/hop-trop/prekvapko-i}
 
 {meta:key C}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Prekvapko}
-{subtitle: Hop Trop}
 
 {start_of_verse}
 1. [C]Zaslech' [Am]jsem, ze [Dm]tuto[G7]ve v [C]Praze [Am]pet na [Dm]Smicho[G7]ve

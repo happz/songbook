@@ -1,20 +1,19 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Traband}
+{artist Traband}
 {meta:source http://www.traband.net/texty/palis.htm}
 
 {meta:key C}
 {meta:time 4/4}
 
 {title: Palis, doutnas, nehoris}
-{subtitle: Traband}
 
 {start_of_verse}
 1. Mas [C]pro vsechno svy [Dm]duvody a [F]jasnou odpo[C]ved
    A [C]kolem tvyho [Dm]mega-ega [F]otaci se [G]svet
    [C]Vedes reci o [Dm]svobode, ale [F]mas kolem sebe [G]mriz
-   [Am]Palis, [Emi]doutnas, [F] neho[C]ris
+   [Am]Palis, [Em]doutnas, [F] neho[C]ris
 {end_of_verse}
 
 {start_of_verse}

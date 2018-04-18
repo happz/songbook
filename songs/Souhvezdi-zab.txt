@@ -1,7 +1,7 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Pavel Dobeš}
+{artist Pavel Dobeš}
 {meta:source https://pisnicky-akordy.cz/pavel-dobes/souhvezdi-zab#}
 
 {meta:key A}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Souhvězdí žab}
-{subtitle: Pavel Dobeš}
 
 {start_of_verse}
 1. Při jednom [Am]ze svých vesmírných [E7]letů,

@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Traband}
+{artist Traband}
 {meta:source https://pisnicky-akordy.cz/traband/na-sirem-mori#}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: Na širém moři}
-{subtitle: Traband}
 
 {start_of_verse}
 1. [Am]Kdysi a kdesi na širém moři [C]vezl náš koráb do přístavu
@@ -18,10 +17,8 @@
 {end_of_verse}
 
 {soc}
-R: [:
-     [C]Nic dobrýho z toho nekou[G]ká
-     když [Dm]do plachet nám vítr nefou[Am]ká [E7]
-   :]
+R: |: [C]Nic dobrýho z toho nekou[G]ká
+     když [Dm]do plachet nám vítr nefou[Am]ká [E7] :|
 
    [Am]Hou, hou, samá voda
    [G]Hou, hou, samá voda

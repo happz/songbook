@@ -1,14 +1,13 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Spiritual kvintet}
+{artist Spiritual kvintet}
 {meta:source https://pisnicky-akordy.cz/spiritual-kvintet/piskajici-cikan#}
 
 {meta:key C}
 {meta:time 2/4}
 
 {title: Piskajici cikan}
-{subtitle: Spiritual kvintet}
 
 {start_of_verse}
 1. [C]Divka [Dm]louda se [C]vini[Dm]ci, [C]tam, kde [Dm]zidka je [Em]niz[Dm]ka,

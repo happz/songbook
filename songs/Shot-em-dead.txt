@@ -1,7 +1,7 @@
 {x_revision: 1}
 {x_printed: no}
 
-{meta:artist Reina del Cid}
+{artist Reina del Cid}
 {meta:source https://play.riffstation.com/chords-tabs/shot-em-dead-original-song/gaOjVFytuzU}
 
 {meta:key G}
@@ -10,7 +10,6 @@
 {columns: 2}
 
 {title: Shot'em dead}
-{subtitle: Reina del Cid}
 
 {comment: Intro:}
 

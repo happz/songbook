@@ -1,19 +1,16 @@
 {x_revision: 1}
 {x_printed: 1}
 
-{meta:artist Maci}
+{artist Maci}
 {meta:source https://pisnicky-akordy.cz/samson/uz-to-nenapravim}
 
 {meta:key A}
 {meta:time 4/4}
 
 {title: Uz to nenapravim}
-{subtitle: Maci}
 
 {soc}
-   [:
-     [Am]Vapadadapadadapadapap... [D] [F] [E7]vadavaduvam [E7]
-   :]
+   |: [Am]Vapadadapadadapadapap... [D] [F] [E7]vadavaduvam [E7] :|
 {eoc}
 
 {start_of_verse}
