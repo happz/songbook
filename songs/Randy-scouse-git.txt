@@ -1,0 +1,63 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist The Monkees}
+{source https://tabs.ultimate-guitar.com/tab/the_monkees/randy_scouse_git_chords_1087883}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Randy Scouse Git}
+
+{start_of_verse}
+1. She's a [C]wonderful lady and she's [Am]mine, all mine
+   and there [C]doesn't seem a way that she won't [Am]come and lose my mind
+   It's too [F]easy hummin' [Dm]songs to a [F]girl in yellow [Dm]dress
+   it's been a [C]long time since the party and the [Am]room is in a mess
+{end_of_verse}
+
+{start_of_verse}
+2. The four kings of EMI are sitting stately on the floor
+   there are birds out on the sidewalk and a valet at the door
+   he reminds me of a penguin, with few and plastered hair
+   there's talcum powder on the letter, and the birthday boy is there
+{end_of_verse}
+
+{soc}
+R: [Am]Why don't you cut your hair?!
+   Why don't you live up there?!
+   Why don't you do what I do, see what I feel when I care?!
+{eoc}
+
+{start_of_verse}
+3. Now they've darkened all the windows and the seats in naughahyde
+   I've been waiting for an hour, I can't find a place to hide
+   the being known as wonder girl is speaking I believe
+   it's not easy trying to tell her that I shortly have to leave
+{end_of_verse}
+
+{soc}
+R: Why don't you be like me?!
+   Why don't you stop and see?!
+   Why don't you hate who I hate, kill who I kill to be free?!
+{eoc}
+
+{comment: Instrumental and mumbling} [C] [Am] [C] [Am] [F] [Dm] [F] [Dm] [C] [Am]
+
+{soc}
+R: Why don't you cut your hair?!
+   Why don't you live up there?!
+   Why don't you do what I do, see what I feel when I care?!
+{eoc}
+
+{soc}
+R: Why don't you be like me?!
+   Why don't you stop and see?!
+   Why don't you hate who I hate, kill who I kill to be free?!
+{eoc}
+
+{soc}
+R: Why don't you cut your hair?!
+   Why don't you live up there?!
+   Why don't you do what I do, see what I feel when I care?!
+{eoc}
