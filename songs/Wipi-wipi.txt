@@ -1,0 +1,59 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Vojta Kiďák Tomáško}
+{source http://www.velkyzpevnik.cz/zpevnik/kidak-vojta-tomasko/wipi-wipi}
+
+{meta:key G}
+{meta:time 4/4}
+
+{columns: 2}
+
+{title: Wipi wipi}
+
+{start_of_verse}
+1. [G]Z flámu jsem se vracel jak zákon káže zpit,
+   [D]když tu náhle přede mnou [G]na chodník slít'
+   |: [C]malej, [G]bílej, [C]takovej [G]divnej [D]anděl strážnej [G]můj. :|
+{end_of_verse}
+
+{start_of_verse}
+2. A povídá, že někdo asi nahoře to splet',
+   von si přece vybral chlapa, značka: abstinent,
+   |: malej, bílej, takovej divnej anděl strážnej můj. :|
+{end_of_verse}
+
+{soc}
+R: [G]Wipi wipi wipi vap today, [D]wipi wipi wipi [G]vap today,
+   [G]wipi wipi wipi vap today, [D]wipi wipi vap to[G]day.
+{eoc}
+
+{start_of_verse}
+3. Co to piju, proč to piju, čím se nalejvám,
+   nedal pokoj, otravoval, taky ochutnal,
+   |: malej, bílej, takovej divnej anděl strážnej můj. :|
+{end_of_verse}
+
+{start_of_verse}
+4. A potom se děly věci, jak si dvakrát líz',
+   místo aby letěl vzduchem, na zem sebou říz',
+   |: malej, bílej, takovej divnej anděl strážnej můj. :|
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Už jsem z něho na palici, ale jinak fajn,
+   včera mě táhl na ferneta, dneska na mejdan,
+   |: malej, bílej, takovej divnej anděl strážnej můj. :|
+{end_of_verse}
+
+{start_of_verse}
+6. Drží se mě ve dne v noci, nebi za to dík,
+   jako klíště nacucanej anděl notorik,
+   |: malej, bílej, takovej divnej anděl strážnej můj. :|
+{end_of_verse}
+
+{chorus}
+
+   |: [C]malej, [G]bílej, [C]takovej [G]divnej [D]anděl strážnej [G]můj. :|
