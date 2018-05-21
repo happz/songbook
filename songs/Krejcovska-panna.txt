@@ -1,0 +1,50 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Bokomara}
+{source https://pisnicky-akordy.cz/bokomara/krejcovska-panna}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Krejčovská panna}
+
+{start_of_verse}
+1. [D]Marie [D/C]umí tolik [G/H]zvláštních slov:
+   [C]gabardén, [G/H]fiží, průra[D]mek,
+   a koukám [D/C]na ni přes o[G/H]kenní sklo,
+   [C]dveře jsou [A]věčně na zá[D]mek,
+   [C]rozmlouvá [G]se šicím [D]strojem,
+   [C]když šije [G]šaty pro ji[D]né,
+   v ateli[D/C]éru nad po[G/H]kojem
+   [C]schází se [A]Paříž s Londý[D]nem.
+{end_of_verse}
+
+{soc}
+R: [C]Večer si [G]rozsvítí [D]lampion, [C]pustí si [G]ohraný [D]valčík,
+   [C]krejčovské [G]panně se [D]ukloní, |: [C]a potom [G]naboso [D]tančí. :|
+{eoc}
+
+{start_of_verse}
+2. Marie umí tolik zvláštních vět:
+   ten dekolt, madam, hlouběji,
+   tady vám, prosím, aplikuji květ,
+   kosatec značí naději,
+   vyzkouší si cizí šaty
+   a tančí mezi zrcadly,
+   má něžně růžové paty
+   a hrudníček propadlý.
+{end_of_verse}
+
+{start_of_verse}
+3. Marie umí tolik zvláštně žít,
+   tichá jak výhled do dvora,
+   přistřihnout, srovnat, potom zapošít,
+   nůžky, cit, nit pokora,
+   v těch šatech ženy se líbí
+   a inspirují básníky,
+   jenom ji nikdo nepolíbí,
+   má v ústech věčně špendlíky.
+{end_of_verse}
+
+{chorus}
