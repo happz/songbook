@@ -13,7 +13,7 @@
 
 {start_of_verse}
 1. Hej, [A]řekni nám, mládenče, [D]vodkuď sem [A]jdeš,
-   že smutný máš voči a [H7]jak tráva [E7]schneš,
+   že smutný máš voči a [B7]jak tráva [E7]schneš,
    vždyť [A]ty sem k nám [G]patříš jak [F]žádnej [E7]jinej,
    jsou [A]nás tu tři stovky, kaž[E7]dej nevin[A]nej.
 {end_of_verse}

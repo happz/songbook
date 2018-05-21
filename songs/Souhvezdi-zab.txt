@@ -20,7 +20,7 @@
    Čekal jsem [Am]hojnost a úrodné [E7]roky,
    přátelský vzduch a vodu z křišťá[Am]lu,
    malebnou [G]krajinu s horskými [C]oky,
-   jejichž [H7]odlesky se tříští o ská[E7]lu.
+   jejichž [B7]odlesky se tříští o ská[E7]lu.
 {end_of_verse}
 
 {soc}
@@ -74,5 +74,5 @@ R: Lítejte nad krajinou až do mraků,
 *: Souhvězdí [A]Žab se pozná velmi [E7]lehce,
    tamní obyvatelé jsou zele[Am]ní,
    zelené [G7]mozky v zelené [C]lebce
-   a [H7]od huby jim šlehají plame[E7]ny. [A]
+   a [B7]od huby jim šlehají plame[E7]ny. [A]
 {end_of_verse}
