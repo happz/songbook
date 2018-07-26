@@ -3,6 +3,8 @@ SONGS := $(patsubst songs/%.txt,build/%.pdf,$(SOURCES))
 
 OPTIONS := --config=chordpro.json
 
+# .PHONY: build/songbook.pdf
+
 all: songs songbook
 
 songs: $(SONGS)
