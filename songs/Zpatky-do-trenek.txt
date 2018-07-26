@@ -1,0 +1,69 @@
+{x_revision: 1}
+{x_printed: no}
+
+{meta:artist Pavel Dobeš}
+{meta:source https://pisnicky-akordy.cz/pavel-dobes/zpatky-do-trenek#}
+
+{meta:key C}
+{meta:time 4/4}
+
+{columns: 2}
+
+{title: Zpátky do trenek}
+{subtitle: Pavel Dobeš}
+
+{start_of_verse}
+1. Jak z [C]vypitého piva láhev se vrací,
+   jak [Dm]od jihu ptáci, jak do potoka raci,
+   [G7]jako jaro do krajiny modrých [C]pomněnek,[G7]
+   jak [C]vracejí se investice například z ropy,
+   jak [Dm]východ se vrací do Evropy,
+   [G7]my ze slipů vracíme se zpátky do tre[C]nek. [G7]
+{end_of_verse}
+
+{start_of_verse}
+2. Kdo chce s námi světem jít,
+   rovnou nohou vykročit,
+   po dlouhé noci najít zase den,
+   mít hlavu plnou nových myšlenek,
+   ten ať se vrátí do trenek,
+   ať se přidá k dlouhé řadě slavných jmen.
+{end_of_verse}
+
+{soc}
+R: Byl to [Am]Shane, byl to Shane,
+   [Dm]Tom Sawyer i Chamberlain,
+   [G7]Hillary, Amundsen, [C]seržant Pepper, [G7]Manfred Mann,
+   [C]doktor Jekkyl i pan Hyde
+   a [Dm]každý, kdo chce být allright,
+   [G7]na doma i na venek: [C]zpátky [G7]do tre[C]nek.
+{eoc}
+
+{column_break}
+
+{start_of_verse}
+3. Když s dámou chceš prožít něžný sen,
+   pak přes balkon jseš vyhoštěn
+   a ve slipech jdeš noční ulicí,
+   v trenkách je to hned jiná,
+   v trenkách jdeš jak z kasina,
+   už ti chybí jenom chleba s hořčicí.
+{end_of_verse}
+
+{start_of_verse}
+4. Svoboda, svoboda,
+   volnost, rovnost, pohoda,
+   po dlouhé noci přišel nov�� den,
+   nenávist a násilí
+   jsme pohřbili a zapili,
+   defilujem v dlouhé řadě slavných jmen.
+{end_of_verse}
+
+{soc}
+R: Byl to Shane, byl to Shane,
+   Tom Sawyer i Chamberlain,
+   Lomikar, Kozina, i Vlasta Redl ze Zlína,
+   nosí je pražská Sparta,
+   Timur a celá jeho parta,
+   na doma i na venek: zpátky do trenek.
+{eoc}
