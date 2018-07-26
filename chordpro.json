@@ -1,6 +1,30 @@
 {
    "tuning" : [ "G4", "C4", "E4", "A4" ],
    "chords" : [
+     {
+       "name": "C+",
+       "base": 1,
+       "frets": [1, 0, 0, 3],
+       "easy": true
+     },
+     {
+       "name": "Gdim7",
+       "base": 1,
+       "frets": [0, 1, 0, 1],
+       "easy": true
+     },
+     {
+       "name": "D/C",
+       "base": 1,
+       "frets": [2, 0, 2, 5],
+       "easy": false
+     },
+     {
+       "name": "G/H",
+       "base": 1,
+       "frets": [0, 2, 3, 2],
+       "easy": true
+     },
     {
       "name"  : "C",
       "base"  : 1,
