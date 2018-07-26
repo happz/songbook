@@ -24,8 +24,8 @@
 {end_of_verse}
 
 {soc}
-R: V [F#mi]pisni se zpiva, ze zivot je [A]nahoda,
-   [F#mi]a ja si rikam: ty [E7]vole,
+R: V [Gbm]pisni se zpiva, ze zivot je [A]nahoda,
+   [Gbm]a ja si rikam: ty [E7]vole,
    [G]jak je to mozny, ze dva dny [A]jses [D]nahore
    [F]a potom [C]tri tejdny [G]dole?
 {eoc}
