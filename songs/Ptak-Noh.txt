@@ -1,0 +1,69 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Karel Kryl}
+{source https://pisnicky-akordy.cz/karel-kryl/ptak-noh}
+
+{meta:key A}
+{meta:time 4/4}
+
+{columns: 2}
+
+{title: Pták Noh}
+
+[Am] [Dm] [E7] [Am] [Dm] [E7]
+
+{start_of_verse}
+1. Pták [Am]Noh na [Dm]sponě [E7]do vla[Am]sů
+   rval [Dm]polo[E7]shnilou [Am]slámu [G]ze sto[E7]hů,
+   pár [Am]soch a st[Dm]řelky [E7]kompa[Am]sů,
+   jež [Dm]uka[E7]zují k chrá[Am]mu [G]bez bo[E]hů,
+   barevné [Dm]uniformy [Am]mužů a na [Dm]chodníku [Am]dav
+   a stejné tváře stejných [Dm]séri[E7]ových [Am]hlav.
+   [Dm] [E7] [Am] [Dm] [E7]
+{end_of_verse}
+
+{start_of_verse}
+2. Ten sen měl pachuť hororů
+   a šíleného chóru zbabělých
+   a den byl plný praporů
+   a šedivého flóru zemřelých,
+   tři stovky šupinatých schodů a nebe z provazů,
+   setnuté hlavy v galerii obrazů.
+{end_of_verse}
+
+{soc}
+R: Na[Am]místo býčích zápasů [Dm]jen zabíjení [Am]volů,
+   sto pikadorů bez pasů a [Dm]matadoři z [Am]dolů,
+   když [C]dáma růži odhodí, tak [Am]promění se v můru,
+   je černé moře [Dm]bez lodí a [Am]vlci vyjí [E7]vzhůru
+   na čtyři [Am]měsíce.
+{eoc}
+
+{column_break}
+
+{start_of_verse}
+3. Pár hnízd pod sítí z pavučin
+   a utopení ptáci na řece
+   a hvizd, jenž zdusí v kovu čin,
+   než lev se dopotácí do klece,
+   sad keřů se zlatými pruty, hra rtuti v potocích,
+   železné ryby s prašivinou na bocích.
+{end_of_verse}
+
+{start_of_verse}
+4. Pět bran ze slupek ořechů
+   a pod branami kvádry ukryté,
+   zvuk hran už vsákl do mechu
+   a všude stopy sádry rozlité,
+   krkavci nad věžemi hradů a šelmy v podhradí
+   řvou "mene tekel" na krvavém pozadí.
+{end_of_verse}
+
+{soc}
+R: Ta země ve snu spatřená se podobala ghettu,
+   to hrůza s Ďáblem sbratřená bubnuje na roletu
+   v tom snu, v němž mlčky křičíme, že nula pojde z nuly,
+   je [Am]nejhorší, že nevíme, je [Dm]nejhorší, že [Am]nevíme,
+   je nejhorší, že [E7]nevíme, že jsme již [Am]procitnuli...
+{eoc}
