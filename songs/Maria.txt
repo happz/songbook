@@ -1,0 +1,64 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Blondie}
+{source http://ukulelecheats.com/blondie-maria-ukulele-chords/}
+
+{meta:key G}
+{meta:time 4/4}
+
+{columns: 2}
+
+{title: Maria}
+
+{comment: Intro}
+
+   [G] [D] [Em] [D] [G] [D] [C]
+
+{start_of_verse}
+1. She [G]moves like she don't [D]care
+   [Em]Smooth as silk, [C]cool as air
+   [G]Ooh it [D]makes you wanna [Em]cry [C]
+   She [G]doesn't know your [D]name
+   And your [Em]heart beats like a [C]subway train
+   [G]Ooh it [D]makes you wanna [Em]die [C]
+{end_of_verse}
+
+   [G]Ooh, don't you [D]wanna take her? [Em]
+   [G]Ooh, wanna [D]make her all your [Em]own?
+
+{soc}
+R: [G]Maria, [D] you've gotta [Em]see her [C]
+   Go [G]insane and [D]out of your mi[C]nd
+   La[G]tina, [D]Ave Ma[Em]ria [C]
+   A [G]million and [D]one candle [C]lights
+{eoc}
+
+{start_of_verse}
+2. I've [G]seen this thing [D]before
+   [Em]In my best friend and the [C]boy next door
+   [G]Fool for [D]love and fool on fi[Em]re [C]
+   Won't [G]come in from the [D]rain
+   She's [Em]oceans running [C]down the drain
+   [G]Blue as [D]ice and [Dbm]desire [C]
+{end_of_verse}
+
+{column_break}
+
+   [G] [D]Don't you wanna make [Em]her?
+   [G]Ooh, [D]don't you wanna take her [Em]home?
+
+{chorus}
+
+   [G]Ooh, don you [D]wanna take her? [Em]
+   [G]Ooh, wanna [D]make her all your [Em]own?
+
+{start_of_verse}
+3. She [G]walks like she don't [D]care
+   [Em]Walkin' on im[C]ported air
+   [G]Ooh, it [D]makes you wanna [Em]die [C]
+{end_of_verse}
+
+{chorus}
+
+{chorus}
