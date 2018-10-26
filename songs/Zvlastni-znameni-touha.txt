@@ -1,0 +1,39 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Hoboes}
+{source https://pisnicky-akordy.cz/hoboes/zvlastni-znameni-touha#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Zvláštní znamení touha}
+
+{start_of_verse}
+1. [Am]Zase vidím za soumraku [Dm7]na pozadí šedejch mraků
+   [E7]mlčenlivej zástup kama[Am]rádů,
+   [Am]siluety hor a stromů, sta[Dm7]rejch opuštěnejch lomů
+   [G]blíží se s duněním vodo[C]pádů.
+   [A]Táhnou krajinou strží a [Dm]tůní,
+   [G]muži z Shakespearových sone[C]tů,
+   [Am]postavy divnejch tvarů a [Dm6]vůní,
+   [Am]přízraky [E7]červenejch bare[Am]tů.
+{end_of_verse}
+
+{soc}
+R: [C]Zvláštní znamení [Em]touha, [Am]loukám prostřenej [E]stůl,
+   [F]dálka ruku ti [Dm]podá, chleba a [A]sůl,
+   [C]zvláštní znamení [Em]touha, v [Am]nohách tisíce [E]mil,
+   [F]obzor kdo v očích [Dm]nemá, nic nepocho[A]pil.
+{eoc}
+
+{start_of_verse}
+2. Do šedivejch dnů a roků duní rytmus těžkejch kroků,
+   vichřice a sníh je doprovází,
+   maskovaný kombinézy po všech armádách, co lezly
+   úbočíma našich hor a strání.
+   Táhnou krajinou podivný stíny, muži z Shakespearových sonetů
+   za nehtama smutek rodný hlíny, přízraky červenejch baretů.
+{end_of_verse}
+
+{chorus}
