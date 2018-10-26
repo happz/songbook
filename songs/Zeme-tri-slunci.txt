@@ -1,0 +1,58 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Hoboes}
+{source https://pisnicky-akordy.cz/hoboes/zeme-tri-slunci#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Země tří sluncí}
+
+{start_of_verse}
+1. Až jednou [Am]hejna mejch podivnejch [G]ptáků
+   vrátí se [Am]v podzimní větrnej [Cdim]den,
+   zahlédnu [Am]za hradbou dešťovejch [Dm]mraků,
+   jak na mě [F7]kejvá můj bláznivej [E7]sen.
+{end_of_verse}
+
+{start_of_verse}
+2. Až jednou poznám, že sen se mi vrací
+   a bude jasný, že zůstal jsem sám,
+   já přijdu za vámi, bláznivý ptáci,
+             Ami      E7       Ami
+   já přijdu za vámi, jedno je kam.
+{end_of_verse}
+
+{soc}
+R. Nad obzo[Dm]rem troji[G7]ce sluncí [Am]září,
+   vola[Dm]jí hejna [G7]dál nad vo[C]dou [Am]
+   Do smr[Dm]ti snad se [G7]mi nepo[Am]daří
+   dojít [F7]tam, kam [E7]cesty neve[Am]dou.
+   Slepeckou [Dm]hůl v ruce [G]mám nata[Am]ženou,
+   majá[Dm7]ků slune[G7]čních hledám [C]zář [E7]
+   svítí [Dm]tmou pro [G]duši una[As]venou,
+   svítí [C]tmou pro kaž[H7]dou smutnou [E7]tvář.
+   Zas vra[Dm]cí se hej[G]na mejch div[Am]nejch ptáků
+   jako [F7]strom opa[E7]dal kalen[Am]dář.
+{eoc}
+
+{start_of_verse}
+3. Až jednou zjistím, že se ptáci vrací,
+   na křídlech podivnej pozdrav že maj,
+   zavřu za poslední toulavou štací,
+   zavřu ty dveře a řeknu Good bye.
+{end_of_verse}
+
+{start_of_verse}
+4. Až jednou ptáci mi přinesou psaní,
+   na cestu s nima, že musím se dát,
+   zavřu a půjdu bez dlouhýho ptaní,
+   vodejdu s nima a odejdu rád.
+{end_of_verse}
+
+{soc}
+R. Nad obzorem...
+   ...
+   dojít [F7]tam, kam [E7]cesty neve[Am]dou. [Am6]
+{eoc}
