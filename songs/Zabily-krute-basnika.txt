@@ -1,0 +1,53 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Epy de Mye}
+{source https://pisnicky-akordy.cz/epy-de-mye/zabily-basnika#}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Zabily krutě básníka}
+
+{start_of_verse}
+  [D] Zabily [C]krutě básní[D]ka [C]
+  [D] v očích mu [G]zrovna svíti[C]lo [A]
+  [Em] znělo to [C]trochu tlume[G]ně
+  [Hm] jako když [G]pára utí[D]ká.
+{end_of_verse}
+
+{start_of_verse}
+2. Zabily krutě básníka 
+   podle všech starých pravidel 
+   musel být záhy umlčen 
+  ve jménu krásy jazyka. 
+{end_of_verse}
+
+   [A] 
+
+{soc}
+R: [D]Tvůj [F#m]vzácný [Hm]háv [D]křehkou nití je [A]tkán 
+   [D]tvá [F#m]prázdná [Hm]dlaň [D]říká co tě pot[A]ká 
+   [D]máš [F#m]zvláštní [Hm]dar [D]dětských fantazi[A]í 
+   [D]zbý[F#m]vá jen [G]dát [Hm]šanci [A]k prolome[D]ní. [C] [D] [C]
+{eoc}
+
+   [D] [C] [D] [C]
+
+{start_of_verse}
+3. Zabily krutě básníka 
+   na dalších šestadvacet let 
+   zůstane šedá postava 
+   které se těžko uniká. 
+{end_of_verse}
+
+{start_of_verse}
+4. Zabily krutě básníka 
+   v lavici jedné z třetích tříd 
+   nikdo to zdá se nepoznal 
+   nikomu to nic neříká. 
+{end_of_verse}
+ 
+{chorus}
+
+   [D] [C] [D] [D]
