@@ -7,6 +7,8 @@
 {meta:key C}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Kver a flaska dzinu}
 
 {start_of_verse}
@@ -42,6 +44,8 @@ R: [C]Vyfasujem kver a flasku dzinu,
 {chorus}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 4. Svedove si prave pekli veprovy,

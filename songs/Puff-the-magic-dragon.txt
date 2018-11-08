@@ -7,6 +7,8 @@
 {meta:key G}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Puff the Magic Dragon}
 
 {start_of_verse}
@@ -40,6 +42,8 @@ R: Puff the magic dragon lived by the sea
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 3. A dragon lives forever but not so little boys,

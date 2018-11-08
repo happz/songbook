@@ -67,14 +67,14 @@
     ach cekate dlouho spitne ona cely zivot rekne on
 {end_of_verse}
 
+{column_break}
+
 {start_of_verse}
 9.  Cas se nahle zpomalil snad vubec nebezi
     kdyz oba v tichem hovoru jdou smerem k nabrezi
     jen stiny lodi kotvicich a svetla mlhava
     a prvni snih co sotva padne na zem roztava
 {end_of_verse}
-
-{colb}
 
 {start_of_verse}
 10. V jejim pokoji je citit sladka vune parfemu

@@ -17,8 +17,7 @@
    [A]Hrom tě [Dbm7]vem, ty [B7]zlořečená [E7]dívko,
    [D]už jsi [A]dávno [E7]zralá pro kla[A]dívko,
    [Dm]abych tě [F7]jím přes ten tvůj [G7]drdol [C]švih,
-   [E7]švih bych tě dřív, kdybych to bejval [Am]stih.
-   |: [F7] [Am] :| 3x
+   [E7]švih bych tě dřív, kdybych to bejval [Am]stih. [F7] [Am] [F7] [Am] [F7] [Am]
 {end_of_verse}
 
 {start_of_verse}

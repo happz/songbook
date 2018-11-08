@@ -7,6 +7,8 @@
 {meta:key C}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Jenofefa}
 
 {start_of_verse}
@@ -27,6 +29,8 @@ R: Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo, [G7]prerie [C]spi,
    [E7]jiste by Ti se mnou zpival [Am]pisnicku [G7]mou,
    Jeno[C]fefo, Jeno[Am]fefo, Jeno[Dm]fefo - [G7]nashleda[C]nou.
 {eoc}
+
+{column_break}
 
 {start_of_verse}
 2. Abyste to nezapomneli,

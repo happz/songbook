@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Bedna vod whisky}
 
 {start_of_verse}
@@ -49,6 +51,8 @@ R: Tak [A]kopni do ty [D]bedny, at [E7]panstvo nece[A]ka,
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 5. Az kopnes do ty bedny, jak se to delava,

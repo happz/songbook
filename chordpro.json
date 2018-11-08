@@ -2,6 +2,24 @@
    "tuning" : [ "G4", "C4", "E4", "A4" ],
    "chords" : [
      {
+       "name": "A6",
+       "base": 1,
+       "frets": [2, 4, 2, 4],
+       "easy": true
+     },
+     {
+       "name": "Am6",
+       "base": 1,
+       "frets": [2, 4, 2, 3],
+       "easy": true
+     },
+     {
+       "name": "Dm6",
+       "base": 1,
+       "frets": [2, 2, 1, 2],
+       "easy": true
+     },
+     {
        "name": "C+",
        "base": 1,
        "frets": [1, 0, 0, 3],

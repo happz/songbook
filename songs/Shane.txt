@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Shane}
 
 {start_of_verse}
@@ -46,6 +48,8 @@ R: [G]Byl to [Am]Shane, [G]byl to [Am]Shane.
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 5. Mel saty z mody vysly snad, v tom se nevyznam,

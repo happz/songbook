@@ -7,6 +7,8 @@
 {meta:key G}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: I'm the urban spaceman}
 
 {comment: Intro, Instrumental & Outro:}
@@ -26,6 +28,8 @@
 {end_of_verse}
 
 {comment: Instrumental}
+
+{column_break}
 
 {start_of_verse}
 2. I [Em]wake up every morning with a [C]smile upon my [G]face

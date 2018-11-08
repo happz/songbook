@@ -7,6 +7,8 @@
 {meta:key G}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Drak od bile skaly}
 
 {soc}
@@ -34,6 +36,8 @@ R: [G]Drak od bile [Bm]skaly byl [C]kdysi mori [G]kral,
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
    Drak - ten zije stale, ale chlapci starnou dal,

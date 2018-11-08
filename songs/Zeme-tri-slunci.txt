@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Země tří sluncí}
 
 {start_of_verse}
@@ -20,8 +22,7 @@
 2. Až jednou poznám, že sen se mi vrací
    a bude jasný, že zůstal jsem sám,
    já přijdu za vámi, bláznivý ptáci,
-             Ami      E7       Ami
-   já přijdu za vámi, jedno je kam.
+   já přijdu [Em]za vámi, [E7]jedno je [Am]kam.
 {end_of_verse}
 
 {soc}
@@ -32,10 +33,12 @@ R. Nad obzo[Dm]rem troji[G7]ce sluncí [Am]září,
    Slepeckou [Dm]hůl v ruce [G]mám nata[Am]ženou,
    majá[Dm7]ků slune[G7]čních hledám [C]zář [E7]
    svítí [Dm]tmou pro [G]duši una[As]venou,
-   svítí [C]tmou pro kaž[H7]dou smutnou [E7]tvář.
+   svítí [C]tmou pro kaž[B7]dou smutnou [E7]tvář.
    Zas vra[Dm]cí se hej[G]na mejch div[Am]nejch ptáků
    jako [F7]strom opa[E7]dal kalen[Am]dář.
 {eoc}
+
+{column_break}
 
 {start_of_verse}
 3. Až jednou zjistím, že se ptáci vrací,

@@ -7,6 +7,8 @@
 {meta:key C}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Hadej, Matyldo}
 
 {start_of_verse}
@@ -33,6 +35,8 @@
    O tom, ze svita a vita me Matylda a nedele,
    tolik snad vazi jeden dubovej kmen.
 {end_of_verse}
+
+{column_break}
 
 {start_of_verse}
 3. A tak svetem se vlacim a tahnu s sebou kabelu,

@@ -7,6 +7,8 @@
 {meta:key D}
 {meta:time 2/4}
 
+{columns: 2}
+
 {title: Dasa Novakova}
 
 {start_of_verse}
@@ -36,6 +38,8 @@
    k Prochazkove zajdou znovu pozitri,
    je to hezka prochazka.
 {end_of_verse}
+
+{column_break}
 
 {start_of_verse}
 3. Dasa Novakova a Stana Polakova

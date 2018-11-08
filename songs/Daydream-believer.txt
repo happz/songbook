@@ -11,7 +11,7 @@
 
 {comment: Intro:}
 
-   G C G C
+   [G] [C] [G] [C]
 
 {start_of_verse}
 1. Oh, I could [G]hide 'neath the [Am]wings, of the [Bm]bluebird as she [C]sings

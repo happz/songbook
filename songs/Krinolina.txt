@@ -7,6 +7,8 @@
 {meta:key C}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Krinolina}
 
 {start_of_verse}
@@ -26,6 +28,8 @@ R: Mesic me [C]oznackoval cejchovadlem le[G]su,
    je moje [C]lahev [Cm]davno [G]dopi[E7]ta
    a v dali [Am]tepou [D7]kopy[G]ta. [G7]
 {eoc}
+
+{column_break}
 
 {start_of_verse}
 2. Ze pistole uz Oklamohou nezazni,

@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Obluda}
 
 {start_of_verse}
@@ -40,6 +42,8 @@ R: [C]Ja tady [F]nebudu, [C]ja vidim [F]vobludu,
 {end_of_verse}
 
 {chorus}
+
+{column_break}
 
 {start_of_verse}
 4. Nas kormidelnik chrabry je drsna povaha,

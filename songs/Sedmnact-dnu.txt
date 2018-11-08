@@ -7,6 +7,8 @@
 {meta:key A}
 {meta:time 4/4}
 
+{columns: 2}
+
 {title: Sedmnact dnu}
 
 {comment: Intro: single strum}
@@ -32,6 +34,8 @@ R: Sedmnact [A7]dnu mas v patach ostry hochy [Dm]z patroly,
    mas asi [E7]strach, jses ale chlap a despe[Am]rat. [Dm] [Am]
 {eoc}
 
+{column_break}
+
 {start_of_verse}
 2. Jezdci jsou bliz,
    pustinou jenom dusot kopyt zni,
@@ -47,7 +51,8 @@ R: Sedmnact [A7]dnu mas v patach ostry hochy [Dm]z patroly,
 {chorus}
 
 {soc}
-R: Kdo prohrat zna, i kdyz mel predtim v ocich temny strach,
+R: Kdo prohrat zna,
+           i kdyz mel predtim v ocich temny strach,
    ten pravo ma, aby rek serif o nem: Byl to chlap.
    Tak naposled pohled na slunce smutnym usmevem,
    zivot je boj a tys ho predcasne prohral.
