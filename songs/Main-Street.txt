@@ -1,0 +1,47 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Wabi Ryvola}
+{source https://pisnicky-akordy.cz/wabi-ryvola/main-street-najezd-apacu#}
+
+{meta:key A}
+{meta:time 4/4}
+
+{title: Main Street}
+
+{start_of_verse}
+1. [A]Puchejř ten den v [E7]srpnu pálil
+   [D]po Main Streetu [D7]jezdec pádil
+   [A]hej! [E7]už z dálky [A]řval
+   vemte vozy [E7]střelný zbraně
+   [D]jenom kulka [Dm7]platí na ně
+   [A]řval [E7]a pádil [A]dál
+
+   [D]jedou [A]sem [D]berou [A]zem
+   [D]rudá [C]krutá [E7]zvěř
+{end_of_verse}
+
+{start_of_verse}
+2. Indiánský léto zrálo
+   ale nás tam bylo málo
+   čert aby to spral
+   když nemáme střelné zbraně
+   vystrčíme záda na ně
+   ať jen táhnou dál
+
+   duní zem jedou sem
+   rudá krutá zvěř
+{end_of_verse}
+
+{start_of_verse}
+3. Nikdo nezval tváře rudé
+   teď tu jsou a co dál bude
+   ví jen Manitou.
+   Mlčky kolem muži stojí
+   po Main street mrak se rojí
+   psů těch rudejch psů
+
+   nikdo je nezval sem
+   vždyť je to naše zem
+   no tak ať táhnou dál !!
+{end_of_verse}
