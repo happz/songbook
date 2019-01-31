@@ -1,0 +1,85 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Blondie}
+{source https://tabs.ultimate-guitar.com/tab/blondie/call_me_chords_460294}
+
+{meta:key D}
+{meta:time 4/4}
+
+{title: Call me}
+
+{columns: 2}
+
+   [Dm] [Dm] [G] [F] [Dm] [Dm] [F] [C]
+
+{start_of_verse}
+1. [Dm]Color me your color, baby,
+   [Bb]Color me your car
+   [Dm]Color me your color, darling,
+   [Bb]I know who you are
+   [G]Come up off your co[A]lor chart
+   [G]I know where you're [A]coming from 
+{end_of_verse}
+
+{soc}
+R: [Dm]Call me on the [F]line
+   Call me [G]call me any [Bb]anytime
+   Call [Dm]me my [F]love you can
+   [G]call me any [Bb]day or night
+   [Dm]Call me [F] [C]
+{eoc}
+
+{comment: Intro}
+
+{start_of_verse}
+2. Cover me with kisses, baby,
+   Cover me with love
+   Roll me in designer sheets,
+   I'll never get enough
+   Emotions come I don't know why
+   Cover up love's alibi
+{end_of_verse}
+
+{soc}
+R: Call me on the line
+   Call me call me any anytime
+   Call me oh my love
+   When you're ready we can share the wine
+   Call me
+{eoc}
+
+{comment: Intro}
+
+{column_break}
+
+{start_of_verse}
+3. [Em]Ooh, he speaks the [Bb]languages of love
+   [Em]Ooh, amore, [Bm]chiamami chiamami.
+   [F]Oo, appelle-moi [C]mon cherie, appelle-moi
+   Any[Dm]time anyplace anywhere any[Bb]way
+   Any[G]time anyplace anywhere any day, any[A]way
+{end_of_verse}
+
+{comment: Solo:}
+
+  [Em] [Em] [Bm] [Bm] [F] [F] [C] [C] [Dm] [Dm] [Bb] [A] [G] [G] [A] [C]
+
+{soc}
+R: Call [Dm]me my [F]life
+   Call me [G]call me any [Bb]anytime
+   Call [Dm]me for a [F]ride
+   Call me [G]call me for some [Bb]overtime
+
+   Call [Dm]me in my [F]life
+   Call me [G]call me in a sweet [Bb]design
+   Call [Dm]me call [F]me
+   For your [G]lover's lover's [Bb]alibi
+
+   Call [Dm]me on the [F]line
+   Call me [G]call me any [Bb]anytime
+   [Dm]Call me [F]
+   Oh, [G]call me, [Bb]ooh ooh ah.
+   Call [Dm]me my [F]love.
+   Call [G]me [Bb]
+{eoc}
