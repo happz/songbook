@@ -1,0 +1,59 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Robert Křesťan}
+{source http://www.velkyzpevnik.cz/zpevnik/druha-trava/zachranna-mise}
+
+{meta:key Dm}
+{meta:time 4/4}
+
+{title: Záchranná mise}
+
+{start_of_verse}
+1. [Dm]Kapitán se rozloučil a [F]zvedl čepi[C]ci
+   [Dm]pozdravil nás hůlkou a prošel [Am]světni[Dm]cí
+   [F]nepřítel nás obklíčil a [Am]morálka je zlá
+   [Dm]a jízdě ďábel napískal  aby nás [Am]proda[Dm]la
+{end_of_verse}
+
+{start_of_verse}
+2. Na přídi máme mejdan a na zádi jakbysmet
+   a hašiš z vodních dýmek a trávu z cigaret
+   naše mise je tak tajná, že je úplně fuk všem
+   a buď to moře zlomíme nebo ho celý vypijem
+{end_of_verse}
+
+{start_of_verse}
+3. Kdybych já byl tesař řekl seržant s únavou,
+   nikdy bych neviděl tu hrůzu co mi visí  nad hlavou,
+   k čertu s každým hrdinou, to musí být jen cvok,
+   já jsem jenom prostej voják, co mu zbejvá už jen rok
+{end_of_verse}
+
+{start_of_verse}
+4. Albatros už dochystal svou vlastní popravu
+   a plavčík s tváří dítěte mě hvízdal v rukávu
+   kapitánka stárla a bocman  slyšel její brum
+   když jí tajně přikápl do kafe laudánum
+{end_of_verse}
+
+{start_of_verse}
+5. Času nám moc nezbejvá a už se nedá ani krást
+   a dochází nám munice a co je horší taky chlast
+   "tak sbohem" řekl kapitán to je jen malej zádrhel
+   a vod tý doby ho už nikdo nikdy neviděl
+{end_of_verse}
+
+{start_of_verse}
+6. Vzdejte to vy pitomci zaječel kapitán
+   nabíráme vodu ze všech čtyř světovejch stran
+   kormidlo jsme ztratili a komín uletěl
+   a vlny do nás buší jak tisíc lodních děl
+{end_of_verse}
+
+{start_of_verse}
+7. Na pravobok šplhají přešťastní vojáci
+   a námořnici nalevo člun k břehu obrací
+   "jsme zachráněni" křičí a pak je kulky zasáhnou
+   a někde kousek na západ loď mizí pod vodou
+{end_of_verse}
