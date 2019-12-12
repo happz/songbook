@@ -1,0 +1,38 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Druhá tráva}
+{source http://www.velkyzpevnik.cz/zpevnik/druha-trava/marcipan-z-toleda}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: Marcipán z Toleda}
+
+{start_of_verse}
+1. [C]Slepý a s [F]hlavou prázdnou jak schránka na no[C]ty,
+   [C]perem a rukou [Em]ráznou dě[F]sím se samoty.[C]
+   [C]Píšu pozdě k [G]ránu, [F]dobývám předmos[C]tí,
+   [C]roze[Dm]znívám [Em]zlatou [G]hranu [F]omylné všed[C]nosti.
+{end_of_verse}
+
+{start_of_verse}
+2. Píšu jí něžná slova, snít budu později,
+   pohrobek Oblomova, zpíjím se nadějí.
+   S věčností přes rameno sám na rohu ulice
+   vyvolávám slavné jméno pradávné světice.
+{end_of_verse}
+
+{start_of_verse}
+3. Kdysi jsem hledal krásu, na sobě havelok,
+   v mraveništích času i v labyrintech slok.
+   Až jsem potkal kněze, nahý byl jak psí kost.
+   Prý že žádná katecheze nesmaže minulost.
+{end_of_verse}
+
+{start_of_verse}
+4. Končí další září a já, Hvízdavý Dan,
+   s lacinou svatozáří projíždím Irian.
+   |: Ani v té daleké zemi však poklady nehledám,
+   vím, že jednou přiveze mi marcipán z Toleda. :|
+{end_of_verse}
