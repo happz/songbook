@@ -1,0 +1,34 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Mládek, Ivan}
+{source https://zpevniky.com/zpevnik.php?zpevnik=168&pisnicka=200}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Když je v Praze hic}
+
+{start_of_verse}
+1. Kd[G]yž je v Praze abnormální hic,
+   je[G]zdím k vodě až do Měchen[E7]ic,
+   m[Am]ěchěnická pl[D7]ovárna má kr[G]ásné okol[E7]í,
+   j[A7]eště krásnější než bazén v Pr[D7]aze čtyři Podolí.
+
+   M[G]á milá tam se mnou chodívá,
+   chl[G]eba s máslem s sebou nosív[E7]á,
+   [C]a když se jí š[Cm]ipka zdaří, [G]úsměv na rtech m[E7]á,
+   chl[Am]eba s máslem [D7]ukousnout mi d[G]á.
+{end_of_verse}
+
+{start_of_verse}
+2. Když je v Praze abnormální mráz
+   do Měchenic táhne mě to zas,
+   do prázdného bazénu tam s milou chodíme
+   na betonu někde na dně do očí si hledíme.
+
+   Neplavou tam žádné rybičky,
+   dáváme si sladké hubičky,
+   má milá je v dobré míře, úsměv na rtech má,
+   chleba s máslem ukousnout mi dá.
+{end_of_verse}
