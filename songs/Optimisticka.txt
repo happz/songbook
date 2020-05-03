@@ -1,0 +1,58 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Pavel Dobeš}
+{source http://zpevnik.antonio.cz/dobes/optimisticka}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Optimistická}
+
+{start_of_verse}
+1. [G]Život se ubira [G7]takymi cestami,
+   s [C]tak klopenymi zatačka[D]mi,
+   [G]že by to bylo [C]podezřele,
+   [G]kdyby se žilo furt [D]enom vese[G]le.
+{end_of_verse}
+
+{soc}
+R: [G]Šabadaba [D]hej, šabadaba [G]hou,
+   šabadaba [D]hej, šabadaba [G]hou. [D7] [G] [C] [G] [D7] [G]
+{eoc}
+
+{start_of_verse}
+2. Kdo neni přitelem těžkeho ruksaku,
+   zabali plavky a jedě na jih
+   na dovolenu polehku ve vlaku,
+   tak ten ma jistotu, že budě padať snih.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+3. Na kolena křapně, kdo žije pyšně,
+   kdo chce byt vysoko, spadne z višně,
+   rozdrape si pyžamo, kdo chodi spať do ruži,
+   každy ma modřinu, kde si ju zasluži.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Každy raz zakopně, každy raz ušklhně,
+   každemu raz za čas je podivně,
+   chycena zlata ryba urve se z udice,
+   selže vam horoskop kupeny v trafice.
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+5. Dneska vas život do kopca smyči,
+   zitra vas v potoku najdu hasiči,
+   aji z teho potoka je třeba mět
+   optimisticky pohled na svět.
+{end_of_verse}
+
+{chorus}

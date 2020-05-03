@@ -1,0 +1,39 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Pavel Dobeš}
+{source http://zpevnik.antonio.cz/dobes/zatisi-s-cervy}
+
+{meta:key G}
+{meta:time 4/4}
+
+{title: Zátiší s červy}
+
+{start_of_verse}
+1. Když do [G]ovoce dají se [G7]červi,
+   ať už [C7]záměrně anebo náho[G]dou,
+   to aby [D7]sadař si dal do pořádku [C7]nervy,
+   to aby [G]vůbec nepo[D7]čítal s úro[G]dou. [Gdim] [F#dim] [G]
+{end_of_verse}
+
+{soc}
+R: [D7]Tihleti [G]červi jdou všem na [G7]nervy,
+   když si máš [C7]kousnout do plo[G]du,
+   v ústech se [D7]vrtí, když zuby je [C7]čtvrtí
+   a jazyk [G]mělní [D7]na vo[G]du. [F#] [G]
+   [G7]Poslyš, ty [C7]červe tam nahoře v plodu,
+   tohle je [G]moje [D7]vlastnict[G]ví,
+   ať hrom tě [A7]serve za tuhle škodu,
+   co [D]nesnáším, je cizopasnict[D7]ví,
+   kde jsi [G]byl, když jsem [G7]oral,
+   když jsem [C7]sázel, roubo[G]val,
+   seber se, [D7]táhni, odkud jsi [C7]přišel,
+   nikdo [G]tě sem [D]nevo[G]lal.
+{eoc}
+
+{start_of_verse}
+2. Když do [G]ovoce dají se [G7]červi,
+   ať už [C7]záměrně anebo náho[G]dou,
+   to aby [D7]sadař si dal do pořádku [C7]nervy,
+   to aby [G]vůbec nepo[D7]čítal s úro[G]dou. [Gdim] [F#dim] [G]
+{end_of_verse}

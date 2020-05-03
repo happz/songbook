@@ -1,0 +1,49 @@
+{x_revision: 1}
+{x_printed: no}
+
+{artist Neřež}
+{source http://www.velkyzpevnik.cz/zpevnik/nerez/v-poradku}
+
+{meta:key C}
+{meta:time 4/4}
+
+{title: V pořádku}
+
+{start_of_verse}
+1. [C]Za kopci, lesy a [G]řekami, [Am]před lety své ano [E]řekla mi
+   [F]princezna krásná jak z [C]reklamy, [G]teď jsem po [C]čepcem
+   Po svatbě skončila pohádka, sklopil jsem zpětná zrcátka
+   princezna povila robátka a já se stal pitomcem
+{end_of_verse}
+
+{start_of_verse}
+2. U srdce podivný bodání, ode dne, co jsme oddáni
+   nemám už výhodu podání, děravý kapsy, nic víc
+   Prateta, tchýně a zeťáček, střepy pro štěstí a smetáček
+   život je věc plná zatáček, tak zpívám z plných plic:
+{end_of_verse}
+
+{soc}
+R: Že prý pod čepcem je zaslíbená zem
+   tam podlahu mají z papíru a tou jsem propad' sem
+   V krajích pod čepcem je zaslíbená zem
+   hledáme lásku na míru a nikdy nenajdem
+{eoc}
+
+{start_of_verse}
+3. Zasel jsem ředkvičku do řádku, manželka řekla, v pořádku
+   takhle tu žijeme od pátku, sedumkrát za týden
+   Našel jsem v lese pět masáků, manželka řekla: Prasáku
+   červi nám lezou z mrazáku, letěl jsem za nima ven
+{end_of_verse}
+
+{chorus}
+
+{start_of_verse}
+4. Na krk si navlíknu oprátku, manželka řekne, v pořádku
+   život si nepustíš pozpátku, neřekneš ani švec
+   Až budu tuhej v penále, manželka řekne, Zdenále
+   projel jsi poslední finále, konečně spadla klec
+{end_of_verse}
+
+{chorus}
